@@ -1,0 +1,110 @@
+﻿<!--
+
+Project: BEMS IoT Enabled System V 1.0.0
+File Name: Dashboards.cshtml
+Development Environment: Microsoft Visual Studio v16.8.4 Community Version
+Code contributors: Mohammed Ahmed Subani
+ASU ID: 1218278997
+
+File Description:
+The following page returns the dashboards options for users it contains a series of buttons
+    accessing the dashboards namely, Indoor live dahsboards , outdoor live dashboards ,raw
+    data dashboards, aggregate data dashboards, sensing units dashboards, Cyclotron analytics
+    dashboards.
+
+This page contains forms to submit for each button. Buttons redirect to the assigned dashboard.
+
+-->
+
+
+@{
+    ViewData["Title"] = "Dashboards";
+}
+
+<head>
+    <!--CSS styling for the page, and for the loading animation-->
+    <style>
+        body {
+            background-image: url('https://images.unsplash.com/photo-1451187580459-43490279c0fa');
+            background-repeat: no-repeat;
+            background-attachment: fixed;
+            background-size: cover;
+        }
+
+        footer {
+            background-color: white;
+        }
+    </style>
+</head>
+
+<div class="text-left">
+    <h1 class="display-4" style="color: white;">
+        Dashboards
+    </h1>
+</div>
+
+<h2 style="
+        text-align: left;
+        color: white;">
+
+    <strong>Component Description</strong>
+
+</h2>
+<!--Explaining the Dashboards component for users-->
+<p style="color: white;">
+
+    This component is responsible for viewing a visualization of acquired IoT data and collected
+    data through remote services. This component will be implementing a SaaS (software as a service)
+    solution using Cycltron Dashboards open-source software [1]. This component uses the DatabaseUsage
+    services that are connected to JSON database.&nbsp;
+
+</p>
+
+<p>&nbsp;</p>
+
+<br>
+<br>
+<br>
+
+<!--Form to submit to redirect to the assigned dashboard-->
+<form class="p-a-1">
+    <div class="text-center">
+
+        <!--Indoor Live Dashboards button-->
+        <button class="btn btn-primary" asp-action="IndoorParam" method="post" type="submit" style="border:solid;border-color:white;">
+            Indoor Live Dashboards
+        </button>
+
+        <!--Outdoor Live Dashboards button-->
+        <button class="btn btn-primary" asp-action="OutdoorParam" method="post" type="submit" style="border:solid;border-color:white;">
+            Outdoor Live Dashboards
+        </button>
+
+        <!--Aggregate Data Dashboards button-->
+        <button class="btn btn-primary" asp-action="AggregateData" method="post" type="submit" style="border:solid;border-color:white;">
+            Aggregate Data
+        </button>
+
+        <!--Raw Data Dashboards button-->
+        <button class="btn btn-primary" asp-action="RawData" method="post" type="submit" style="border:solid;border-color:white;">
+            Raw Data
+        </button>
+
+        <!--Sensing Units Status Dashboards button-->
+        <button class="btn btn-primary" asp-action="SensingUnits" method="post" type="submit" style="border:solid;border-color:white;">
+            Sensing Units Status
+        </button>
+
+        <!--Cyclotron Analytics Dashboards button-->
+        <button class="btn btn-primary" asp-action="Analytics" method="post" type="submit" style="border:solid;border-color:white;">
+            Dashboards Analytics
+        </button>
+
+    </div>
+</form>
+
+<!--Reference-->
+<p>&nbsp;</p>
+<p style="color: white;">[1] <a href="https://www.cyclotron.io/" style="color:white;">https://www.cyclotron.io/</a></p>
+<p>&nbsp;</p>
+

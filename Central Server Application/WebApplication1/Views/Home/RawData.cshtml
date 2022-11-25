@@ -1,0 +1,98 @@
+﻿<!--
+
+Project: BEMS IoT Enabled System V 1.0.0
+File Name: RawData.cshtml
+Development Environment: Microsoft Visual Studio v16.8.4 Community Version
+Code contributors: Mohammed Ahmed Subani
+ASU ID: 1218278997
+
+File Description:
+The following page returns the raw data in JSON formats Cyclotron dashboards for the current weather,
+    indoor data readings and aggregate data from Annual Climate Data Service.
+
+-->
+@{
+    ViewData["Title"] = "RawData";
+}
+
+
+<head>
+    <!--CSS styling for the page, and for the loading animation-->
+    <!--loadingIframe for iframe after loading-->
+    <!--ImageOnLoad for loading GIF image-->
+    <!--TextOnLoad for loading Text-->
+    <style>
+
+        #loadingIframe {
+            display: flex;
+            justify-content: center;
+            width: 100%;
+            height: 1000px;
+        }
+
+        #ImageOnLoad {
+            display: block;
+            margin-left: auto;
+            margin-right: auto;
+        }
+
+        #TextOnLoad {
+            display: block;
+            margin-left: auto;
+            margin-right: auto;
+        }
+
+        body {
+            background-image: url('https://images.unsplash.com/photo-1451187580459-43490279c0fa');
+            background-repeat: no-repeat;
+            background-attachment: fixed;
+            background-size: cover;
+        }
+
+        footer {
+            background-color: white;
+        }
+    </style>
+    <script type="text/javascript" src="//ajax.googleapis.com/ajax/libs/jquery/1.7.2/jquery.min.js"></script>
+</head>
+
+
+<body>
+    <div class="text-left">
+        <h1 class="display-4" style="color: white;">Raw Data</h1>
+    </div>
+    <h2 style="text-align: left;color: white;"><strong>Component Description</strong></h2>
+    <p style="color: white;">This component is responsible for showing the data in tabular format and is only accessible by technical admins to deal with data as is without any treatment. Data are presented here within a simple tabular format. This component retrieves data from JSON database.</p>
+    <p>&nbsp;</p>
+
+    <div>
+        <!--Image to show while the iframe is being loaded-->
+        <img id="ImageOnLoad" src="~/Images/loading.gif" width="50" height="50" alt="loading gif" />
+
+        <!--text to show while the iframe is being loaded-->
+        <p id="TextOnLoad" style="text-align:center; color: white;">
+            Fetching Data, Please be patient this may take up to 1 minute ....
+        </p>
+
+        <!--Iframe pointing to Cyclotron indoor temp data dashboard-->
+        <iframe src="http://bems-iot.ddnsgeek.com:8080/raw-data-json-view/json-data-sources?live=true"
+                id="loadingIframe"
+                name="targetframe"
+                allowTransparency="true"
+                scrolling="yes"
+                frameborder="0">
+        </iframe>
+
+    </div>
+
+    <!--Script called when iframe is loaded, hide the loading GIF image and its associated text-->
+    <script>
+        $(document).ready(function () {
+            $('#loadingIframe').on('load', function () {
+                $('#ImageOnLoad').hide();
+                $('#TextOnLoad').hide();
+            });
+        });
+    </script>
+
+</body>

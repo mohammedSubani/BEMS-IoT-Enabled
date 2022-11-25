@@ -1,0 +1,41 @@
+﻿<!--
+
+Project: BEMS IoT Enabled System V 1.0.0
+File Name: AuthorizeTest.cshtml
+Development Environment: Microsoft Visual Studio v16.8.4 Community Version
+Code contributors: Mohammed Ahmed Subani
+ASU ID: 1218278997
+
+File Description:
+    The following test will test the Authorize function in Account Management Service
+    for administrator of the system, calling the authorize function should return
+    "Admin" role otherwise the test is unsucessful.
+
+    The test happens on page load calling the associated controller on Account Management Service.
+
+-->
+
+@{
+    ViewData["Title"] = "AuhtorizeTest";
+}
+
+<h1>AuhtorizeTest</h1>
+
+<!--Explaining the test for users-->
+<p>
+    The following test will test the Authorize unit in AccountMgmtSvc for the Admin
+    if the test is sucessful it will return the role in this case it is "Admin", otherwise
+    it will return null value.
+</p>
+
+<!--Showing the test results after calling the controller Account Management Service
+    if the test is true show the "Admin" message otherwise notify tester-->
+@if (ViewBag.AuthorizeMsg != null)
+{
+    <p><strong><span style="color: #ff0000;">@ViewBag.AuthorizeMsg</span></strong></p>
+
+}
+else
+{
+    <p><strong><span style="color: #ff0000;">Getting role from accounts database is unsucessful</span></strong></p>
+}

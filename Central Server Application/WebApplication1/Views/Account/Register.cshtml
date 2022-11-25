@@ -1,0 +1,117 @@
+﻿<!--
+
+Project: BEMS IoT Enabled System V 1.0.0
+File Name: Register.cshtml
+Development Environment: Microsoft Visual Studio v16.8.4 Community Version
+Code contributors: Mohammed Ahmed Subani
+ASU ID: 1218278997
+
+File Description:
+The following page is the register page. It will be redirected to when users click on the
+register button on the main navigation bar and when registration is incomplete notifying the
+user why the registration was unsucessful.
+
+This page contains registration form with registration data to submit.
+
+Old Functions:None
+New Functions:matchingPwd
+Modified Functions:None
+
+-->
+
+@{
+    ViewData["Title"] = "Register";
+}
+<head>
+    <!--Passwords matching function -->
+    <!--
+    Script Description:
+    The following script is called upon user leaving password fields it will
+    check if the passwords match and notify the user for the result.
+
+    Parameters: void
+    Returns: void
+    -->
+    <script>
+        var matchingPwd = function () {
+            if (document.getElementById('password').value ==
+                document.getElementById('re_password').value) {
+                document.getElementById('pwdMessage').style.color = 'green';
+                document.getElementById('pwdMessage').innerHTML = '✓ Passwords matched';
+            } else {
+                document.getElementById('pwdMessage').style.color = 'red';
+                document.getElementById('pwdMessage').innerHTML = '✕ Passwords not matching';
+            }
+        }
+    </script>
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/2.1.1/jquery.min.js"></script>
+</head>
+
+<body>
+
+    <!--Explaining the registration component for users-->
+    <h2 style="text-align: left;"><strong>Component Description</strong></h2>
+    <p>
+        This component implements the functionality of registeration to the system,
+        this component uses internal encrypt/decrypt functions and internal validations
+        such as email, username and password validations. This component uses DatabaseUsage
+        service connecting to JSON database to register and retrieve information about users
+        of the web application.
+    </p>
+    <p style="text-align: left;">&nbsp;</p>
+
+
+    <!--If users are authenticated this page is not accessible-->
+    @if (!User.Identity.IsAuthenticated)
+    {
+        <p><strong><span style="color: #ff0000;">@ViewBag.ErrorMessage2</span></strong></p>
+
+        <!--Forms with registration fields to submit , the forms are centered -->
+        <form asp-action="register" method="post" class="align-items-center">
+
+            <!--USERNAME FIELD-->
+            <div class="form-group">
+                <label class="align-items-center">User Name</label>
+                <input type="text" class="form-control" id="userName" name="userName" placeholder="Enter user name">
+            </div>
+
+            <!--NOTIFYING MESSAGE-->
+            <p><span style="color: #ff0000;">⚠ User name is case sensitive</span></p>
+
+            <!--PASSSWORD FIELD-->
+            <div class="form-group">
+                <label class="align-items-center">Password</label>
+                <input type="password" class="form-control" name="password" id="password" onkeyup='matchingPwd();' placeholder="Enter a password">
+            </div>
+
+            <!--RE-TYPE PASSSWORD FIELD-->
+            <div class="form-group">
+                <label class="align-items-center">Confirm Password</label>
+                <input type="password" class="form-control" name="re_password" id="re_password" onkeyup='matchingPwd();' placeholder="Re-type password">
+            </div>
+            <span id='pwdMessage'></span>
+
+            <!--EMAIL FIELD-->
+            <div class="form-group">
+                <label class="align-items-center">email</label>
+                <input type="email" class="form-control" name="email" id="email" placeholder="Enter your email">
+            </div>
+
+            <!--PHONE NUMBER FIELD-->
+            <div class="form-group">
+                <label class="align-items-center">Phone Number</label>
+                <input type="tel" class="form-control" name="phoneNumber" id="phoneNumber" placeholder="Enter your phone number">
+            </div>
+
+            <!--REGISTRATION BUTTON-->
+            <div class="align-items-center">
+                <button type="submit" class="btn btn-primary">Register</button>
+            </div>
+
+        </form>
+
+
+
+    }
+
+</body>

@@ -1,0 +1,39 @@
+﻿<!--
+
+Project: BEMS IoT Enabled System V 1.0.0
+File Name: WeatherSvcTest.cshtml
+Development Environment: Microsoft Visual Studio v16.8.4 Community Version
+Code contributors: Mohammed Ahmed Subani
+ASU ID: 1218278997
+
+File Description:
+    The following page  test calls the current weather service in case of successful
+    call the ViewBag.WeatherMessage contains the current condition of the weather
+    at the location of targeted office unit for BEMS
+
+    The test is executed on page load.
+
+-->
+@{
+    ViewData["Title"] = "WeatherSvcTest";
+}
+
+<h1>WeatherSvcTest</h1>
+
+<!--Explaining the test for users-->
+<p>
+    The following test calls the weather service in case of successful call the ViewBag.WeatherMessage contains the current condition of the weather
+    at the location of targeted office unit for BEMS
+</p>
+
+<!--Test result message for either a sucessful call or a failing to call service message-->
+@if (ViewBag.WeatherMessage != null)
+{
+    <p><strong><span style="color: #ff0000;">The call to weather service is sucessful</span></strong></p>
+    <p>The calling result is shown below in red for weather temperature in centigrades</p>
+    <p><strong><span style="color: #ff0000;">@ViewBag.WeatherMessage</span></strong></p>
+}
+else
+{
+    <p><strong><span style="color: #ff0000;">The call to weather service is NOT sucessful</span></strong></p>
+}

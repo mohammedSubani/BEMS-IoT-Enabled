@@ -1,0 +1,85 @@
+﻿<!--
+
+Project: BEMS IoT Enabled System V 1.0.0
+File Name: Controlling.cshtml
+Development Environment: Microsoft Visual Studio v16.8.4 Community Version
+Code contributors: Mohammed Ahmed Subani
+ASU ID: 1218278997
+
+File Description:
+The following page is the controlling component page. This page contains a radio buttons 
+    controlling dashboard, a swithc is selected and submitted. The result is returned 
+    and viewed on this page. The result is the current status of the selected switch
+    OR is the error message in case of unsucessful call.
+
+This page contains registration form for the control relay module.
+
+Old Functions:None
+New Functions:matchingPwd
+Modified Functions:None
+
+-->
+
+@{
+    ViewData["Title"] = "Controlling";
+}
+
+<head>
+    <!--CSS styling for the page-->
+    <style>
+        body {
+            background-image: url('https://images.unsplash.com/photo-1604380880002-8aa86df679b5');
+            background-repeat: no-repeat;
+            background-attachment: fixed;
+            background-size: cover;
+        }
+
+        footer {
+            background-color: white;
+        }
+    </style>
+</head>
+
+<!--Explaining the controlling component for users-->
+<div class="text-left">
+    <h1 class="display-4" style="color:white;">Controlling</h1>
+</div>
+<h2 style="text-align: left;color:white;"><strong>Component Description</strong></h2>
+<p style="color:white;">This component is responsible for controlling IoT electrical devices through Wireless Acess Point, Realy Switch IoT Module and Arduino/ESP8266 device. At it is minimum this component will provide as a switch ON/OFF for electrical appliances within a housing/office unit to demonstrate the controlling part of BEMS (Manual Control). At it is best it will use algorithms based on collected data to optimize energy consumption e.g. : Turn the lights off when no one is around, or open the sahders when it is noon time and it is sunny- natural lighting.(Automated Control). This component needs to be accessed by users with appropriate <span data-dobid="hdw">privilege</span>.</p>
+<p>&nbsp;</p>
+
+
+
+<div class="align-middle">
+    <div class="align-middle">
+        <h3 class="text-left" style="color:white;">Controlling Dashboard</h3><br />
+
+        <!--Message field for error in controlling-->
+        <p><strong><span style="color: #ff0000;">@ViewBag.ErrMsg</span></strong></p>
+
+        <!--Message field for response message (realy switch state)-->
+        <p><strong><span style="color: #8bc7b7;">Status: @ViewBag.Response</span></strong></p>
+
+        <!--Controlling radio buttons dashboard-->
+        <form asp-action="Controlling" method="post" class="align-items-center">
+
+            <!--Available relay switch options-->
+            <div class="form-group">
+                <input type="radio" id="Relay0" name="switchRelay" value="0">
+                <label for="Relay0" style="color:white;">Relay_0 : Controlling Gas Alarm Appliance</label><br>
+                <input type="radio" id="Relay1" name="switchRelay" value="1">
+                <label for="Relay1" style="color:white;">Relay_1 : Controlling Electrical Kettle</label><br>
+                <input type="radio" id="Relay2" name="switchRelay" value="2">
+                <label for="Relay2" style="color:white;">Relay_2 : Controlling Reception Room Lights </label><br>
+                <input type="radio" id="Relay3" name="switchRelay" value="3">
+                <label for="Relay3" style="color:white;">Relay_3 : Controlling Office Room Lights </label><br>
+            </div>
+
+            <!--Selection submit button-->
+            <div class="align-items-center">
+                <button type="submit" class="btn btn-primary" style="border:solid;border-color:white;">Switch(ON/OFF)</button>
+            </div>
+        </form>
+    </div>
+</div>
+
