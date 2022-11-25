@@ -230,7 +230,9 @@ namespace WebApplication1.Controllers
             if (AccountMgmtSvc.Register(userName, password, email, phoneNumber))
             {
                 /*Trying to send email */
-                try { Execute(email).Wait(); }
+                try { 
+                //Execute(email).Wait(); 
+                }
                 catch (Exception)
                 {/*Failing to send email catch the exception*/}
 
@@ -282,9 +284,9 @@ namespace WebApplication1.Controllers
         {
             try
             {
-                var apiKey = "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";
+                var apiKey = "";
                 var client = new SendGridClient(apiKey);
-                var from = new EmailAddress("deltan1ms@live.com", "BEMS_IoT Admin");
+                var from = new EmailAddress("", "");
                 var subject = "BEMS_IoT_Enabled Registeration";
                 var to = new EmailAddress(email, "user");
                 var plainTextContent = "Thank you for regisetring in BEMS_IoT_Enabled project";
