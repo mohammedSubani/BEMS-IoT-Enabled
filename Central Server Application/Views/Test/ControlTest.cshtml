@@ -1,0 +1,36 @@
+﻿<!--
+
+Project: BEMS IoT Enabled System V 1.0.0
+File Name: ControlTest.cshtml
+Development Environment: Microsoft Visual Studio v16.8.4 Community Version
+Code contributors: Mohammed Ahmed Subani
+ASU ID: 1218278997
+
+File Description:
+    The following test checks whether the control relay module is running correctly, the test will
+    call the root directory for the module. In case of sucessful retrieval of data the result will
+    contain a message saying that you have visited the root directory for the module otherwise
+    a failure message will appear.
+
+    The test happens on page load making RESTful call to the control module.
+
+-->
+@{
+    ViewData["Title"] = "ControlTest";
+}
+
+<h1>ControlTest</h1>
+
+<!--Explaining the test for users-->
+<p>
+    This test checks whether the control relay module is running correctly, the test will call
+    the root directory for the module. In case of sucessful retrieval of data the result will
+    contain a message saying that you have visited the root directory for the module otherwise
+    a failure message will appear.
+
+    The test already started on page loading ........
+</p>
+
+<!--Test results retrieved from assoicated controller on page load-->
+<h3>Test Result ↓↓</h3>
+<p><strong><span style="color: #ff0000;">@ViewBag.ControlMsg</span></strong></p>

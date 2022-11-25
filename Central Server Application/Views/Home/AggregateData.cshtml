@@ -1,0 +1,95 @@
+﻿<!--
+
+Project: BEMS IoT Enabled System V 1.0.0
+File Name: AggregateData.cshtml
+Development Environment: Microsoft Visual Studio v16.8.4 Community Version
+Code contributors: Mohammed Ahmed Subani
+ASU ID: 1218278997
+
+File Description:
+The following page returns the aggregate data dashboards from Cyclotron server using iframe element
+    with URL to the dashboards page.
+
+-->
+@{
+    ViewData["Title"] = "Aggregate Data";
+}
+
+<head>
+    <!--CSS styling for the page, and for the loading animation-->
+    <!--loadingIframe for iframe after loading-->
+    <!--ImageOnLoad for loading GIF image-->
+    <!--TextOnLoad for loading Text-->
+    <style>
+
+        #loadingIframe {
+            display: flex;
+            justify-content: center;
+            width: 100%;
+            height: 600px;
+        }
+
+        #ImageOnLoad {
+            display: block;
+            margin-left: auto;
+            margin-right: auto;
+        }
+
+        #TextOnLoad {
+            display: block;
+            margin-left: auto;
+            margin-right: auto;
+        }
+
+        body {
+            background-image: url('https://images.unsplash.com/photo-1509997834373-205caad9ef0d');
+            background-repeat: no-repeat;
+            background-attachment: fixed;
+            background-size: cover;
+        }
+
+        footer {
+            background-color: white;
+        }
+    </style>
+    <script type="text/javascript" src="//ajax.googleapis.com/ajax/libs/jquery/1.7.2/jquery.min.js"></script>
+</head>
+
+<body>
+
+    <div class="text-center">
+        <h1 class="display-4" style="color:white;"><strong>Aggregate Data</strong></h1>
+    </div>
+
+
+    <div>
+        <!--Image to show while the iframe is being loaded-->
+        <img id="ImageOnLoad" src="~/Images/loading.gif" width="50" height="50" alt="loading gif" />
+
+        <!--text to show while the iframe is being loaded-->
+        <p id="TextOnLoad" style="text-align:center; color: white;">
+            Fetching Data, Please be patient this may take up to 1 minute ....
+        </p>
+
+        <!--Iframe pointing to Cyclotron aggregate data dashboard-->
+        <iframe src="http://bems-iot.ddnsgeek.com:8080/aggregate-data-all-param-mixed/aggregate-temprature?live=true"
+                id="loadingIframe"
+                name="targetframe"
+                allowTransparency="true"
+                scrolling="yes"
+                frameborder="0">
+        </iframe>
+
+    </div>
+
+    <!--Script called when iframe is loaded, hide the loading GIF image and its associated text-->
+    <script>
+        $(document).ready(function () {
+            $('#loadingIframe').on('load', function () {
+                $('#ImageOnLoad').hide();
+                $('#TextOnLoad').hide();
+            });
+        });
+    </script>
+
+</body>

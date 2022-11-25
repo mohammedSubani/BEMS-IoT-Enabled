@@ -1,0 +1,41 @@
+﻿<!--
+
+Project: BEMS IoT Enabled System V 1.0.0
+File Name: DatabaseTest.cshtml
+Development Environment: Microsoft Visual Studio v16.8.4 Community Version
+Code contributors: Mohammed Ahmed Subani
+ASU ID: 1218278997
+
+File Description:
+    The following page test call the first data row in a sample database JSON file if the calling
+    is sucessful the result will appear below, if it is not a notifying message will
+    appear instead. This test uses the readings Database Management Service.
+
+    The test is executed on page load.
+
+-->
+@{
+    ViewData["Title"] = "DatabaseTest";
+}
+
+<h1>DatabaseTest</h1>
+
+<!--Explaining the test for users-->
+<p>
+    The following test call the first data row in a sample database JSON file if the calling
+    is sucessful the result will appear below, if it is not a notifying message will
+    appear instead.
+</p>
+
+
+<!--Message of testing results showing a reading row or a notifying message of unsucessful call
+    to the management service-->
+@if (ViewBag.DatabaseResult != null)
+{
+    <p><strong><span style="color: #ff0000;">@ViewBag.DatabaseResult</span></strong></p>
+
+}
+else
+{
+    <p><strong><span style="color: #ff0000;">Getting data from database is unsucessful</span></strong></p>
+}

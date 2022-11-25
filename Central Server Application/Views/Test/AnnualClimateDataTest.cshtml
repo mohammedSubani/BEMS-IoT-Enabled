@@ -1,0 +1,36 @@
+﻿<!--
+
+Project: BEMS IoT Enabled System V 1.0.0
+File Name: AnnualClimateDataTest.cshtml
+Development Environment: Microsoft Visual Studio v16.8.4 Community Version
+Code contributors: Mohammed Ahmed Subani
+ASU ID: 1218278997
+
+File Description:
+The following page contains the test checking whether the AnnualClimateData retrieves monthly
+    point data for the locationwhere the BEMS is implemented that is namely latitude: 31.9702593 
+    and longitude:35.9568498 , The test happens on page load.
+-->
+
+
+@{
+    ViewData["Title"] = "AnnualClimateDataTest";
+}
+
+<!--Explaining the test for users-->
+<h1>AnnualClimateDataTest</h1>
+
+<p>
+    This test checks whether the AnnualClimateData retrieves monthly point data for the location
+    where the BEMS is implemented that is namely latitude: 31.9702593 and longitude:35.9568498.
+
+    In case of sucessful retrieval of data the a raw string of the data is recieved with values for
+    aggregate relative humiditiy. The data retrieved are post-processed in Cycltron for presentation.
+
+    In case of unsucessful call a message notifying the test failuare is shown.
+</p>
+
+<!--Test results, the weather is called from controller on page load.-->
+<h3>Test Result ↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓</h3>
+<p><strong><span style="color: #ff0000;">@ViewBag.AnnaulDataMessage</span></strong></p>
+

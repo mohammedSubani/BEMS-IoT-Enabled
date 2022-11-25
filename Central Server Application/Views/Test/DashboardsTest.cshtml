@@ -1,0 +1,36 @@
+﻿<!--
+
+Project: BEMS IoT Enabled System V 1.0.0
+File Name: DashboardsTest.cshtml
+Development Environment: Microsoft Visual Studio v16.8.4 Community Version
+Code contributors: Mohammed Ahmed Subani
+ASU ID: 1218278997
+
+File Description:
+    The following page test calls to Cyclotron component, the test is sucessful if the tester
+    is able to use the Cycltron editing tool through an iframe to Cyclotron Server.
+-->
+@{
+    ViewData["Title"] = "DashboardsTest";
+}
+
+<h1>DashboardsTest</h1>
+
+<!--Explaining the test for users-->
+<p>
+    The following test calls to Cyclotron component, the test is sucessful if the tester
+    is able to use the Cycltron editing tool through an iframe to Cyclotron Server.
+
+    If the user is not able to complete tasks through this page a flag of Cyclotron
+    server down time is raised.
+</p>
+
+<!--iframe element pointing to Cyclotron main editing page-->
+<iframe src="http://bems-iot.ddnsgeek.com:8080"
+        name="targetframe"
+        allowTransparency="true"
+        scrolling="yes"
+        frameborder="0"
+        height="500"
+        width="100%">
+</iframe>
