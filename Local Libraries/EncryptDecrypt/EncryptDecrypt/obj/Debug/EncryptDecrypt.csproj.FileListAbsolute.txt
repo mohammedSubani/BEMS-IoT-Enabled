@@ -1,0 +1,6 @@
+C:\Users\N2\source\repos\EncryptDecrypt\EncryptDecrypt\bin\Debug\EncryptDecrypt.dll
+C:\Users\N2\source\repos\EncryptDecrypt\EncryptDecrypt\bin\Debug\EncryptDecrypt.pdb
+C:\Users\N2\source\repos\EncryptDecrypt\EncryptDecrypt\obj\Debug\EncryptDecrypt.csprojAssemblyReference.cache
+C:\Users\N2\source\repos\EncryptDecrypt\EncryptDecrypt\obj\Debug\EncryptDecrypt.csproj.CoreCompileInputs.cache
+C:\Users\N2\source\repos\EncryptDecrypt\EncryptDecrypt\obj\Debug\EncryptDecrypt.dll
+C:\Users\N2\source\repos\EncryptDecrypt\EncryptDecrypt\obj\Debug\EncryptDecrypt.pdb
