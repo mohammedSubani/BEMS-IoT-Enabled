@@ -1,0 +1,1135 @@
+D:\ASU-AGFE\CSE 593 Applied Project\Deliverables\03_12\Web Application\BEMS_IoT_Enabled\WebApplication1\bin\Release\netcoreapp3.1\appsettings.Development.json
+D:\ASU-AGFE\CSE 593 Applied Project\Deliverables\03_12\Web Application\BEMS_IoT_Enabled\WebApplication1\bin\Release\netcoreapp3.1\appsettings.json
+D:\ASU-AGFE\CSE 593 Applied Project\Deliverables\03_12\Web Application\BEMS_IoT_Enabled\WebApplication1\bin\Release\netcoreapp3.1\WebApplication1.exe
+D:\ASU-AGFE\CSE 593 Applied Project\Deliverables\03_12\Web Application\BEMS_IoT_Enabled\WebApplication1\bin\Release\netcoreapp3.1\WebApplication1.deps.json
+D:\ASU-AGFE\CSE 593 Applied Project\Deliverables\03_12\Web Application\BEMS_IoT_Enabled\WebApplication1\bin\Release\netcoreapp3.1\WebApplication1.runtimeconfig.json
+D:\ASU-AGFE\CSE 593 Applied Project\Deliverables\03_12\Web Application\BEMS_IoT_Enabled\WebApplication1\bin\Release\netcoreapp3.1\WebApplication1.runtimeconfig.dev.json
+D:\ASU-AGFE\CSE 593 Applied Project\Deliverables\03_12\Web Application\BEMS_IoT_Enabled\WebApplication1\bin\Release\netcoreapp3.1\WebApplication1.dll
+D:\ASU-AGFE\CSE 593 Applied Project\Deliverables\03_12\Web Application\BEMS_IoT_Enabled\WebApplication1\bin\Release\netcoreapp3.1\WebApplication1.pdb
+D:\ASU-AGFE\CSE 593 Applied Project\Deliverables\03_12\Web Application\BEMS_IoT_Enabled\WebApplication1\bin\Release\netcoreapp3.1\WebApplication1.Views.dll
+D:\ASU-AGFE\CSE 593 Applied Project\Deliverables\03_12\Web Application\BEMS_IoT_Enabled\WebApplication1\bin\Release\netcoreapp3.1\WebApplication1.Views.pdb
+D:\ASU-AGFE\CSE 593 Applied Project\Deliverables\03_12\Web Application\BEMS_IoT_Enabled\WebApplication1\bin\Release\netcoreapp3.1\Microsoft.AspNetCore.Razor.Language.dll
+D:\ASU-AGFE\CSE 593 Applied Project\Deliverables\03_12\Web Application\BEMS_IoT_Enabled\WebApplication1\bin\Release\netcoreapp3.1\Microsoft.CodeAnalysis.dll
+D:\ASU-AGFE\CSE 593 Applied Project\Deliverables\03_12\Web Application\BEMS_IoT_Enabled\WebApplication1\bin\Release\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
+D:\ASU-AGFE\CSE 593 Applied Project\Deliverables\03_12\Web Application\BEMS_IoT_Enabled\WebApplication1\bin\Release\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+D:\ASU-AGFE\CSE 593 Applied Project\Deliverables\03_12\Web Application\BEMS_IoT_Enabled\WebApplication1\bin\Release\netcoreapp3.1\Microsoft.CodeAnalysis.Razor.dll
+D:\ASU-AGFE\CSE 593 Applied Project\Deliverables\03_12\Web Application\BEMS_IoT_Enabled\WebApplication1\bin\Release\netcoreapp3.1\Microsoft.CodeAnalysis.Workspaces.dll
+D:\ASU-AGFE\CSE 593 Applied Project\Deliverables\03_12\Web Application\BEMS_IoT_Enabled\WebApplication1\bin\Release\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.dll
+D:\ASU-AGFE\CSE 593 Applied Project\Deliverables\03_12\Web Application\BEMS_IoT_Enabled\WebApplication1\bin\Release\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+D:\ASU-AGFE\CSE 593 Applied Project\Deliverables\03_12\Web Application\BEMS_IoT_Enabled\WebApplication1\bin\Release\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+D:\ASU-AGFE\CSE 593 Applied Project\Deliverables\03_12\Web Application\BEMS_IoT_Enabled\WebApplication1\bin\Release\netcoreapp3.1\dotnet-aspnet-codegenerator-design.dll
+D:\ASU-AGFE\CSE 593 Applied Project\Deliverables\03_12\Web Application\BEMS_IoT_Enabled\WebApplication1\bin\Release\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+D:\ASU-AGFE\CSE 593 Applied Project\Deliverables\03_12\Web Application\BEMS_IoT_Enabled\WebApplication1\bin\Release\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+D:\ASU-AGFE\CSE 593 Applied Project\Deliverables\03_12\Web Application\BEMS_IoT_Enabled\WebApplication1\bin\Release\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+D:\ASU-AGFE\CSE 593 Applied Project\Deliverables\03_12\Web Application\BEMS_IoT_Enabled\WebApplication1\bin\Release\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+D:\ASU-AGFE\CSE 593 Applied Project\Deliverables\03_12\Web Application\BEMS_IoT_Enabled\WebApplication1\bin\Release\netcoreapp3.1\Newtonsoft.Json.dll
+D:\ASU-AGFE\CSE 593 Applied Project\Deliverables\03_12\Web Application\BEMS_IoT_Enabled\WebApplication1\bin\Release\netcoreapp3.1\NuGet.Frameworks.dll
+D:\ASU-AGFE\CSE 593 Applied Project\Deliverables\03_12\Web Application\BEMS_IoT_Enabled\WebApplication1\bin\Release\netcoreapp3.1\System.Composition.AttributedModel.dll
+D:\ASU-AGFE\CSE 593 Applied Project\Deliverables\03_12\Web Application\BEMS_IoT_Enabled\WebApplication1\bin\Release\netcoreapp3.1\System.Composition.Convention.dll
+D:\ASU-AGFE\CSE 593 Applied Project\Deliverables\03_12\Web Application\BEMS_IoT_Enabled\WebApplication1\bin\Release\netcoreapp3.1\System.Composition.Hosting.dll
+D:\ASU-AGFE\CSE 593 Applied Project\Deliverables\03_12\Web Application\BEMS_IoT_Enabled\WebApplication1\bin\Release\netcoreapp3.1\System.Composition.Runtime.dll
+D:\ASU-AGFE\CSE 593 Applied Project\Deliverables\03_12\Web Application\BEMS_IoT_Enabled\WebApplication1\bin\Release\netcoreapp3.1\System.Composition.TypedParts.dll
+D:\ASU-AGFE\CSE 593 Applied Project\Deliverables\03_12\Web Application\BEMS_IoT_Enabled\WebApplication1\bin\Release\netcoreapp3.1\System.Net.Http.WinHttpHandler.dll
+D:\ASU-AGFE\CSE 593 Applied Project\Deliverables\03_12\Web Application\BEMS_IoT_Enabled\WebApplication1\bin\Release\netcoreapp3.1\System.ServiceModel.Duplex.dll
+D:\ASU-AGFE\CSE 593 Applied Project\Deliverables\03_12\Web Application\BEMS_IoT_Enabled\WebApplication1\bin\Release\netcoreapp3.1\System.ServiceModel.Http.dll
+D:\ASU-AGFE\CSE 593 Applied Project\Deliverables\03_12\Web Application\BEMS_IoT_Enabled\WebApplication1\bin\Release\netcoreapp3.1\System.ServiceModel.NetTcp.dll
+D:\ASU-AGFE\CSE 593 Applied Project\Deliverables\03_12\Web Application\BEMS_IoT_Enabled\WebApplication1\bin\Release\netcoreapp3.1\System.ServiceModel.Primitives.dll
+D:\ASU-AGFE\CSE 593 Applied Project\Deliverables\03_12\Web Application\BEMS_IoT_Enabled\WebApplication1\bin\Release\netcoreapp3.1\System.ServiceModel.dll
+D:\ASU-AGFE\CSE 593 Applied Project\Deliverables\03_12\Web Application\BEMS_IoT_Enabled\WebApplication1\bin\Release\netcoreapp3.1\System.ServiceModel.Security.dll
+D:\ASU-AGFE\CSE 593 Applied Project\Deliverables\03_12\Web Application\BEMS_IoT_Enabled\WebApplication1\bin\Release\netcoreapp3.1\cs\Microsoft.CodeAnalysis.resources.dll
+D:\ASU-AGFE\CSE 593 Applied Project\Deliverables\03_12\Web Application\BEMS_IoT_Enabled\WebApplication1\bin\Release\netcoreapp3.1\de\Microsoft.CodeAnalysis.resources.dll
+D:\ASU-AGFE\CSE 593 Applied Project\Deliverables\03_12\Web Application\BEMS_IoT_Enabled\WebApplication1\bin\Release\netcoreapp3.1\es\Microsoft.CodeAnalysis.resources.dll
+D:\ASU-AGFE\CSE 593 Applied Project\Deliverables\03_12\Web Application\BEMS_IoT_Enabled\WebApplication1\bin\Release\netcoreapp3.1\fr\Microsoft.CodeAnalysis.resources.dll
+D:\ASU-AGFE\CSE 593 Applied Project\Deliverables\03_12\Web Application\BEMS_IoT_Enabled\WebApplication1\bin\Release\netcoreapp3.1\it\Microsoft.CodeAnalysis.resources.dll
+D:\ASU-AGFE\CSE 593 Applied Project\Deliverables\03_12\Web Application\BEMS_IoT_Enabled\WebApplication1\bin\Release\netcoreapp3.1\ja\Microsoft.CodeAnalysis.resources.dll
+D:\ASU-AGFE\CSE 593 Applied Project\Deliverables\03_12\Web Application\BEMS_IoT_Enabled\WebApplication1\bin\Release\netcoreapp3.1\ko\Microsoft.CodeAnalysis.resources.dll
+D:\ASU-AGFE\CSE 593 Applied Project\Deliverables\03_12\Web Application\BEMS_IoT_Enabled\WebApplication1\bin\Release\netcoreapp3.1\pl\Microsoft.CodeAnalysis.resources.dll
+D:\ASU-AGFE\CSE 593 Applied Project\Deliverables\03_12\Web Application\BEMS_IoT_Enabled\WebApplication1\bin\Release\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.resources.dll
+D:\ASU-AGFE\CSE 593 Applied Project\Deliverables\03_12\Web Application\BEMS_IoT_Enabled\WebApplication1\bin\Release\netcoreapp3.1\ru\Microsoft.CodeAnalysis.resources.dll
+D:\ASU-AGFE\CSE 593 Applied Project\Deliverables\03_12\Web Application\BEMS_IoT_Enabled\WebApplication1\bin\Release\netcoreapp3.1\tr\Microsoft.CodeAnalysis.resources.dll
+D:\ASU-AGFE\CSE 593 Applied Project\Deliverables\03_12\Web Application\BEMS_IoT_Enabled\WebApplication1\bin\Release\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+D:\ASU-AGFE\CSE 593 Applied Project\Deliverables\03_12\Web Application\BEMS_IoT_Enabled\WebApplication1\bin\Release\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+D:\ASU-AGFE\CSE 593 Applied Project\Deliverables\03_12\Web Application\BEMS_IoT_Enabled\WebApplication1\bin\Release\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\ASU-AGFE\CSE 593 Applied Project\Deliverables\03_12\Web Application\BEMS_IoT_Enabled\WebApplication1\bin\Release\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\ASU-AGFE\CSE 593 Applied Project\Deliverables\03_12\Web Application\BEMS_IoT_Enabled\WebApplication1\bin\Release\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\ASU-AGFE\CSE 593 Applied Project\Deliverables\03_12\Web Application\BEMS_IoT_Enabled\WebApplication1\bin\Release\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\ASU-AGFE\CSE 593 Applied Project\Deliverables\03_12\Web Application\BEMS_IoT_Enabled\WebApplication1\bin\Release\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\ASU-AGFE\CSE 593 Applied Project\Deliverables\03_12\Web Application\BEMS_IoT_Enabled\WebApplication1\bin\Release\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\ASU-AGFE\CSE 593 Applied Project\Deliverables\03_12\Web Application\BEMS_IoT_Enabled\WebApplication1\bin\Release\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\ASU-AGFE\CSE 593 Applied Project\Deliverables\03_12\Web Application\BEMS_IoT_Enabled\WebApplication1\bin\Release\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\ASU-AGFE\CSE 593 Applied Project\Deliverables\03_12\Web Application\BEMS_IoT_Enabled\WebApplication1\bin\Release\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\ASU-AGFE\CSE 593 Applied Project\Deliverables\03_12\Web Application\BEMS_IoT_Enabled\WebApplication1\bin\Release\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\ASU-AGFE\CSE 593 Applied Project\Deliverables\03_12\Web Application\BEMS_IoT_Enabled\WebApplication1\bin\Release\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\ASU-AGFE\CSE 593 Applied Project\Deliverables\03_12\Web Application\BEMS_IoT_Enabled\WebApplication1\bin\Release\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\ASU-AGFE\CSE 593 Applied Project\Deliverables\03_12\Web Application\BEMS_IoT_Enabled\WebApplication1\bin\Release\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\ASU-AGFE\CSE 593 Applied Project\Deliverables\03_12\Web Application\BEMS_IoT_Enabled\WebApplication1\bin\Release\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\ASU-AGFE\CSE 593 Applied Project\Deliverables\03_12\Web Application\BEMS_IoT_Enabled\WebApplication1\bin\Release\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\ASU-AGFE\CSE 593 Applied Project\Deliverables\03_12\Web Application\BEMS_IoT_Enabled\WebApplication1\bin\Release\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\ASU-AGFE\CSE 593 Applied Project\Deliverables\03_12\Web Application\BEMS_IoT_Enabled\WebApplication1\bin\Release\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\ASU-AGFE\CSE 593 Applied Project\Deliverables\03_12\Web Application\BEMS_IoT_Enabled\WebApplication1\bin\Release\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\ASU-AGFE\CSE 593 Applied Project\Deliverables\03_12\Web Application\BEMS_IoT_Enabled\WebApplication1\bin\Release\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\ASU-AGFE\CSE 593 Applied Project\Deliverables\03_12\Web Application\BEMS_IoT_Enabled\WebApplication1\bin\Release\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\ASU-AGFE\CSE 593 Applied Project\Deliverables\03_12\Web Application\BEMS_IoT_Enabled\WebApplication1\bin\Release\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\ASU-AGFE\CSE 593 Applied Project\Deliverables\03_12\Web Application\BEMS_IoT_Enabled\WebApplication1\bin\Release\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\ASU-AGFE\CSE 593 Applied Project\Deliverables\03_12\Web Application\BEMS_IoT_Enabled\WebApplication1\bin\Release\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\ASU-AGFE\CSE 593 Applied Project\Deliverables\03_12\Web Application\BEMS_IoT_Enabled\WebApplication1\bin\Release\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\ASU-AGFE\CSE 593 Applied Project\Deliverables\03_12\Web Application\BEMS_IoT_Enabled\WebApplication1\bin\Release\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\ASU-AGFE\CSE 593 Applied Project\Deliverables\03_12\Web Application\BEMS_IoT_Enabled\WebApplication1\bin\Release\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\ASU-AGFE\CSE 593 Applied Project\Deliverables\03_12\Web Application\BEMS_IoT_Enabled\WebApplication1\bin\Release\netcoreapp3.1\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\ASU-AGFE\CSE 593 Applied Project\Deliverables\03_12\Web Application\BEMS_IoT_Enabled\WebApplication1\bin\Release\netcoreapp3.1\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\ASU-AGFE\CSE 593 Applied Project\Deliverables\03_12\Web Application\BEMS_IoT_Enabled\WebApplication1\bin\Release\netcoreapp3.1\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\ASU-AGFE\CSE 593 Applied Project\Deliverables\03_12\Web Application\BEMS_IoT_Enabled\WebApplication1\bin\Release\netcoreapp3.1\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\ASU-AGFE\CSE 593 Applied Project\Deliverables\03_12\Web Application\BEMS_IoT_Enabled\WebApplication1\bin\Release\netcoreapp3.1\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\ASU-AGFE\CSE 593 Applied Project\Deliverables\03_12\Web Application\BEMS_IoT_Enabled\WebApplication1\bin\Release\netcoreapp3.1\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\ASU-AGFE\CSE 593 Applied Project\Deliverables\03_12\Web Application\BEMS_IoT_Enabled\WebApplication1\bin\Release\netcoreapp3.1\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\ASU-AGFE\CSE 593 Applied Project\Deliverables\03_12\Web Application\BEMS_IoT_Enabled\WebApplication1\bin\Release\netcoreapp3.1\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\ASU-AGFE\CSE 593 Applied Project\Deliverables\03_12\Web Application\BEMS_IoT_Enabled\WebApplication1\bin\Release\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\ASU-AGFE\CSE 593 Applied Project\Deliverables\03_12\Web Application\BEMS_IoT_Enabled\WebApplication1\bin\Release\netcoreapp3.1\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\ASU-AGFE\CSE 593 Applied Project\Deliverables\03_12\Web Application\BEMS_IoT_Enabled\WebApplication1\bin\Release\netcoreapp3.1\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\ASU-AGFE\CSE 593 Applied Project\Deliverables\03_12\Web Application\BEMS_IoT_Enabled\WebApplication1\bin\Release\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\ASU-AGFE\CSE 593 Applied Project\Deliverables\03_12\Web Application\BEMS_IoT_Enabled\WebApplication1\bin\Release\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\ASU-AGFE\CSE 593 Applied Project\Deliverables\03_12\Web Application\BEMS_IoT_Enabled\WebApplication1\bin\Release\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Net.Http.WinHttpHandler.dll
+D:\ASU-AGFE\CSE 593 Applied Project\Deliverables\03_12\Web Application\BEMS_IoT_Enabled\WebApplication1\bin\Release\netcoreapp3.1\runtimes\unix\lib\netstandard2.0\System.Private.ServiceModel.dll
+D:\ASU-AGFE\CSE 593 Applied Project\Deliverables\03_12\Web Application\BEMS_IoT_Enabled\WebApplication1\bin\Release\netcoreapp3.1\runtimes\win7\lib\netstandard2.0\System.Private.ServiceModel.dll
+D:\ASU-AGFE\CSE 593 Applied Project\Deliverables\03_12\Web Application\BEMS_IoT_Enabled\WebApplication1\obj\Release\netcoreapp3.1\WebApplication1.csprojAssemblyReference.cache
+D:\ASU-AGFE\CSE 593 Applied Project\Deliverables\03_12\Web Application\BEMS_IoT_Enabled\WebApplication1\obj\Release\netcoreapp3.1\WebApplication1.AssemblyInfoInputs.cache
+D:\ASU-AGFE\CSE 593 Applied Project\Deliverables\03_12\Web Application\BEMS_IoT_Enabled\WebApplication1\obj\Release\netcoreapp3.1\WebApplication1.AssemblyInfo.cs
+D:\ASU-AGFE\CSE 593 Applied Project\Deliverables\03_12\Web Application\BEMS_IoT_Enabled\WebApplication1\obj\Release\netcoreapp3.1\WebApplication1.csproj.CoreCompileInputs.cache
+D:\ASU-AGFE\CSE 593 Applied Project\Deliverables\03_12\Web Application\BEMS_IoT_Enabled\WebApplication1\obj\Release\netcoreapp3.1\WebApplication1.MvcApplicationPartsAssemblyInfo.cache
+D:\ASU-AGFE\CSE 593 Applied Project\Deliverables\03_12\Web Application\BEMS_IoT_Enabled\WebApplication1\obj\Release\netcoreapp3.1\WebApplication1.RazorAssemblyInfo.cache
+D:\ASU-AGFE\CSE 593 Applied Project\Deliverables\03_12\Web Application\BEMS_IoT_Enabled\WebApplication1\obj\Release\netcoreapp3.1\WebApplication1.RazorAssemblyInfo.cs
+D:\ASU-AGFE\CSE 593 Applied Project\Deliverables\03_12\Web Application\BEMS_IoT_Enabled\WebApplication1\obj\Release\netcoreapp3.1\staticwebassets\WebApplication1.StaticWebAssets.Manifest.cache
+D:\ASU-AGFE\CSE 593 Applied Project\Deliverables\03_12\Web Application\BEMS_IoT_Enabled\WebApplication1\obj\Release\netcoreapp3.1\staticwebassets\WebApplication1.StaticWebAssets.xml
+D:\ASU-AGFE\CSE 593 Applied Project\Deliverables\03_12\Web Application\BEMS_IoT_Enabled\WebApplication1\obj\Release\netcoreapp3.1\scopedcss\bundle\WebApplication1.styles.css
+D:\ASU-AGFE\CSE 593 Applied Project\Deliverables\03_12\Web Application\BEMS_IoT_Enabled\WebApplication1\obj\Release\netcoreapp3.1\WebApplication1.TagHelpers.input.cache
+D:\ASU-AGFE\CSE 593 Applied Project\Deliverables\03_12\Web Application\BEMS_IoT_Enabled\WebApplication1\obj\Release\netcoreapp3.1\WebApplication1.TagHelpers.output.cache
+D:\ASU-AGFE\CSE 593 Applied Project\Deliverables\03_12\Web Application\BEMS_IoT_Enabled\WebApplication1\obj\Release\netcoreapp3.1\WebApplication1.RazorCoreGenerate.cache
+D:\ASU-AGFE\CSE 593 Applied Project\Deliverables\03_12\Web Application\BEMS_IoT_Enabled\WebApplication1\obj\Release\netcoreapp3.1\Razor\Views\Home\About.cshtml.g.cs
+D:\ASU-AGFE\CSE 593 Applied Project\Deliverables\03_12\Web Application\BEMS_IoT_Enabled\WebApplication1\obj\Release\netcoreapp3.1\Razor\Views\Home\Contact.cshtml.g.cs
+D:\ASU-AGFE\CSE 593 Applied Project\Deliverables\03_12\Web Application\BEMS_IoT_Enabled\WebApplication1\obj\Release\netcoreapp3.1\Razor\Views\Home\Controlling.cshtml.g.cs
+D:\ASU-AGFE\CSE 593 Applied Project\Deliverables\03_12\Web Application\BEMS_IoT_Enabled\WebApplication1\obj\Release\netcoreapp3.1\Razor\Views\Home\Dashboards.cshtml.g.cs
+D:\ASU-AGFE\CSE 593 Applied Project\Deliverables\03_12\Web Application\BEMS_IoT_Enabled\WebApplication1\obj\Release\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+D:\ASU-AGFE\CSE 593 Applied Project\Deliverables\03_12\Web Application\BEMS_IoT_Enabled\WebApplication1\obj\Release\netcoreapp3.1\Razor\Views\Home\Login.cshtml.g.cs
+D:\ASU-AGFE\CSE 593 Applied Project\Deliverables\03_12\Web Application\BEMS_IoT_Enabled\WebApplication1\obj\Release\netcoreapp3.1\Razor\Views\Home\RawData.cshtml.g.cs
+D:\ASU-AGFE\CSE 593 Applied Project\Deliverables\03_12\Web Application\BEMS_IoT_Enabled\WebApplication1\obj\Release\netcoreapp3.1\Razor\Views\Home\Register.cshtml.g.cs
+D:\ASU-AGFE\CSE 593 Applied Project\Deliverables\03_12\Web Application\BEMS_IoT_Enabled\WebApplication1\obj\Release\netcoreapp3.1\Razor\Views\Home\TestSuite.cshtml.g.cs
+D:\ASU-AGFE\CSE 593 Applied Project\Deliverables\03_12\Web Application\BEMS_IoT_Enabled\WebApplication1\obj\Release\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+D:\ASU-AGFE\CSE 593 Applied Project\Deliverables\03_12\Web Application\BEMS_IoT_Enabled\WebApplication1\obj\Release\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+D:\ASU-AGFE\CSE 593 Applied Project\Deliverables\03_12\Web Application\BEMS_IoT_Enabled\WebApplication1\obj\Release\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+D:\ASU-AGFE\CSE 593 Applied Project\Deliverables\03_12\Web Application\BEMS_IoT_Enabled\WebApplication1\obj\Release\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+D:\ASU-AGFE\CSE 593 Applied Project\Deliverables\03_12\Web Application\BEMS_IoT_Enabled\WebApplication1\obj\Release\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+D:\ASU-AGFE\CSE 593 Applied Project\Deliverables\03_12\Web Application\BEMS_IoT_Enabled\WebApplication1\obj\Release\netcoreapp3.1\WebApplication1.RazorTargetAssemblyInfo.cache
+D:\ASU-AGFE\CSE 593 Applied Project\Deliverables\03_12\Web Application\BEMS_IoT_Enabled\WebApplication1\obj\Release\netcoreapp3.1\WebApplication1.RazorTargetAssemblyInfo.cs
+D:\ASU-AGFE\CSE 593 Applied Project\Deliverables\03_12\Web Application\BEMS_IoT_Enabled\WebApplication1\obj\Release\netcoreapp3.1\WebApplication1.Views.pdb
+D:\ASU-AGFE\CSE 593 Applied Project\Deliverables\03_12\Web Application\BEMS_IoT_Enabled\WebApplication1\obj\Release\netcoreapp3.1\WebApplication1.csproj.CopyComplete
+D:\ASU-AGFE\CSE 593 Applied Project\Deliverables\03_12\Web Application\BEMS_IoT_Enabled\WebApplication1\obj\Release\netcoreapp3.1\WebApplication1.dll
+D:\ASU-AGFE\CSE 593 Applied Project\Deliverables\03_12\Web Application\BEMS_IoT_Enabled\WebApplication1\obj\Release\netcoreapp3.1\WebApplication1.pdb
+D:\ASU-AGFE\CSE 593 Applied Project\Deliverables\03_12\Web Application\BEMS_IoT_Enabled\WebApplication1\obj\Release\netcoreapp3.1\WebApplication1.genruntimeconfig.cache
+D:\ASU-AGFE\CSE 593 Applied Project\Project 0\ServerApp\BEMS_IoT_Enabled\WebApplication1\bin\Release\netcoreapp3.1\appsettings.Development.json
+D:\ASU-AGFE\CSE 593 Applied Project\Project 0\ServerApp\BEMS_IoT_Enabled\WebApplication1\bin\Release\netcoreapp3.1\appsettings.json
+D:\ASU-AGFE\CSE 593 Applied Project\Project 0\ServerApp\BEMS_IoT_Enabled\WebApplication1\bin\Release\netcoreapp3.1\WebApplication1.exe
+D:\ASU-AGFE\CSE 593 Applied Project\Project 0\ServerApp\BEMS_IoT_Enabled\WebApplication1\bin\Release\netcoreapp3.1\WebApplication1.deps.json
+D:\ASU-AGFE\CSE 593 Applied Project\Project 0\ServerApp\BEMS_IoT_Enabled\WebApplication1\bin\Release\netcoreapp3.1\WebApplication1.runtimeconfig.json
+D:\ASU-AGFE\CSE 593 Applied Project\Project 0\ServerApp\BEMS_IoT_Enabled\WebApplication1\bin\Release\netcoreapp3.1\WebApplication1.runtimeconfig.dev.json
+D:\ASU-AGFE\CSE 593 Applied Project\Project 0\ServerApp\BEMS_IoT_Enabled\WebApplication1\bin\Release\netcoreapp3.1\WebApplication1.dll
+D:\ASU-AGFE\CSE 593 Applied Project\Project 0\ServerApp\BEMS_IoT_Enabled\WebApplication1\bin\Release\netcoreapp3.1\WebApplication1.pdb
+D:\ASU-AGFE\CSE 593 Applied Project\Project 0\ServerApp\BEMS_IoT_Enabled\WebApplication1\bin\Release\netcoreapp3.1\WebApplication1.Views.dll
+D:\ASU-AGFE\CSE 593 Applied Project\Project 0\ServerApp\BEMS_IoT_Enabled\WebApplication1\bin\Release\netcoreapp3.1\WebApplication1.Views.pdb
+D:\ASU-AGFE\CSE 593 Applied Project\Project 0\ServerApp\BEMS_IoT_Enabled\WebApplication1\bin\Release\netcoreapp3.1\Microsoft.AspNetCore.Razor.Language.dll
+D:\ASU-AGFE\CSE 593 Applied Project\Project 0\ServerApp\BEMS_IoT_Enabled\WebApplication1\bin\Release\netcoreapp3.1\Microsoft.CodeAnalysis.dll
+D:\ASU-AGFE\CSE 593 Applied Project\Project 0\ServerApp\BEMS_IoT_Enabled\WebApplication1\bin\Release\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
+D:\ASU-AGFE\CSE 593 Applied Project\Project 0\ServerApp\BEMS_IoT_Enabled\WebApplication1\bin\Release\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+D:\ASU-AGFE\CSE 593 Applied Project\Project 0\ServerApp\BEMS_IoT_Enabled\WebApplication1\bin\Release\netcoreapp3.1\Microsoft.CodeAnalysis.Razor.dll
+D:\ASU-AGFE\CSE 593 Applied Project\Project 0\ServerApp\BEMS_IoT_Enabled\WebApplication1\bin\Release\netcoreapp3.1\Microsoft.CodeAnalysis.Workspaces.dll
+D:\ASU-AGFE\CSE 593 Applied Project\Project 0\ServerApp\BEMS_IoT_Enabled\WebApplication1\bin\Release\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.dll
+D:\ASU-AGFE\CSE 593 Applied Project\Project 0\ServerApp\BEMS_IoT_Enabled\WebApplication1\bin\Release\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+D:\ASU-AGFE\CSE 593 Applied Project\Project 0\ServerApp\BEMS_IoT_Enabled\WebApplication1\bin\Release\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+D:\ASU-AGFE\CSE 593 Applied Project\Project 0\ServerApp\BEMS_IoT_Enabled\WebApplication1\bin\Release\netcoreapp3.1\dotnet-aspnet-codegenerator-design.dll
+D:\ASU-AGFE\CSE 593 Applied Project\Project 0\ServerApp\BEMS_IoT_Enabled\WebApplication1\bin\Release\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+D:\ASU-AGFE\CSE 593 Applied Project\Project 0\ServerApp\BEMS_IoT_Enabled\WebApplication1\bin\Release\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+D:\ASU-AGFE\CSE 593 Applied Project\Project 0\ServerApp\BEMS_IoT_Enabled\WebApplication1\bin\Release\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+D:\ASU-AGFE\CSE 593 Applied Project\Project 0\ServerApp\BEMS_IoT_Enabled\WebApplication1\bin\Release\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+D:\ASU-AGFE\CSE 593 Applied Project\Project 0\ServerApp\BEMS_IoT_Enabled\WebApplication1\bin\Release\netcoreapp3.1\Newtonsoft.Json.dll
+D:\ASU-AGFE\CSE 593 Applied Project\Project 0\ServerApp\BEMS_IoT_Enabled\WebApplication1\bin\Release\netcoreapp3.1\NuGet.Frameworks.dll
+D:\ASU-AGFE\CSE 593 Applied Project\Project 0\ServerApp\BEMS_IoT_Enabled\WebApplication1\bin\Release\netcoreapp3.1\System.Composition.AttributedModel.dll
+D:\ASU-AGFE\CSE 593 Applied Project\Project 0\ServerApp\BEMS_IoT_Enabled\WebApplication1\bin\Release\netcoreapp3.1\System.Composition.Convention.dll
+D:\ASU-AGFE\CSE 593 Applied Project\Project 0\ServerApp\BEMS_IoT_Enabled\WebApplication1\bin\Release\netcoreapp3.1\System.Composition.Hosting.dll
+D:\ASU-AGFE\CSE 593 Applied Project\Project 0\ServerApp\BEMS_IoT_Enabled\WebApplication1\bin\Release\netcoreapp3.1\System.Composition.Runtime.dll
+D:\ASU-AGFE\CSE 593 Applied Project\Project 0\ServerApp\BEMS_IoT_Enabled\WebApplication1\bin\Release\netcoreapp3.1\System.Composition.TypedParts.dll
+D:\ASU-AGFE\CSE 593 Applied Project\Project 0\ServerApp\BEMS_IoT_Enabled\WebApplication1\bin\Release\netcoreapp3.1\System.Net.Http.WinHttpHandler.dll
+D:\ASU-AGFE\CSE 593 Applied Project\Project 0\ServerApp\BEMS_IoT_Enabled\WebApplication1\bin\Release\netcoreapp3.1\System.ServiceModel.Duplex.dll
+D:\ASU-AGFE\CSE 593 Applied Project\Project 0\ServerApp\BEMS_IoT_Enabled\WebApplication1\bin\Release\netcoreapp3.1\System.ServiceModel.Http.dll
+D:\ASU-AGFE\CSE 593 Applied Project\Project 0\ServerApp\BEMS_IoT_Enabled\WebApplication1\bin\Release\netcoreapp3.1\System.ServiceModel.NetTcp.dll
+D:\ASU-AGFE\CSE 593 Applied Project\Project 0\ServerApp\BEMS_IoT_Enabled\WebApplication1\bin\Release\netcoreapp3.1\System.ServiceModel.Primitives.dll
+D:\ASU-AGFE\CSE 593 Applied Project\Project 0\ServerApp\BEMS_IoT_Enabled\WebApplication1\bin\Release\netcoreapp3.1\System.ServiceModel.dll
+D:\ASU-AGFE\CSE 593 Applied Project\Project 0\ServerApp\BEMS_IoT_Enabled\WebApplication1\bin\Release\netcoreapp3.1\System.ServiceModel.Security.dll
+D:\ASU-AGFE\CSE 593 Applied Project\Project 0\ServerApp\BEMS_IoT_Enabled\WebApplication1\bin\Release\netcoreapp3.1\cs\Microsoft.CodeAnalysis.resources.dll
+D:\ASU-AGFE\CSE 593 Applied Project\Project 0\ServerApp\BEMS_IoT_Enabled\WebApplication1\bin\Release\netcoreapp3.1\de\Microsoft.CodeAnalysis.resources.dll
+D:\ASU-AGFE\CSE 593 Applied Project\Project 0\ServerApp\BEMS_IoT_Enabled\WebApplication1\bin\Release\netcoreapp3.1\es\Microsoft.CodeAnalysis.resources.dll
+D:\ASU-AGFE\CSE 593 Applied Project\Project 0\ServerApp\BEMS_IoT_Enabled\WebApplication1\bin\Release\netcoreapp3.1\fr\Microsoft.CodeAnalysis.resources.dll
+D:\ASU-AGFE\CSE 593 Applied Project\Project 0\ServerApp\BEMS_IoT_Enabled\WebApplication1\bin\Release\netcoreapp3.1\it\Microsoft.CodeAnalysis.resources.dll
+D:\ASU-AGFE\CSE 593 Applied Project\Project 0\ServerApp\BEMS_IoT_Enabled\WebApplication1\bin\Release\netcoreapp3.1\ja\Microsoft.CodeAnalysis.resources.dll
+D:\ASU-AGFE\CSE 593 Applied Project\Project 0\ServerApp\BEMS_IoT_Enabled\WebApplication1\bin\Release\netcoreapp3.1\ko\Microsoft.CodeAnalysis.resources.dll
+D:\ASU-AGFE\CSE 593 Applied Project\Project 0\ServerApp\BEMS_IoT_Enabled\WebApplication1\bin\Release\netcoreapp3.1\pl\Microsoft.CodeAnalysis.resources.dll
+D:\ASU-AGFE\CSE 593 Applied Project\Project 0\ServerApp\BEMS_IoT_Enabled\WebApplication1\bin\Release\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.resources.dll
+D:\ASU-AGFE\CSE 593 Applied Project\Project 0\ServerApp\BEMS_IoT_Enabled\WebApplication1\bin\Release\netcoreapp3.1\ru\Microsoft.CodeAnalysis.resources.dll
+D:\ASU-AGFE\CSE 593 Applied Project\Project 0\ServerApp\BEMS_IoT_Enabled\WebApplication1\bin\Release\netcoreapp3.1\tr\Microsoft.CodeAnalysis.resources.dll
+D:\ASU-AGFE\CSE 593 Applied Project\Project 0\ServerApp\BEMS_IoT_Enabled\WebApplication1\bin\Release\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+D:\ASU-AGFE\CSE 593 Applied Project\Project 0\ServerApp\BEMS_IoT_Enabled\WebApplication1\bin\Release\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+D:\ASU-AGFE\CSE 593 Applied Project\Project 0\ServerApp\BEMS_IoT_Enabled\WebApplication1\bin\Release\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\ASU-AGFE\CSE 593 Applied Project\Project 0\ServerApp\BEMS_IoT_Enabled\WebApplication1\bin\Release\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\ASU-AGFE\CSE 593 Applied Project\Project 0\ServerApp\BEMS_IoT_Enabled\WebApplication1\bin\Release\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\ASU-AGFE\CSE 593 Applied Project\Project 0\ServerApp\BEMS_IoT_Enabled\WebApplication1\bin\Release\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\ASU-AGFE\CSE 593 Applied Project\Project 0\ServerApp\BEMS_IoT_Enabled\WebApplication1\bin\Release\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\ASU-AGFE\CSE 593 Applied Project\Project 0\ServerApp\BEMS_IoT_Enabled\WebApplication1\bin\Release\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\ASU-AGFE\CSE 593 Applied Project\Project 0\ServerApp\BEMS_IoT_Enabled\WebApplication1\bin\Release\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\ASU-AGFE\CSE 593 Applied Project\Project 0\ServerApp\BEMS_IoT_Enabled\WebApplication1\bin\Release\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\ASU-AGFE\CSE 593 Applied Project\Project 0\ServerApp\BEMS_IoT_Enabled\WebApplication1\bin\Release\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\ASU-AGFE\CSE 593 Applied Project\Project 0\ServerApp\BEMS_IoT_Enabled\WebApplication1\bin\Release\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\ASU-AGFE\CSE 593 Applied Project\Project 0\ServerApp\BEMS_IoT_Enabled\WebApplication1\bin\Release\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\ASU-AGFE\CSE 593 Applied Project\Project 0\ServerApp\BEMS_IoT_Enabled\WebApplication1\bin\Release\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\ASU-AGFE\CSE 593 Applied Project\Project 0\ServerApp\BEMS_IoT_Enabled\WebApplication1\bin\Release\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\ASU-AGFE\CSE 593 Applied Project\Project 0\ServerApp\BEMS_IoT_Enabled\WebApplication1\bin\Release\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\ASU-AGFE\CSE 593 Applied Project\Project 0\ServerApp\BEMS_IoT_Enabled\WebApplication1\bin\Release\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\ASU-AGFE\CSE 593 Applied Project\Project 0\ServerApp\BEMS_IoT_Enabled\WebApplication1\bin\Release\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\ASU-AGFE\CSE 593 Applied Project\Project 0\ServerApp\BEMS_IoT_Enabled\WebApplication1\bin\Release\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\ASU-AGFE\CSE 593 Applied Project\Project 0\ServerApp\BEMS_IoT_Enabled\WebApplication1\bin\Release\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\ASU-AGFE\CSE 593 Applied Project\Project 0\ServerApp\BEMS_IoT_Enabled\WebApplication1\bin\Release\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\ASU-AGFE\CSE 593 Applied Project\Project 0\ServerApp\BEMS_IoT_Enabled\WebApplication1\bin\Release\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\ASU-AGFE\CSE 593 Applied Project\Project 0\ServerApp\BEMS_IoT_Enabled\WebApplication1\bin\Release\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\ASU-AGFE\CSE 593 Applied Project\Project 0\ServerApp\BEMS_IoT_Enabled\WebApplication1\bin\Release\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\ASU-AGFE\CSE 593 Applied Project\Project 0\ServerApp\BEMS_IoT_Enabled\WebApplication1\bin\Release\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\ASU-AGFE\CSE 593 Applied Project\Project 0\ServerApp\BEMS_IoT_Enabled\WebApplication1\bin\Release\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\ASU-AGFE\CSE 593 Applied Project\Project 0\ServerApp\BEMS_IoT_Enabled\WebApplication1\bin\Release\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\ASU-AGFE\CSE 593 Applied Project\Project 0\ServerApp\BEMS_IoT_Enabled\WebApplication1\bin\Release\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\ASU-AGFE\CSE 593 Applied Project\Project 0\ServerApp\BEMS_IoT_Enabled\WebApplication1\bin\Release\netcoreapp3.1\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\ASU-AGFE\CSE 593 Applied Project\Project 0\ServerApp\BEMS_IoT_Enabled\WebApplication1\bin\Release\netcoreapp3.1\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\ASU-AGFE\CSE 593 Applied Project\Project 0\ServerApp\BEMS_IoT_Enabled\WebApplication1\bin\Release\netcoreapp3.1\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\ASU-AGFE\CSE 593 Applied Project\Project 0\ServerApp\BEMS_IoT_Enabled\WebApplication1\bin\Release\netcoreapp3.1\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\ASU-AGFE\CSE 593 Applied Project\Project 0\ServerApp\BEMS_IoT_Enabled\WebApplication1\bin\Release\netcoreapp3.1\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\ASU-AGFE\CSE 593 Applied Project\Project 0\ServerApp\BEMS_IoT_Enabled\WebApplication1\bin\Release\netcoreapp3.1\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\ASU-AGFE\CSE 593 Applied Project\Project 0\ServerApp\BEMS_IoT_Enabled\WebApplication1\bin\Release\netcoreapp3.1\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\ASU-AGFE\CSE 593 Applied Project\Project 0\ServerApp\BEMS_IoT_Enabled\WebApplication1\bin\Release\netcoreapp3.1\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\ASU-AGFE\CSE 593 Applied Project\Project 0\ServerApp\BEMS_IoT_Enabled\WebApplication1\bin\Release\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\ASU-AGFE\CSE 593 Applied Project\Project 0\ServerApp\BEMS_IoT_Enabled\WebApplication1\bin\Release\netcoreapp3.1\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\ASU-AGFE\CSE 593 Applied Project\Project 0\ServerApp\BEMS_IoT_Enabled\WebApplication1\bin\Release\netcoreapp3.1\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\ASU-AGFE\CSE 593 Applied Project\Project 0\ServerApp\BEMS_IoT_Enabled\WebApplication1\bin\Release\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\ASU-AGFE\CSE 593 Applied Project\Project 0\ServerApp\BEMS_IoT_Enabled\WebApplication1\bin\Release\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\ASU-AGFE\CSE 593 Applied Project\Project 0\ServerApp\BEMS_IoT_Enabled\WebApplication1\bin\Release\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Net.Http.WinHttpHandler.dll
+D:\ASU-AGFE\CSE 593 Applied Project\Project 0\ServerApp\BEMS_IoT_Enabled\WebApplication1\bin\Release\netcoreapp3.1\runtimes\unix\lib\netstandard2.0\System.Private.ServiceModel.dll
+D:\ASU-AGFE\CSE 593 Applied Project\Project 0\ServerApp\BEMS_IoT_Enabled\WebApplication1\bin\Release\netcoreapp3.1\runtimes\win7\lib\netstandard2.0\System.Private.ServiceModel.dll
+D:\ASU-AGFE\CSE 593 Applied Project\Project 0\ServerApp\BEMS_IoT_Enabled\WebApplication1\obj\Release\netcoreapp3.1\WebApplication1.AssemblyInfoInputs.cache
+D:\ASU-AGFE\CSE 593 Applied Project\Project 0\ServerApp\BEMS_IoT_Enabled\WebApplication1\obj\Release\netcoreapp3.1\WebApplication1.AssemblyInfo.cs
+D:\ASU-AGFE\CSE 593 Applied Project\Project 0\ServerApp\BEMS_IoT_Enabled\WebApplication1\obj\Release\netcoreapp3.1\WebApplication1.csproj.CoreCompileInputs.cache
+D:\ASU-AGFE\CSE 593 Applied Project\Project 0\ServerApp\BEMS_IoT_Enabled\WebApplication1\obj\Release\netcoreapp3.1\WebApplication1.MvcApplicationPartsAssemblyInfo.cache
+D:\ASU-AGFE\CSE 593 Applied Project\Project 0\ServerApp\BEMS_IoT_Enabled\WebApplication1\obj\Release\netcoreapp3.1\WebApplication1.RazorAssemblyInfo.cache
+D:\ASU-AGFE\CSE 593 Applied Project\Project 0\ServerApp\BEMS_IoT_Enabled\WebApplication1\obj\Release\netcoreapp3.1\WebApplication1.RazorAssemblyInfo.cs
+D:\ASU-AGFE\CSE 593 Applied Project\Project 0\ServerApp\BEMS_IoT_Enabled\WebApplication1\obj\Release\netcoreapp3.1\staticwebassets\WebApplication1.StaticWebAssets.Manifest.cache
+D:\ASU-AGFE\CSE 593 Applied Project\Project 0\ServerApp\BEMS_IoT_Enabled\WebApplication1\obj\Release\netcoreapp3.1\staticwebassets\WebApplication1.StaticWebAssets.xml
+D:\ASU-AGFE\CSE 593 Applied Project\Project 0\ServerApp\BEMS_IoT_Enabled\WebApplication1\obj\Release\netcoreapp3.1\scopedcss\bundle\WebApplication1.styles.css
+D:\ASU-AGFE\CSE 593 Applied Project\Project 0\ServerApp\BEMS_IoT_Enabled\WebApplication1\obj\Release\netcoreapp3.1\WebApplication1.TagHelpers.input.cache
+D:\ASU-AGFE\CSE 593 Applied Project\Project 0\ServerApp\BEMS_IoT_Enabled\WebApplication1\obj\Release\netcoreapp3.1\WebApplication1.TagHelpers.output.cache
+D:\ASU-AGFE\CSE 593 Applied Project\Project 0\ServerApp\BEMS_IoT_Enabled\WebApplication1\obj\Release\netcoreapp3.1\WebApplication1.RazorCoreGenerate.cache
+D:\ASU-AGFE\CSE 593 Applied Project\Project 0\ServerApp\BEMS_IoT_Enabled\WebApplication1\obj\Release\netcoreapp3.1\Razor\Views\Home\About.cshtml.g.cs
+D:\ASU-AGFE\CSE 593 Applied Project\Project 0\ServerApp\BEMS_IoT_Enabled\WebApplication1\obj\Release\netcoreapp3.1\Razor\Views\Home\Contact.cshtml.g.cs
+D:\ASU-AGFE\CSE 593 Applied Project\Project 0\ServerApp\BEMS_IoT_Enabled\WebApplication1\obj\Release\netcoreapp3.1\Razor\Views\Home\Controlling.cshtml.g.cs
+D:\ASU-AGFE\CSE 593 Applied Project\Project 0\ServerApp\BEMS_IoT_Enabled\WebApplication1\obj\Release\netcoreapp3.1\Razor\Views\Home\Dashboards.cshtml.g.cs
+D:\ASU-AGFE\CSE 593 Applied Project\Project 0\ServerApp\BEMS_IoT_Enabled\WebApplication1\obj\Release\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+D:\ASU-AGFE\CSE 593 Applied Project\Project 0\ServerApp\BEMS_IoT_Enabled\WebApplication1\obj\Release\netcoreapp3.1\Razor\Views\Home\Login.cshtml.g.cs
+D:\ASU-AGFE\CSE 593 Applied Project\Project 0\ServerApp\BEMS_IoT_Enabled\WebApplication1\obj\Release\netcoreapp3.1\Razor\Views\Home\RawData.cshtml.g.cs
+D:\ASU-AGFE\CSE 593 Applied Project\Project 0\ServerApp\BEMS_IoT_Enabled\WebApplication1\obj\Release\netcoreapp3.1\Razor\Views\Home\Register.cshtml.g.cs
+D:\ASU-AGFE\CSE 593 Applied Project\Project 0\ServerApp\BEMS_IoT_Enabled\WebApplication1\obj\Release\netcoreapp3.1\Razor\Views\Home\TestSuite.cshtml.g.cs
+D:\ASU-AGFE\CSE 593 Applied Project\Project 0\ServerApp\BEMS_IoT_Enabled\WebApplication1\obj\Release\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+D:\ASU-AGFE\CSE 593 Applied Project\Project 0\ServerApp\BEMS_IoT_Enabled\WebApplication1\obj\Release\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+D:\ASU-AGFE\CSE 593 Applied Project\Project 0\ServerApp\BEMS_IoT_Enabled\WebApplication1\obj\Release\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+D:\ASU-AGFE\CSE 593 Applied Project\Project 0\ServerApp\BEMS_IoT_Enabled\WebApplication1\obj\Release\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+D:\ASU-AGFE\CSE 593 Applied Project\Project 0\ServerApp\BEMS_IoT_Enabled\WebApplication1\obj\Release\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+D:\ASU-AGFE\CSE 593 Applied Project\Project 0\ServerApp\BEMS_IoT_Enabled\WebApplication1\obj\Release\netcoreapp3.1\WebApplication1.RazorTargetAssemblyInfo.cache
+D:\ASU-AGFE\CSE 593 Applied Project\Project 0\ServerApp\BEMS_IoT_Enabled\WebApplication1\obj\Release\netcoreapp3.1\WebApplication1.RazorTargetAssemblyInfo.cs
+D:\ASU-AGFE\CSE 593 Applied Project\Project 0\ServerApp\BEMS_IoT_Enabled\WebApplication1\obj\Release\netcoreapp3.1\WebApplication1.Views.pdb
+D:\ASU-AGFE\CSE 593 Applied Project\Project 0\ServerApp\BEMS_IoT_Enabled\WebApplication1\obj\Release\netcoreapp3.1\WebApplication1.csproj.CopyComplete
+D:\ASU-AGFE\CSE 593 Applied Project\Project 0\ServerApp\BEMS_IoT_Enabled\WebApplication1\obj\Release\netcoreapp3.1\WebApplication1.dll
+D:\ASU-AGFE\CSE 593 Applied Project\Project 0\ServerApp\BEMS_IoT_Enabled\WebApplication1\obj\Release\netcoreapp3.1\WebApplication1.pdb
+D:\ASU-AGFE\CSE 593 Applied Project\Project 0\ServerApp\BEMS_IoT_Enabled\WebApplication1\obj\Release\netcoreapp3.1\WebApplication1.genruntimeconfig.cache
+D:\ASU-AGFE\CSE 593 Applied Project\Project 0\ServerApp\BEMS_IoT_Enabled\WebApplication1\obj\Release\netcoreapp3.1\WebApplication1.csprojAssemblyReference.cache
+D:\ASU-AGFE\CSE 593 Applied Project\Project 0\ServerApp\BEMS_IoT_Enabled\WebApplication1\obj\Release\netcoreapp3.1\Razor\Views\Home\IndoorParam.cshtml.g.cs
+D:\ASU-AGFE\CSE 593 Applied Project\Project 0\ServerApp\BEMS_IoT_Enabled\WebApplication1\obj\Release\netcoreapp3.1\Razor\Views\Home\OutdoorParam.cshtml.g.cs
+D:\ASU-AGFE\CSE 593 Applied Project\Project 0\ServerApp\BEMS_IoT_Enabled\WebApplication1\obj\Release\netcoreapp3.1\Razor\Views\Home\AggregateData.cshtml.g.cs
+D:\ASU-AGFE\CSE 593 Applied Project\Project 0\ServerApp\BEMS_IoT_Enabled\WebApplication1\obj\Release\netcoreapp3.1\Razor\Views\Home\SensingUnits.cshtml.g.cs
+D:\ASU-AGFE\CSE 593 Applied Project\Project 0\ServerApp\BEMS_IoT_Enabled\WebApplication1\bin\Release\netcoreapp3.1\Connected Services\WeatherService\ConnectedService.json
+D:\ASU-AGFE\CSE 593 Applied Project\Project 0\ServerApp\BEMS_IoT_Enabled\WebApplication1\bin\Release\netcoreapp3.1\EntityFramework.SqlServer.dll
+D:\ASU-AGFE\CSE 593 Applied Project\Project 0\ServerApp\BEMS_IoT_Enabled\WebApplication1\bin\Release\netcoreapp3.1\EntityFramework.dll
+D:\ASU-AGFE\CSE 593 Applied Project\Project 0\ServerApp\BEMS_IoT_Enabled\WebApplication1\bin\Release\netcoreapp3.1\Microsoft.AspNet.Identity.Core.dll
+D:\ASU-AGFE\CSE 593 Applied Project\Project 0\ServerApp\BEMS_IoT_Enabled\WebApplication1\bin\Release\netcoreapp3.1\Microsoft.AspNet.Identity.EntityFramework.dll
+D:\ASU-AGFE\CSE 593 Applied Project\Project 0\ServerApp\Final Edits\BEMS_IoT_Enabled - Edit 1\WebApplication1\bin\Release\netcoreapp3.1\appsettings.Development.json
+D:\ASU-AGFE\CSE 593 Applied Project\Project 0\ServerApp\Final Edits\BEMS_IoT_Enabled - Edit 1\WebApplication1\bin\Release\netcoreapp3.1\appsettings.json
+D:\ASU-AGFE\CSE 593 Applied Project\Project 0\ServerApp\Final Edits\BEMS_IoT_Enabled - Edit 1\WebApplication1\bin\Release\netcoreapp3.1\Connected Services\WeatherService\ConnectedService.json
+D:\ASU-AGFE\CSE 593 Applied Project\Project 0\ServerApp\Final Edits\BEMS_IoT_Enabled - Edit 1\WebApplication1\bin\Release\netcoreapp3.1\WebApplication1.exe
+D:\ASU-AGFE\CSE 593 Applied Project\Project 0\ServerApp\Final Edits\BEMS_IoT_Enabled - Edit 1\WebApplication1\bin\Release\netcoreapp3.1\WebApplication1.deps.json
+D:\ASU-AGFE\CSE 593 Applied Project\Project 0\ServerApp\Final Edits\BEMS_IoT_Enabled - Edit 1\WebApplication1\bin\Release\netcoreapp3.1\WebApplication1.runtimeconfig.json
+D:\ASU-AGFE\CSE 593 Applied Project\Project 0\ServerApp\Final Edits\BEMS_IoT_Enabled - Edit 1\WebApplication1\bin\Release\netcoreapp3.1\WebApplication1.runtimeconfig.dev.json
+D:\ASU-AGFE\CSE 593 Applied Project\Project 0\ServerApp\Final Edits\BEMS_IoT_Enabled - Edit 1\WebApplication1\bin\Release\netcoreapp3.1\WebApplication1.dll
+D:\ASU-AGFE\CSE 593 Applied Project\Project 0\ServerApp\Final Edits\BEMS_IoT_Enabled - Edit 1\WebApplication1\bin\Release\netcoreapp3.1\WebApplication1.pdb
+D:\ASU-AGFE\CSE 593 Applied Project\Project 0\ServerApp\Final Edits\BEMS_IoT_Enabled - Edit 1\WebApplication1\bin\Release\netcoreapp3.1\WebApplication1.Views.dll
+D:\ASU-AGFE\CSE 593 Applied Project\Project 0\ServerApp\Final Edits\BEMS_IoT_Enabled - Edit 1\WebApplication1\bin\Release\netcoreapp3.1\WebApplication1.Views.pdb
+D:\ASU-AGFE\CSE 593 Applied Project\Project 0\ServerApp\Final Edits\BEMS_IoT_Enabled - Edit 1\WebApplication1\bin\Release\netcoreapp3.1\Microsoft.AspNetCore.Razor.Language.dll
+D:\ASU-AGFE\CSE 593 Applied Project\Project 0\ServerApp\Final Edits\BEMS_IoT_Enabled - Edit 1\WebApplication1\bin\Release\netcoreapp3.1\Microsoft.CodeAnalysis.dll
+D:\ASU-AGFE\CSE 593 Applied Project\Project 0\ServerApp\Final Edits\BEMS_IoT_Enabled - Edit 1\WebApplication1\bin\Release\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
+D:\ASU-AGFE\CSE 593 Applied Project\Project 0\ServerApp\Final Edits\BEMS_IoT_Enabled - Edit 1\WebApplication1\bin\Release\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+D:\ASU-AGFE\CSE 593 Applied Project\Project 0\ServerApp\Final Edits\BEMS_IoT_Enabled - Edit 1\WebApplication1\bin\Release\netcoreapp3.1\Microsoft.CodeAnalysis.Razor.dll
+D:\ASU-AGFE\CSE 593 Applied Project\Project 0\ServerApp\Final Edits\BEMS_IoT_Enabled - Edit 1\WebApplication1\bin\Release\netcoreapp3.1\Microsoft.CodeAnalysis.Workspaces.dll
+D:\ASU-AGFE\CSE 593 Applied Project\Project 0\ServerApp\Final Edits\BEMS_IoT_Enabled - Edit 1\WebApplication1\bin\Release\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.dll
+D:\ASU-AGFE\CSE 593 Applied Project\Project 0\ServerApp\Final Edits\BEMS_IoT_Enabled - Edit 1\WebApplication1\bin\Release\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+D:\ASU-AGFE\CSE 593 Applied Project\Project 0\ServerApp\Final Edits\BEMS_IoT_Enabled - Edit 1\WebApplication1\bin\Release\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+D:\ASU-AGFE\CSE 593 Applied Project\Project 0\ServerApp\Final Edits\BEMS_IoT_Enabled - Edit 1\WebApplication1\bin\Release\netcoreapp3.1\dotnet-aspnet-codegenerator-design.dll
+D:\ASU-AGFE\CSE 593 Applied Project\Project 0\ServerApp\Final Edits\BEMS_IoT_Enabled - Edit 1\WebApplication1\bin\Release\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+D:\ASU-AGFE\CSE 593 Applied Project\Project 0\ServerApp\Final Edits\BEMS_IoT_Enabled - Edit 1\WebApplication1\bin\Release\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+D:\ASU-AGFE\CSE 593 Applied Project\Project 0\ServerApp\Final Edits\BEMS_IoT_Enabled - Edit 1\WebApplication1\bin\Release\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+D:\ASU-AGFE\CSE 593 Applied Project\Project 0\ServerApp\Final Edits\BEMS_IoT_Enabled - Edit 1\WebApplication1\bin\Release\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+D:\ASU-AGFE\CSE 593 Applied Project\Project 0\ServerApp\Final Edits\BEMS_IoT_Enabled - Edit 1\WebApplication1\bin\Release\netcoreapp3.1\Newtonsoft.Json.dll
+D:\ASU-AGFE\CSE 593 Applied Project\Project 0\ServerApp\Final Edits\BEMS_IoT_Enabled - Edit 1\WebApplication1\bin\Release\netcoreapp3.1\NuGet.Frameworks.dll
+D:\ASU-AGFE\CSE 593 Applied Project\Project 0\ServerApp\Final Edits\BEMS_IoT_Enabled - Edit 1\WebApplication1\bin\Release\netcoreapp3.1\System.Composition.AttributedModel.dll
+D:\ASU-AGFE\CSE 593 Applied Project\Project 0\ServerApp\Final Edits\BEMS_IoT_Enabled - Edit 1\WebApplication1\bin\Release\netcoreapp3.1\System.Composition.Convention.dll
+D:\ASU-AGFE\CSE 593 Applied Project\Project 0\ServerApp\Final Edits\BEMS_IoT_Enabled - Edit 1\WebApplication1\bin\Release\netcoreapp3.1\System.Composition.Hosting.dll
+D:\ASU-AGFE\CSE 593 Applied Project\Project 0\ServerApp\Final Edits\BEMS_IoT_Enabled - Edit 1\WebApplication1\bin\Release\netcoreapp3.1\System.Composition.Runtime.dll
+D:\ASU-AGFE\CSE 593 Applied Project\Project 0\ServerApp\Final Edits\BEMS_IoT_Enabled - Edit 1\WebApplication1\bin\Release\netcoreapp3.1\System.Composition.TypedParts.dll
+D:\ASU-AGFE\CSE 593 Applied Project\Project 0\ServerApp\Final Edits\BEMS_IoT_Enabled - Edit 1\WebApplication1\bin\Release\netcoreapp3.1\System.Net.Http.WinHttpHandler.dll
+D:\ASU-AGFE\CSE 593 Applied Project\Project 0\ServerApp\Final Edits\BEMS_IoT_Enabled - Edit 1\WebApplication1\bin\Release\netcoreapp3.1\System.ServiceModel.Duplex.dll
+D:\ASU-AGFE\CSE 593 Applied Project\Project 0\ServerApp\Final Edits\BEMS_IoT_Enabled - Edit 1\WebApplication1\bin\Release\netcoreapp3.1\System.ServiceModel.Http.dll
+D:\ASU-AGFE\CSE 593 Applied Project\Project 0\ServerApp\Final Edits\BEMS_IoT_Enabled - Edit 1\WebApplication1\bin\Release\netcoreapp3.1\System.ServiceModel.NetTcp.dll
+D:\ASU-AGFE\CSE 593 Applied Project\Project 0\ServerApp\Final Edits\BEMS_IoT_Enabled - Edit 1\WebApplication1\bin\Release\netcoreapp3.1\System.ServiceModel.Primitives.dll
+D:\ASU-AGFE\CSE 593 Applied Project\Project 0\ServerApp\Final Edits\BEMS_IoT_Enabled - Edit 1\WebApplication1\bin\Release\netcoreapp3.1\System.ServiceModel.dll
+D:\ASU-AGFE\CSE 593 Applied Project\Project 0\ServerApp\Final Edits\BEMS_IoT_Enabled - Edit 1\WebApplication1\bin\Release\netcoreapp3.1\System.ServiceModel.Security.dll
+D:\ASU-AGFE\CSE 593 Applied Project\Project 0\ServerApp\Final Edits\BEMS_IoT_Enabled - Edit 1\WebApplication1\bin\Release\netcoreapp3.1\cs\Microsoft.CodeAnalysis.resources.dll
+D:\ASU-AGFE\CSE 593 Applied Project\Project 0\ServerApp\Final Edits\BEMS_IoT_Enabled - Edit 1\WebApplication1\bin\Release\netcoreapp3.1\de\Microsoft.CodeAnalysis.resources.dll
+D:\ASU-AGFE\CSE 593 Applied Project\Project 0\ServerApp\Final Edits\BEMS_IoT_Enabled - Edit 1\WebApplication1\bin\Release\netcoreapp3.1\es\Microsoft.CodeAnalysis.resources.dll
+D:\ASU-AGFE\CSE 593 Applied Project\Project 0\ServerApp\Final Edits\BEMS_IoT_Enabled - Edit 1\WebApplication1\bin\Release\netcoreapp3.1\fr\Microsoft.CodeAnalysis.resources.dll
+D:\ASU-AGFE\CSE 593 Applied Project\Project 0\ServerApp\Final Edits\BEMS_IoT_Enabled - Edit 1\WebApplication1\bin\Release\netcoreapp3.1\it\Microsoft.CodeAnalysis.resources.dll
+D:\ASU-AGFE\CSE 593 Applied Project\Project 0\ServerApp\Final Edits\BEMS_IoT_Enabled - Edit 1\WebApplication1\bin\Release\netcoreapp3.1\ja\Microsoft.CodeAnalysis.resources.dll
+D:\ASU-AGFE\CSE 593 Applied Project\Project 0\ServerApp\Final Edits\BEMS_IoT_Enabled - Edit 1\WebApplication1\bin\Release\netcoreapp3.1\ko\Microsoft.CodeAnalysis.resources.dll
+D:\ASU-AGFE\CSE 593 Applied Project\Project 0\ServerApp\Final Edits\BEMS_IoT_Enabled - Edit 1\WebApplication1\bin\Release\netcoreapp3.1\pl\Microsoft.CodeAnalysis.resources.dll
+D:\ASU-AGFE\CSE 593 Applied Project\Project 0\ServerApp\Final Edits\BEMS_IoT_Enabled - Edit 1\WebApplication1\bin\Release\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.resources.dll
+D:\ASU-AGFE\CSE 593 Applied Project\Project 0\ServerApp\Final Edits\BEMS_IoT_Enabled - Edit 1\WebApplication1\bin\Release\netcoreapp3.1\ru\Microsoft.CodeAnalysis.resources.dll
+D:\ASU-AGFE\CSE 593 Applied Project\Project 0\ServerApp\Final Edits\BEMS_IoT_Enabled - Edit 1\WebApplication1\bin\Release\netcoreapp3.1\tr\Microsoft.CodeAnalysis.resources.dll
+D:\ASU-AGFE\CSE 593 Applied Project\Project 0\ServerApp\Final Edits\BEMS_IoT_Enabled - Edit 1\WebApplication1\bin\Release\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+D:\ASU-AGFE\CSE 593 Applied Project\Project 0\ServerApp\Final Edits\BEMS_IoT_Enabled - Edit 1\WebApplication1\bin\Release\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+D:\ASU-AGFE\CSE 593 Applied Project\Project 0\ServerApp\Final Edits\BEMS_IoT_Enabled - Edit 1\WebApplication1\bin\Release\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\ASU-AGFE\CSE 593 Applied Project\Project 0\ServerApp\Final Edits\BEMS_IoT_Enabled - Edit 1\WebApplication1\bin\Release\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\ASU-AGFE\CSE 593 Applied Project\Project 0\ServerApp\Final Edits\BEMS_IoT_Enabled - Edit 1\WebApplication1\bin\Release\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\ASU-AGFE\CSE 593 Applied Project\Project 0\ServerApp\Final Edits\BEMS_IoT_Enabled - Edit 1\WebApplication1\bin\Release\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\ASU-AGFE\CSE 593 Applied Project\Project 0\ServerApp\Final Edits\BEMS_IoT_Enabled - Edit 1\WebApplication1\bin\Release\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\ASU-AGFE\CSE 593 Applied Project\Project 0\ServerApp\Final Edits\BEMS_IoT_Enabled - Edit 1\WebApplication1\bin\Release\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\ASU-AGFE\CSE 593 Applied Project\Project 0\ServerApp\Final Edits\BEMS_IoT_Enabled - Edit 1\WebApplication1\bin\Release\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\ASU-AGFE\CSE 593 Applied Project\Project 0\ServerApp\Final Edits\BEMS_IoT_Enabled - Edit 1\WebApplication1\bin\Release\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\ASU-AGFE\CSE 593 Applied Project\Project 0\ServerApp\Final Edits\BEMS_IoT_Enabled - Edit 1\WebApplication1\bin\Release\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\ASU-AGFE\CSE 593 Applied Project\Project 0\ServerApp\Final Edits\BEMS_IoT_Enabled - Edit 1\WebApplication1\bin\Release\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\ASU-AGFE\CSE 593 Applied Project\Project 0\ServerApp\Final Edits\BEMS_IoT_Enabled - Edit 1\WebApplication1\bin\Release\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\ASU-AGFE\CSE 593 Applied Project\Project 0\ServerApp\Final Edits\BEMS_IoT_Enabled - Edit 1\WebApplication1\bin\Release\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\ASU-AGFE\CSE 593 Applied Project\Project 0\ServerApp\Final Edits\BEMS_IoT_Enabled - Edit 1\WebApplication1\bin\Release\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\ASU-AGFE\CSE 593 Applied Project\Project 0\ServerApp\Final Edits\BEMS_IoT_Enabled - Edit 1\WebApplication1\bin\Release\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\ASU-AGFE\CSE 593 Applied Project\Project 0\ServerApp\Final Edits\BEMS_IoT_Enabled - Edit 1\WebApplication1\bin\Release\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\ASU-AGFE\CSE 593 Applied Project\Project 0\ServerApp\Final Edits\BEMS_IoT_Enabled - Edit 1\WebApplication1\bin\Release\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\ASU-AGFE\CSE 593 Applied Project\Project 0\ServerApp\Final Edits\BEMS_IoT_Enabled - Edit 1\WebApplication1\bin\Release\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\ASU-AGFE\CSE 593 Applied Project\Project 0\ServerApp\Final Edits\BEMS_IoT_Enabled - Edit 1\WebApplication1\bin\Release\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\ASU-AGFE\CSE 593 Applied Project\Project 0\ServerApp\Final Edits\BEMS_IoT_Enabled - Edit 1\WebApplication1\bin\Release\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\ASU-AGFE\CSE 593 Applied Project\Project 0\ServerApp\Final Edits\BEMS_IoT_Enabled - Edit 1\WebApplication1\bin\Release\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\ASU-AGFE\CSE 593 Applied Project\Project 0\ServerApp\Final Edits\BEMS_IoT_Enabled - Edit 1\WebApplication1\bin\Release\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\ASU-AGFE\CSE 593 Applied Project\Project 0\ServerApp\Final Edits\BEMS_IoT_Enabled - Edit 1\WebApplication1\bin\Release\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\ASU-AGFE\CSE 593 Applied Project\Project 0\ServerApp\Final Edits\BEMS_IoT_Enabled - Edit 1\WebApplication1\bin\Release\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\ASU-AGFE\CSE 593 Applied Project\Project 0\ServerApp\Final Edits\BEMS_IoT_Enabled - Edit 1\WebApplication1\bin\Release\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\ASU-AGFE\CSE 593 Applied Project\Project 0\ServerApp\Final Edits\BEMS_IoT_Enabled - Edit 1\WebApplication1\bin\Release\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\ASU-AGFE\CSE 593 Applied Project\Project 0\ServerApp\Final Edits\BEMS_IoT_Enabled - Edit 1\WebApplication1\bin\Release\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\ASU-AGFE\CSE 593 Applied Project\Project 0\ServerApp\Final Edits\BEMS_IoT_Enabled - Edit 1\WebApplication1\bin\Release\netcoreapp3.1\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\ASU-AGFE\CSE 593 Applied Project\Project 0\ServerApp\Final Edits\BEMS_IoT_Enabled - Edit 1\WebApplication1\bin\Release\netcoreapp3.1\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\ASU-AGFE\CSE 593 Applied Project\Project 0\ServerApp\Final Edits\BEMS_IoT_Enabled - Edit 1\WebApplication1\bin\Release\netcoreapp3.1\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\ASU-AGFE\CSE 593 Applied Project\Project 0\ServerApp\Final Edits\BEMS_IoT_Enabled - Edit 1\WebApplication1\bin\Release\netcoreapp3.1\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\ASU-AGFE\CSE 593 Applied Project\Project 0\ServerApp\Final Edits\BEMS_IoT_Enabled - Edit 1\WebApplication1\bin\Release\netcoreapp3.1\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\ASU-AGFE\CSE 593 Applied Project\Project 0\ServerApp\Final Edits\BEMS_IoT_Enabled - Edit 1\WebApplication1\bin\Release\netcoreapp3.1\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\ASU-AGFE\CSE 593 Applied Project\Project 0\ServerApp\Final Edits\BEMS_IoT_Enabled - Edit 1\WebApplication1\bin\Release\netcoreapp3.1\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\ASU-AGFE\CSE 593 Applied Project\Project 0\ServerApp\Final Edits\BEMS_IoT_Enabled - Edit 1\WebApplication1\bin\Release\netcoreapp3.1\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\ASU-AGFE\CSE 593 Applied Project\Project 0\ServerApp\Final Edits\BEMS_IoT_Enabled - Edit 1\WebApplication1\bin\Release\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\ASU-AGFE\CSE 593 Applied Project\Project 0\ServerApp\Final Edits\BEMS_IoT_Enabled - Edit 1\WebApplication1\bin\Release\netcoreapp3.1\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\ASU-AGFE\CSE 593 Applied Project\Project 0\ServerApp\Final Edits\BEMS_IoT_Enabled - Edit 1\WebApplication1\bin\Release\netcoreapp3.1\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\ASU-AGFE\CSE 593 Applied Project\Project 0\ServerApp\Final Edits\BEMS_IoT_Enabled - Edit 1\WebApplication1\bin\Release\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\ASU-AGFE\CSE 593 Applied Project\Project 0\ServerApp\Final Edits\BEMS_IoT_Enabled - Edit 1\WebApplication1\bin\Release\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\ASU-AGFE\CSE 593 Applied Project\Project 0\ServerApp\Final Edits\BEMS_IoT_Enabled - Edit 1\WebApplication1\bin\Release\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Net.Http.WinHttpHandler.dll
+D:\ASU-AGFE\CSE 593 Applied Project\Project 0\ServerApp\Final Edits\BEMS_IoT_Enabled - Edit 1\WebApplication1\bin\Release\netcoreapp3.1\runtimes\unix\lib\netstandard2.0\System.Private.ServiceModel.dll
+D:\ASU-AGFE\CSE 593 Applied Project\Project 0\ServerApp\Final Edits\BEMS_IoT_Enabled - Edit 1\WebApplication1\bin\Release\netcoreapp3.1\runtimes\win7\lib\netstandard2.0\System.Private.ServiceModel.dll
+D:\ASU-AGFE\CSE 593 Applied Project\Project 0\ServerApp\Final Edits\BEMS_IoT_Enabled - Edit 1\WebApplication1\obj\Release\netcoreapp3.1\WebApplication1.csprojAssemblyReference.cache
+D:\ASU-AGFE\CSE 593 Applied Project\Project 0\ServerApp\Final Edits\BEMS_IoT_Enabled - Edit 1\WebApplication1\obj\Release\netcoreapp3.1\WebApplication1.AssemblyInfoInputs.cache
+D:\ASU-AGFE\CSE 593 Applied Project\Project 0\ServerApp\Final Edits\BEMS_IoT_Enabled - Edit 1\WebApplication1\obj\Release\netcoreapp3.1\WebApplication1.AssemblyInfo.cs
+D:\ASU-AGFE\CSE 593 Applied Project\Project 0\ServerApp\Final Edits\BEMS_IoT_Enabled - Edit 1\WebApplication1\obj\Release\netcoreapp3.1\WebApplication1.csproj.CoreCompileInputs.cache
+D:\ASU-AGFE\CSE 593 Applied Project\Project 0\ServerApp\Final Edits\BEMS_IoT_Enabled - Edit 1\WebApplication1\obj\Release\netcoreapp3.1\WebApplication1.MvcApplicationPartsAssemblyInfo.cache
+D:\ASU-AGFE\CSE 593 Applied Project\Project 0\ServerApp\Final Edits\BEMS_IoT_Enabled - Edit 1\WebApplication1\obj\Release\netcoreapp3.1\WebApplication1.RazorAssemblyInfo.cache
+D:\ASU-AGFE\CSE 593 Applied Project\Project 0\ServerApp\Final Edits\BEMS_IoT_Enabled - Edit 1\WebApplication1\obj\Release\netcoreapp3.1\WebApplication1.RazorAssemblyInfo.cs
+D:\ASU-AGFE\CSE 593 Applied Project\Project 0\ServerApp\Final Edits\BEMS_IoT_Enabled - Edit 1\WebApplication1\obj\Release\netcoreapp3.1\staticwebassets\WebApplication1.StaticWebAssets.Manifest.cache
+D:\ASU-AGFE\CSE 593 Applied Project\Project 0\ServerApp\Final Edits\BEMS_IoT_Enabled - Edit 1\WebApplication1\obj\Release\netcoreapp3.1\staticwebassets\WebApplication1.StaticWebAssets.xml
+D:\ASU-AGFE\CSE 593 Applied Project\Project 0\ServerApp\Final Edits\BEMS_IoT_Enabled - Edit 1\WebApplication1\obj\Release\netcoreapp3.1\scopedcss\bundle\WebApplication1.styles.css
+D:\ASU-AGFE\CSE 593 Applied Project\Project 0\ServerApp\Final Edits\BEMS_IoT_Enabled - Edit 1\WebApplication1\obj\Release\netcoreapp3.1\WebApplication1.TagHelpers.input.cache
+D:\ASU-AGFE\CSE 593 Applied Project\Project 0\ServerApp\Final Edits\BEMS_IoT_Enabled - Edit 1\WebApplication1\obj\Release\netcoreapp3.1\WebApplication1.TagHelpers.output.cache
+D:\ASU-AGFE\CSE 593 Applied Project\Project 0\ServerApp\Final Edits\BEMS_IoT_Enabled - Edit 1\WebApplication1\obj\Release\netcoreapp3.1\WebApplication1.RazorCoreGenerate.cache
+D:\ASU-AGFE\CSE 593 Applied Project\Project 0\ServerApp\Final Edits\BEMS_IoT_Enabled - Edit 1\WebApplication1\obj\Release\netcoreapp3.1\Razor\Views\Home\About.cshtml.g.cs
+D:\ASU-AGFE\CSE 593 Applied Project\Project 0\ServerApp\Final Edits\BEMS_IoT_Enabled - Edit 1\WebApplication1\obj\Release\netcoreapp3.1\Razor\Views\Home\AggregateData.cshtml.g.cs
+D:\ASU-AGFE\CSE 593 Applied Project\Project 0\ServerApp\Final Edits\BEMS_IoT_Enabled - Edit 1\WebApplication1\obj\Release\netcoreapp3.1\Razor\Views\Home\Contact.cshtml.g.cs
+D:\ASU-AGFE\CSE 593 Applied Project\Project 0\ServerApp\Final Edits\BEMS_IoT_Enabled - Edit 1\WebApplication1\obj\Release\netcoreapp3.1\Razor\Views\Home\Controlling.cshtml.g.cs
+D:\ASU-AGFE\CSE 593 Applied Project\Project 0\ServerApp\Final Edits\BEMS_IoT_Enabled - Edit 1\WebApplication1\obj\Release\netcoreapp3.1\Razor\Views\Home\Dashboards.cshtml.g.cs
+D:\ASU-AGFE\CSE 593 Applied Project\Project 0\ServerApp\Final Edits\BEMS_IoT_Enabled - Edit 1\WebApplication1\obj\Release\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+D:\ASU-AGFE\CSE 593 Applied Project\Project 0\ServerApp\Final Edits\BEMS_IoT_Enabled - Edit 1\WebApplication1\obj\Release\netcoreapp3.1\Razor\Views\Home\IndoorParam.cshtml.g.cs
+D:\ASU-AGFE\CSE 593 Applied Project\Project 0\ServerApp\Final Edits\BEMS_IoT_Enabled - Edit 1\WebApplication1\obj\Release\netcoreapp3.1\Razor\Views\Home\OutdoorParam.cshtml.g.cs
+D:\ASU-AGFE\CSE 593 Applied Project\Project 0\ServerApp\Final Edits\BEMS_IoT_Enabled - Edit 1\WebApplication1\obj\Release\netcoreapp3.1\Razor\Views\Home\RawData.cshtml.g.cs
+D:\ASU-AGFE\CSE 593 Applied Project\Project 0\ServerApp\Final Edits\BEMS_IoT_Enabled - Edit 1\WebApplication1\obj\Release\netcoreapp3.1\Razor\Views\Home\SensingUnits.cshtml.g.cs
+D:\ASU-AGFE\CSE 593 Applied Project\Project 0\ServerApp\Final Edits\BEMS_IoT_Enabled - Edit 1\WebApplication1\obj\Release\netcoreapp3.1\Razor\Views\Home\TestSuite.cshtml.g.cs
+D:\ASU-AGFE\CSE 593 Applied Project\Project 0\ServerApp\Final Edits\BEMS_IoT_Enabled - Edit 1\WebApplication1\obj\Release\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+D:\ASU-AGFE\CSE 593 Applied Project\Project 0\ServerApp\Final Edits\BEMS_IoT_Enabled - Edit 1\WebApplication1\obj\Release\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+D:\ASU-AGFE\CSE 593 Applied Project\Project 0\ServerApp\Final Edits\BEMS_IoT_Enabled - Edit 1\WebApplication1\obj\Release\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+D:\ASU-AGFE\CSE 593 Applied Project\Project 0\ServerApp\Final Edits\BEMS_IoT_Enabled - Edit 1\WebApplication1\obj\Release\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+D:\ASU-AGFE\CSE 593 Applied Project\Project 0\ServerApp\Final Edits\BEMS_IoT_Enabled - Edit 1\WebApplication1\obj\Release\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+D:\ASU-AGFE\CSE 593 Applied Project\Project 0\ServerApp\Final Edits\BEMS_IoT_Enabled - Edit 1\WebApplication1\obj\Release\netcoreapp3.1\WebApplication1.RazorTargetAssemblyInfo.cache
+D:\ASU-AGFE\CSE 593 Applied Project\Project 0\ServerApp\Final Edits\BEMS_IoT_Enabled - Edit 1\WebApplication1\obj\Release\netcoreapp3.1\WebApplication1.RazorTargetAssemblyInfo.cs
+D:\ASU-AGFE\CSE 593 Applied Project\Project 0\ServerApp\Final Edits\BEMS_IoT_Enabled - Edit 1\WebApplication1\obj\Release\netcoreapp3.1\WebApplication1.Views.pdb
+D:\ASU-AGFE\CSE 593 Applied Project\Project 0\ServerApp\Final Edits\BEMS_IoT_Enabled - Edit 1\WebApplication1\obj\Release\netcoreapp3.1\WebApplication1.csproj.CopyComplete
+D:\ASU-AGFE\CSE 593 Applied Project\Project 0\ServerApp\Final Edits\BEMS_IoT_Enabled - Edit 1\WebApplication1\obj\Release\netcoreapp3.1\WebApplication1.dll
+D:\ASU-AGFE\CSE 593 Applied Project\Project 0\ServerApp\Final Edits\BEMS_IoT_Enabled - Edit 1\WebApplication1\obj\Release\netcoreapp3.1\WebApplication1.pdb
+D:\ASU-AGFE\CSE 593 Applied Project\Project 0\ServerApp\Final Edits\BEMS_IoT_Enabled - Edit 1\WebApplication1\obj\Release\netcoreapp3.1\WebApplication1.genruntimeconfig.cache
+D:\ASU-AGFE\CSE 593 Applied Project\Project 0\ServerApp\Final Edits\BEMS_IoT_Enabled - Edit 1\WebApplication1\obj\Release\netcoreapp3.1\Razor\Views\Account\Login.cshtml.g.cs
+D:\ASU-AGFE\CSE 593 Applied Project\Project 0\ServerApp\Final Edits\BEMS_IoT_Enabled - Edit 1\WebApplication1\obj\Release\netcoreapp3.1\Razor\Views\Account\Register.cshtml.g.cs
+D:\ASU-AGFE\CSE 593 Applied Project\Project 0\ServerApp\Final Edits\BEMS_IoT_Enabled - Edit 1\WebApplication1\bin\Release\netcoreapp3.1\Connected Services\AccountMgmtSvc\ConnectedService.json
+D:\ASU-AGFE\CSE 593 Applied Project\Project 0\ServerApp\Final Edits\BEMS_IoT_Enabled - Edit 1\WebApplication1\bin\Release\netcoreapp3.1\EncryptDecrypt.dll
+D:\ASU-AGFE\CSE 593 Applied Project\Project 0\ServerApp\Final Edits\BEMS_IoT_Enabled - Edit 1\WebApplication1\bin\Release\netcoreapp3.1\SendGrid.dll
+D:\ASU-AGFE\CSE 593 Applied Project\Project 0\ServerApp\Final Edits\BEMS_IoT_Enabled - Edit 1\WebApplication1\bin\Release\netcoreapp3.1\StarkbankEcdsa.dll
+D:\ASU-AGFE\CSE 593 Applied Project\Project 0\ServerApp\Final Edits\BEMS_IoT_Enabled - Edit 1\WebApplication1\obj\Release\netcoreapp3.1\Razor\Views\Account\AccessDenied.cshtml.g.cs
+D:\ASU-AGFE\CSE 593 Applied Project\Project 0\ServerApp\Final Edits\BEMS_IoT_Enabled - Edit 1\WebApplication1\obj\Release\netcoreapp3.1\Razor\Views\Home\Analytics.cshtml.g.cs
+D:\ASU-AGFE\CSE 593 Applied Project\Project 0\ServerApp\Final Edits\BEMS_IoT_Enabled - Edit 2\WebApplication1\bin\Release\netcoreapp3.1\appsettings.Development.json
+D:\ASU-AGFE\CSE 593 Applied Project\Project 0\ServerApp\Final Edits\BEMS_IoT_Enabled - Edit 2\WebApplication1\bin\Release\netcoreapp3.1\appsettings.json
+D:\ASU-AGFE\CSE 593 Applied Project\Project 0\ServerApp\Final Edits\BEMS_IoT_Enabled - Edit 2\WebApplication1\bin\Release\netcoreapp3.1\Connected Services\AccountMgmtSvc\ConnectedService.json
+D:\ASU-AGFE\CSE 593 Applied Project\Project 0\ServerApp\Final Edits\BEMS_IoT_Enabled - Edit 2\WebApplication1\bin\Release\netcoreapp3.1\Connected Services\WeatherService\ConnectedService.json
+D:\ASU-AGFE\CSE 593 Applied Project\Project 0\ServerApp\Final Edits\BEMS_IoT_Enabled - Edit 2\WebApplication1\bin\Release\netcoreapp3.1\WebApplication1.exe
+D:\ASU-AGFE\CSE 593 Applied Project\Project 0\ServerApp\Final Edits\BEMS_IoT_Enabled - Edit 2\WebApplication1\bin\Release\netcoreapp3.1\WebApplication1.deps.json
+D:\ASU-AGFE\CSE 593 Applied Project\Project 0\ServerApp\Final Edits\BEMS_IoT_Enabled - Edit 2\WebApplication1\bin\Release\netcoreapp3.1\WebApplication1.runtimeconfig.json
+D:\ASU-AGFE\CSE 593 Applied Project\Project 0\ServerApp\Final Edits\BEMS_IoT_Enabled - Edit 2\WebApplication1\bin\Release\netcoreapp3.1\WebApplication1.runtimeconfig.dev.json
+D:\ASU-AGFE\CSE 593 Applied Project\Project 0\ServerApp\Final Edits\BEMS_IoT_Enabled - Edit 2\WebApplication1\bin\Release\netcoreapp3.1\WebApplication1.dll
+D:\ASU-AGFE\CSE 593 Applied Project\Project 0\ServerApp\Final Edits\BEMS_IoT_Enabled - Edit 2\WebApplication1\bin\Release\netcoreapp3.1\WebApplication1.pdb
+D:\ASU-AGFE\CSE 593 Applied Project\Project 0\ServerApp\Final Edits\BEMS_IoT_Enabled - Edit 2\WebApplication1\bin\Release\netcoreapp3.1\WebApplication1.Views.dll
+D:\ASU-AGFE\CSE 593 Applied Project\Project 0\ServerApp\Final Edits\BEMS_IoT_Enabled - Edit 2\WebApplication1\bin\Release\netcoreapp3.1\WebApplication1.Views.pdb
+D:\ASU-AGFE\CSE 593 Applied Project\Project 0\ServerApp\Final Edits\BEMS_IoT_Enabled - Edit 2\WebApplication1\bin\Release\netcoreapp3.1\Microsoft.AspNetCore.Razor.Language.dll
+D:\ASU-AGFE\CSE 593 Applied Project\Project 0\ServerApp\Final Edits\BEMS_IoT_Enabled - Edit 2\WebApplication1\bin\Release\netcoreapp3.1\Microsoft.CodeAnalysis.dll
+D:\ASU-AGFE\CSE 593 Applied Project\Project 0\ServerApp\Final Edits\BEMS_IoT_Enabled - Edit 2\WebApplication1\bin\Release\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
+D:\ASU-AGFE\CSE 593 Applied Project\Project 0\ServerApp\Final Edits\BEMS_IoT_Enabled - Edit 2\WebApplication1\bin\Release\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+D:\ASU-AGFE\CSE 593 Applied Project\Project 0\ServerApp\Final Edits\BEMS_IoT_Enabled - Edit 2\WebApplication1\bin\Release\netcoreapp3.1\Microsoft.CodeAnalysis.Razor.dll
+D:\ASU-AGFE\CSE 593 Applied Project\Project 0\ServerApp\Final Edits\BEMS_IoT_Enabled - Edit 2\WebApplication1\bin\Release\netcoreapp3.1\Microsoft.CodeAnalysis.Workspaces.dll
+D:\ASU-AGFE\CSE 593 Applied Project\Project 0\ServerApp\Final Edits\BEMS_IoT_Enabled - Edit 2\WebApplication1\bin\Release\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.dll
+D:\ASU-AGFE\CSE 593 Applied Project\Project 0\ServerApp\Final Edits\BEMS_IoT_Enabled - Edit 2\WebApplication1\bin\Release\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+D:\ASU-AGFE\CSE 593 Applied Project\Project 0\ServerApp\Final Edits\BEMS_IoT_Enabled - Edit 2\WebApplication1\bin\Release\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+D:\ASU-AGFE\CSE 593 Applied Project\Project 0\ServerApp\Final Edits\BEMS_IoT_Enabled - Edit 2\WebApplication1\bin\Release\netcoreapp3.1\dotnet-aspnet-codegenerator-design.dll
+D:\ASU-AGFE\CSE 593 Applied Project\Project 0\ServerApp\Final Edits\BEMS_IoT_Enabled - Edit 2\WebApplication1\bin\Release\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+D:\ASU-AGFE\CSE 593 Applied Project\Project 0\ServerApp\Final Edits\BEMS_IoT_Enabled - Edit 2\WebApplication1\bin\Release\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+D:\ASU-AGFE\CSE 593 Applied Project\Project 0\ServerApp\Final Edits\BEMS_IoT_Enabled - Edit 2\WebApplication1\bin\Release\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+D:\ASU-AGFE\CSE 593 Applied Project\Project 0\ServerApp\Final Edits\BEMS_IoT_Enabled - Edit 2\WebApplication1\bin\Release\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+D:\ASU-AGFE\CSE 593 Applied Project\Project 0\ServerApp\Final Edits\BEMS_IoT_Enabled - Edit 2\WebApplication1\bin\Release\netcoreapp3.1\Newtonsoft.Json.dll
+D:\ASU-AGFE\CSE 593 Applied Project\Project 0\ServerApp\Final Edits\BEMS_IoT_Enabled - Edit 2\WebApplication1\bin\Release\netcoreapp3.1\NuGet.Frameworks.dll
+D:\ASU-AGFE\CSE 593 Applied Project\Project 0\ServerApp\Final Edits\BEMS_IoT_Enabled - Edit 2\WebApplication1\bin\Release\netcoreapp3.1\SendGrid.dll
+D:\ASU-AGFE\CSE 593 Applied Project\Project 0\ServerApp\Final Edits\BEMS_IoT_Enabled - Edit 2\WebApplication1\bin\Release\netcoreapp3.1\StarkbankEcdsa.dll
+D:\ASU-AGFE\CSE 593 Applied Project\Project 0\ServerApp\Final Edits\BEMS_IoT_Enabled - Edit 2\WebApplication1\bin\Release\netcoreapp3.1\System.Composition.AttributedModel.dll
+D:\ASU-AGFE\CSE 593 Applied Project\Project 0\ServerApp\Final Edits\BEMS_IoT_Enabled - Edit 2\WebApplication1\bin\Release\netcoreapp3.1\System.Composition.Convention.dll
+D:\ASU-AGFE\CSE 593 Applied Project\Project 0\ServerApp\Final Edits\BEMS_IoT_Enabled - Edit 2\WebApplication1\bin\Release\netcoreapp3.1\System.Composition.Hosting.dll
+D:\ASU-AGFE\CSE 593 Applied Project\Project 0\ServerApp\Final Edits\BEMS_IoT_Enabled - Edit 2\WebApplication1\bin\Release\netcoreapp3.1\System.Composition.Runtime.dll
+D:\ASU-AGFE\CSE 593 Applied Project\Project 0\ServerApp\Final Edits\BEMS_IoT_Enabled - Edit 2\WebApplication1\bin\Release\netcoreapp3.1\System.Composition.TypedParts.dll
+D:\ASU-AGFE\CSE 593 Applied Project\Project 0\ServerApp\Final Edits\BEMS_IoT_Enabled - Edit 2\WebApplication1\bin\Release\netcoreapp3.1\System.Net.Http.WinHttpHandler.dll
+D:\ASU-AGFE\CSE 593 Applied Project\Project 0\ServerApp\Final Edits\BEMS_IoT_Enabled - Edit 2\WebApplication1\bin\Release\netcoreapp3.1\System.ServiceModel.Duplex.dll
+D:\ASU-AGFE\CSE 593 Applied Project\Project 0\ServerApp\Final Edits\BEMS_IoT_Enabled - Edit 2\WebApplication1\bin\Release\netcoreapp3.1\System.ServiceModel.Http.dll
+D:\ASU-AGFE\CSE 593 Applied Project\Project 0\ServerApp\Final Edits\BEMS_IoT_Enabled - Edit 2\WebApplication1\bin\Release\netcoreapp3.1\System.ServiceModel.NetTcp.dll
+D:\ASU-AGFE\CSE 593 Applied Project\Project 0\ServerApp\Final Edits\BEMS_IoT_Enabled - Edit 2\WebApplication1\bin\Release\netcoreapp3.1\System.ServiceModel.Primitives.dll
+D:\ASU-AGFE\CSE 593 Applied Project\Project 0\ServerApp\Final Edits\BEMS_IoT_Enabled - Edit 2\WebApplication1\bin\Release\netcoreapp3.1\System.ServiceModel.dll
+D:\ASU-AGFE\CSE 593 Applied Project\Project 0\ServerApp\Final Edits\BEMS_IoT_Enabled - Edit 2\WebApplication1\bin\Release\netcoreapp3.1\System.ServiceModel.Security.dll
+D:\ASU-AGFE\CSE 593 Applied Project\Project 0\ServerApp\Final Edits\BEMS_IoT_Enabled - Edit 2\WebApplication1\bin\Release\netcoreapp3.1\cs\Microsoft.CodeAnalysis.resources.dll
+D:\ASU-AGFE\CSE 593 Applied Project\Project 0\ServerApp\Final Edits\BEMS_IoT_Enabled - Edit 2\WebApplication1\bin\Release\netcoreapp3.1\de\Microsoft.CodeAnalysis.resources.dll
+D:\ASU-AGFE\CSE 593 Applied Project\Project 0\ServerApp\Final Edits\BEMS_IoT_Enabled - Edit 2\WebApplication1\bin\Release\netcoreapp3.1\es\Microsoft.CodeAnalysis.resources.dll
+D:\ASU-AGFE\CSE 593 Applied Project\Project 0\ServerApp\Final Edits\BEMS_IoT_Enabled - Edit 2\WebApplication1\bin\Release\netcoreapp3.1\fr\Microsoft.CodeAnalysis.resources.dll
+D:\ASU-AGFE\CSE 593 Applied Project\Project 0\ServerApp\Final Edits\BEMS_IoT_Enabled - Edit 2\WebApplication1\bin\Release\netcoreapp3.1\it\Microsoft.CodeAnalysis.resources.dll
+D:\ASU-AGFE\CSE 593 Applied Project\Project 0\ServerApp\Final Edits\BEMS_IoT_Enabled - Edit 2\WebApplication1\bin\Release\netcoreapp3.1\ja\Microsoft.CodeAnalysis.resources.dll
+D:\ASU-AGFE\CSE 593 Applied Project\Project 0\ServerApp\Final Edits\BEMS_IoT_Enabled - Edit 2\WebApplication1\bin\Release\netcoreapp3.1\ko\Microsoft.CodeAnalysis.resources.dll
+D:\ASU-AGFE\CSE 593 Applied Project\Project 0\ServerApp\Final Edits\BEMS_IoT_Enabled - Edit 2\WebApplication1\bin\Release\netcoreapp3.1\pl\Microsoft.CodeAnalysis.resources.dll
+D:\ASU-AGFE\CSE 593 Applied Project\Project 0\ServerApp\Final Edits\BEMS_IoT_Enabled - Edit 2\WebApplication1\bin\Release\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.resources.dll
+D:\ASU-AGFE\CSE 593 Applied Project\Project 0\ServerApp\Final Edits\BEMS_IoT_Enabled - Edit 2\WebApplication1\bin\Release\netcoreapp3.1\ru\Microsoft.CodeAnalysis.resources.dll
+D:\ASU-AGFE\CSE 593 Applied Project\Project 0\ServerApp\Final Edits\BEMS_IoT_Enabled - Edit 2\WebApplication1\bin\Release\netcoreapp3.1\tr\Microsoft.CodeAnalysis.resources.dll
+D:\ASU-AGFE\CSE 593 Applied Project\Project 0\ServerApp\Final Edits\BEMS_IoT_Enabled - Edit 2\WebApplication1\bin\Release\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+D:\ASU-AGFE\CSE 593 Applied Project\Project 0\ServerApp\Final Edits\BEMS_IoT_Enabled - Edit 2\WebApplication1\bin\Release\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+D:\ASU-AGFE\CSE 593 Applied Project\Project 0\ServerApp\Final Edits\BEMS_IoT_Enabled - Edit 2\WebApplication1\bin\Release\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\ASU-AGFE\CSE 593 Applied Project\Project 0\ServerApp\Final Edits\BEMS_IoT_Enabled - Edit 2\WebApplication1\bin\Release\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\ASU-AGFE\CSE 593 Applied Project\Project 0\ServerApp\Final Edits\BEMS_IoT_Enabled - Edit 2\WebApplication1\bin\Release\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\ASU-AGFE\CSE 593 Applied Project\Project 0\ServerApp\Final Edits\BEMS_IoT_Enabled - Edit 2\WebApplication1\bin\Release\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\ASU-AGFE\CSE 593 Applied Project\Project 0\ServerApp\Final Edits\BEMS_IoT_Enabled - Edit 2\WebApplication1\bin\Release\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\ASU-AGFE\CSE 593 Applied Project\Project 0\ServerApp\Final Edits\BEMS_IoT_Enabled - Edit 2\WebApplication1\bin\Release\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\ASU-AGFE\CSE 593 Applied Project\Project 0\ServerApp\Final Edits\BEMS_IoT_Enabled - Edit 2\WebApplication1\bin\Release\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\ASU-AGFE\CSE 593 Applied Project\Project 0\ServerApp\Final Edits\BEMS_IoT_Enabled - Edit 2\WebApplication1\bin\Release\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\ASU-AGFE\CSE 593 Applied Project\Project 0\ServerApp\Final Edits\BEMS_IoT_Enabled - Edit 2\WebApplication1\bin\Release\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\ASU-AGFE\CSE 593 Applied Project\Project 0\ServerApp\Final Edits\BEMS_IoT_Enabled - Edit 2\WebApplication1\bin\Release\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\ASU-AGFE\CSE 593 Applied Project\Project 0\ServerApp\Final Edits\BEMS_IoT_Enabled - Edit 2\WebApplication1\bin\Release\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\ASU-AGFE\CSE 593 Applied Project\Project 0\ServerApp\Final Edits\BEMS_IoT_Enabled - Edit 2\WebApplication1\bin\Release\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\ASU-AGFE\CSE 593 Applied Project\Project 0\ServerApp\Final Edits\BEMS_IoT_Enabled - Edit 2\WebApplication1\bin\Release\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\ASU-AGFE\CSE 593 Applied Project\Project 0\ServerApp\Final Edits\BEMS_IoT_Enabled - Edit 2\WebApplication1\bin\Release\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\ASU-AGFE\CSE 593 Applied Project\Project 0\ServerApp\Final Edits\BEMS_IoT_Enabled - Edit 2\WebApplication1\bin\Release\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\ASU-AGFE\CSE 593 Applied Project\Project 0\ServerApp\Final Edits\BEMS_IoT_Enabled - Edit 2\WebApplication1\bin\Release\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\ASU-AGFE\CSE 593 Applied Project\Project 0\ServerApp\Final Edits\BEMS_IoT_Enabled - Edit 2\WebApplication1\bin\Release\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\ASU-AGFE\CSE 593 Applied Project\Project 0\ServerApp\Final Edits\BEMS_IoT_Enabled - Edit 2\WebApplication1\bin\Release\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\ASU-AGFE\CSE 593 Applied Project\Project 0\ServerApp\Final Edits\BEMS_IoT_Enabled - Edit 2\WebApplication1\bin\Release\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\ASU-AGFE\CSE 593 Applied Project\Project 0\ServerApp\Final Edits\BEMS_IoT_Enabled - Edit 2\WebApplication1\bin\Release\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\ASU-AGFE\CSE 593 Applied Project\Project 0\ServerApp\Final Edits\BEMS_IoT_Enabled - Edit 2\WebApplication1\bin\Release\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\ASU-AGFE\CSE 593 Applied Project\Project 0\ServerApp\Final Edits\BEMS_IoT_Enabled - Edit 2\WebApplication1\bin\Release\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\ASU-AGFE\CSE 593 Applied Project\Project 0\ServerApp\Final Edits\BEMS_IoT_Enabled - Edit 2\WebApplication1\bin\Release\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\ASU-AGFE\CSE 593 Applied Project\Project 0\ServerApp\Final Edits\BEMS_IoT_Enabled - Edit 2\WebApplication1\bin\Release\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\ASU-AGFE\CSE 593 Applied Project\Project 0\ServerApp\Final Edits\BEMS_IoT_Enabled - Edit 2\WebApplication1\bin\Release\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\ASU-AGFE\CSE 593 Applied Project\Project 0\ServerApp\Final Edits\BEMS_IoT_Enabled - Edit 2\WebApplication1\bin\Release\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\ASU-AGFE\CSE 593 Applied Project\Project 0\ServerApp\Final Edits\BEMS_IoT_Enabled - Edit 2\WebApplication1\bin\Release\netcoreapp3.1\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\ASU-AGFE\CSE 593 Applied Project\Project 0\ServerApp\Final Edits\BEMS_IoT_Enabled - Edit 2\WebApplication1\bin\Release\netcoreapp3.1\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\ASU-AGFE\CSE 593 Applied Project\Project 0\ServerApp\Final Edits\BEMS_IoT_Enabled - Edit 2\WebApplication1\bin\Release\netcoreapp3.1\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\ASU-AGFE\CSE 593 Applied Project\Project 0\ServerApp\Final Edits\BEMS_IoT_Enabled - Edit 2\WebApplication1\bin\Release\netcoreapp3.1\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\ASU-AGFE\CSE 593 Applied Project\Project 0\ServerApp\Final Edits\BEMS_IoT_Enabled - Edit 2\WebApplication1\bin\Release\netcoreapp3.1\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\ASU-AGFE\CSE 593 Applied Project\Project 0\ServerApp\Final Edits\BEMS_IoT_Enabled - Edit 2\WebApplication1\bin\Release\netcoreapp3.1\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\ASU-AGFE\CSE 593 Applied Project\Project 0\ServerApp\Final Edits\BEMS_IoT_Enabled - Edit 2\WebApplication1\bin\Release\netcoreapp3.1\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\ASU-AGFE\CSE 593 Applied Project\Project 0\ServerApp\Final Edits\BEMS_IoT_Enabled - Edit 2\WebApplication1\bin\Release\netcoreapp3.1\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\ASU-AGFE\CSE 593 Applied Project\Project 0\ServerApp\Final Edits\BEMS_IoT_Enabled - Edit 2\WebApplication1\bin\Release\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\ASU-AGFE\CSE 593 Applied Project\Project 0\ServerApp\Final Edits\BEMS_IoT_Enabled - Edit 2\WebApplication1\bin\Release\netcoreapp3.1\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\ASU-AGFE\CSE 593 Applied Project\Project 0\ServerApp\Final Edits\BEMS_IoT_Enabled - Edit 2\WebApplication1\bin\Release\netcoreapp3.1\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\ASU-AGFE\CSE 593 Applied Project\Project 0\ServerApp\Final Edits\BEMS_IoT_Enabled - Edit 2\WebApplication1\bin\Release\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\ASU-AGFE\CSE 593 Applied Project\Project 0\ServerApp\Final Edits\BEMS_IoT_Enabled - Edit 2\WebApplication1\bin\Release\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\ASU-AGFE\CSE 593 Applied Project\Project 0\ServerApp\Final Edits\BEMS_IoT_Enabled - Edit 2\WebApplication1\bin\Release\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Net.Http.WinHttpHandler.dll
+D:\ASU-AGFE\CSE 593 Applied Project\Project 0\ServerApp\Final Edits\BEMS_IoT_Enabled - Edit 2\WebApplication1\bin\Release\netcoreapp3.1\runtimes\unix\lib\netstandard2.0\System.Private.ServiceModel.dll
+D:\ASU-AGFE\CSE 593 Applied Project\Project 0\ServerApp\Final Edits\BEMS_IoT_Enabled - Edit 2\WebApplication1\bin\Release\netcoreapp3.1\runtimes\win7\lib\netstandard2.0\System.Private.ServiceModel.dll
+D:\ASU-AGFE\CSE 593 Applied Project\Project 0\ServerApp\Final Edits\BEMS_IoT_Enabled - Edit 2\WebApplication1\bin\Release\netcoreapp3.1\EncryptDecrypt.dll
+D:\ASU-AGFE\CSE 593 Applied Project\Project 0\ServerApp\Final Edits\BEMS_IoT_Enabled - Edit 2\WebApplication1\obj\Release\netcoreapp3.1\WebApplication1.csprojAssemblyReference.cache
+D:\ASU-AGFE\CSE 593 Applied Project\Project 0\ServerApp\Final Edits\BEMS_IoT_Enabled - Edit 2\WebApplication1\obj\Release\netcoreapp3.1\WebApplication1.AssemblyInfoInputs.cache
+D:\ASU-AGFE\CSE 593 Applied Project\Project 0\ServerApp\Final Edits\BEMS_IoT_Enabled - Edit 2\WebApplication1\obj\Release\netcoreapp3.1\WebApplication1.AssemblyInfo.cs
+D:\ASU-AGFE\CSE 593 Applied Project\Project 0\ServerApp\Final Edits\BEMS_IoT_Enabled - Edit 2\WebApplication1\obj\Release\netcoreapp3.1\WebApplication1.csproj.CoreCompileInputs.cache
+D:\ASU-AGFE\CSE 593 Applied Project\Project 0\ServerApp\Final Edits\BEMS_IoT_Enabled - Edit 2\WebApplication1\obj\Release\netcoreapp3.1\WebApplication1.MvcApplicationPartsAssemblyInfo.cache
+D:\ASU-AGFE\CSE 593 Applied Project\Project 0\ServerApp\Final Edits\BEMS_IoT_Enabled - Edit 2\WebApplication1\obj\Release\netcoreapp3.1\WebApplication1.RazorAssemblyInfo.cache
+D:\ASU-AGFE\CSE 593 Applied Project\Project 0\ServerApp\Final Edits\BEMS_IoT_Enabled - Edit 2\WebApplication1\obj\Release\netcoreapp3.1\WebApplication1.RazorAssemblyInfo.cs
+D:\ASU-AGFE\CSE 593 Applied Project\Project 0\ServerApp\Final Edits\BEMS_IoT_Enabled - Edit 2\WebApplication1\obj\Release\netcoreapp3.1\staticwebassets\WebApplication1.StaticWebAssets.Manifest.cache
+D:\ASU-AGFE\CSE 593 Applied Project\Project 0\ServerApp\Final Edits\BEMS_IoT_Enabled - Edit 2\WebApplication1\obj\Release\netcoreapp3.1\staticwebassets\WebApplication1.StaticWebAssets.xml
+D:\ASU-AGFE\CSE 593 Applied Project\Project 0\ServerApp\Final Edits\BEMS_IoT_Enabled - Edit 2\WebApplication1\obj\Release\netcoreapp3.1\scopedcss\bundle\WebApplication1.styles.css
+D:\ASU-AGFE\CSE 593 Applied Project\Project 0\ServerApp\Final Edits\BEMS_IoT_Enabled - Edit 2\WebApplication1\obj\Release\netcoreapp3.1\WebApplication1.TagHelpers.input.cache
+D:\ASU-AGFE\CSE 593 Applied Project\Project 0\ServerApp\Final Edits\BEMS_IoT_Enabled - Edit 2\WebApplication1\obj\Release\netcoreapp3.1\WebApplication1.TagHelpers.output.cache
+D:\ASU-AGFE\CSE 593 Applied Project\Project 0\ServerApp\Final Edits\BEMS_IoT_Enabled - Edit 2\WebApplication1\obj\Release\netcoreapp3.1\WebApplication1.RazorCoreGenerate.cache
+D:\ASU-AGFE\CSE 593 Applied Project\Project 0\ServerApp\Final Edits\BEMS_IoT_Enabled - Edit 2\WebApplication1\obj\Release\netcoreapp3.1\Razor\Views\Account\AccessDenied.cshtml.g.cs
+D:\ASU-AGFE\CSE 593 Applied Project\Project 0\ServerApp\Final Edits\BEMS_IoT_Enabled - Edit 2\WebApplication1\obj\Release\netcoreapp3.1\Razor\Views\Account\Login.cshtml.g.cs
+D:\ASU-AGFE\CSE 593 Applied Project\Project 0\ServerApp\Final Edits\BEMS_IoT_Enabled - Edit 2\WebApplication1\obj\Release\netcoreapp3.1\Razor\Views\Account\Register.cshtml.g.cs
+D:\ASU-AGFE\CSE 593 Applied Project\Project 0\ServerApp\Final Edits\BEMS_IoT_Enabled - Edit 2\WebApplication1\obj\Release\netcoreapp3.1\Razor\Views\Home\About.cshtml.g.cs
+D:\ASU-AGFE\CSE 593 Applied Project\Project 0\ServerApp\Final Edits\BEMS_IoT_Enabled - Edit 2\WebApplication1\obj\Release\netcoreapp3.1\Razor\Views\Home\AggregateData.cshtml.g.cs
+D:\ASU-AGFE\CSE 593 Applied Project\Project 0\ServerApp\Final Edits\BEMS_IoT_Enabled - Edit 2\WebApplication1\obj\Release\netcoreapp3.1\Razor\Views\Home\Analytics.cshtml.g.cs
+D:\ASU-AGFE\CSE 593 Applied Project\Project 0\ServerApp\Final Edits\BEMS_IoT_Enabled - Edit 2\WebApplication1\obj\Release\netcoreapp3.1\Razor\Views\Home\Contact.cshtml.g.cs
+D:\ASU-AGFE\CSE 593 Applied Project\Project 0\ServerApp\Final Edits\BEMS_IoT_Enabled - Edit 2\WebApplication1\obj\Release\netcoreapp3.1\Razor\Views\Home\Controlling.cshtml.g.cs
+D:\ASU-AGFE\CSE 593 Applied Project\Project 0\ServerApp\Final Edits\BEMS_IoT_Enabled - Edit 2\WebApplication1\obj\Release\netcoreapp3.1\Razor\Views\Home\Dashboards.cshtml.g.cs
+D:\ASU-AGFE\CSE 593 Applied Project\Project 0\ServerApp\Final Edits\BEMS_IoT_Enabled - Edit 2\WebApplication1\obj\Release\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+D:\ASU-AGFE\CSE 593 Applied Project\Project 0\ServerApp\Final Edits\BEMS_IoT_Enabled - Edit 2\WebApplication1\obj\Release\netcoreapp3.1\Razor\Views\Home\IndoorParam.cshtml.g.cs
+D:\ASU-AGFE\CSE 593 Applied Project\Project 0\ServerApp\Final Edits\BEMS_IoT_Enabled - Edit 2\WebApplication1\obj\Release\netcoreapp3.1\Razor\Views\Home\OutdoorParam.cshtml.g.cs
+D:\ASU-AGFE\CSE 593 Applied Project\Project 0\ServerApp\Final Edits\BEMS_IoT_Enabled - Edit 2\WebApplication1\obj\Release\netcoreapp3.1\Razor\Views\Home\RawData.cshtml.g.cs
+D:\ASU-AGFE\CSE 593 Applied Project\Project 0\ServerApp\Final Edits\BEMS_IoT_Enabled - Edit 2\WebApplication1\obj\Release\netcoreapp3.1\Razor\Views\Home\SensingUnits.cshtml.g.cs
+D:\ASU-AGFE\CSE 593 Applied Project\Project 0\ServerApp\Final Edits\BEMS_IoT_Enabled - Edit 2\WebApplication1\obj\Release\netcoreapp3.1\Razor\Views\Home\TestSuite.cshtml.g.cs
+D:\ASU-AGFE\CSE 593 Applied Project\Project 0\ServerApp\Final Edits\BEMS_IoT_Enabled - Edit 2\WebApplication1\obj\Release\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+D:\ASU-AGFE\CSE 593 Applied Project\Project 0\ServerApp\Final Edits\BEMS_IoT_Enabled - Edit 2\WebApplication1\obj\Release\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+D:\ASU-AGFE\CSE 593 Applied Project\Project 0\ServerApp\Final Edits\BEMS_IoT_Enabled - Edit 2\WebApplication1\obj\Release\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+D:\ASU-AGFE\CSE 593 Applied Project\Project 0\ServerApp\Final Edits\BEMS_IoT_Enabled - Edit 2\WebApplication1\obj\Release\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+D:\ASU-AGFE\CSE 593 Applied Project\Project 0\ServerApp\Final Edits\BEMS_IoT_Enabled - Edit 2\WebApplication1\obj\Release\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+D:\ASU-AGFE\CSE 593 Applied Project\Project 0\ServerApp\Final Edits\BEMS_IoT_Enabled - Edit 2\WebApplication1\obj\Release\netcoreapp3.1\WebApplication1.RazorTargetAssemblyInfo.cache
+D:\ASU-AGFE\CSE 593 Applied Project\Project 0\ServerApp\Final Edits\BEMS_IoT_Enabled - Edit 2\WebApplication1\obj\Release\netcoreapp3.1\WebApplication1.RazorTargetAssemblyInfo.cs
+D:\ASU-AGFE\CSE 593 Applied Project\Project 0\ServerApp\Final Edits\BEMS_IoT_Enabled - Edit 2\WebApplication1\obj\Release\netcoreapp3.1\WebApplication1.Views.pdb
+D:\ASU-AGFE\CSE 593 Applied Project\Project 0\ServerApp\Final Edits\BEMS_IoT_Enabled - Edit 2\WebApplication1\obj\Release\netcoreapp3.1\WebApplication1.csproj.CopyComplete
+D:\ASU-AGFE\CSE 593 Applied Project\Project 0\ServerApp\Final Edits\BEMS_IoT_Enabled - Edit 2\WebApplication1\obj\Release\netcoreapp3.1\WebApplication1.dll
+D:\ASU-AGFE\CSE 593 Applied Project\Project 0\ServerApp\Final Edits\BEMS_IoT_Enabled - Edit 2\WebApplication1\obj\Release\netcoreapp3.1\WebApplication1.pdb
+D:\ASU-AGFE\CSE 593 Applied Project\Project 0\ServerApp\Final Edits\BEMS_IoT_Enabled - Edit 2\WebApplication1\obj\Release\netcoreapp3.1\WebApplication1.genruntimeconfig.cache
+D:\ASU-AGFE\CSE 593 Applied Project\Project 0\ServerApp\Final Edits\BEMS_IoT_Enabled - Edit 2\WebApplication1\obj\Release\netcoreapp3.1\Razor\Views\Test\WeatherSvcTest.cshtml.g.cs
+D:\ASU-AGFE\CSE 593 Applied Project\Project 0\ServerApp\Final Edits\BEMS_IoT_Enabled - Edit 2\WebApplication1\obj\Release\netcoreapp3.1\Razor\Views\Test\DashboardsTest.cshtml.g.cs
+D:\ASU-AGFE\CSE 593 Applied Project\Project 0\ServerApp\Final Edits\BEMS_IoT_Enabled - Edit 2\WebApplication1\obj\Release\netcoreapp3.1\Razor\Views\Test\RegistrationTest.cshtml.g.cs
+D:\ASU-AGFE\CSE 593 Applied Project\Project 0\ServerApp\Final Edits\BEMS_IoT_Enabled - Edit 2\WebApplication1\bin\Release\netcoreapp3.1\Connected Services\DatabaseMgmtSvc\ConnectedService.json
+D:\ASU-AGFE\CSE 593 Applied Project\Project 0\ServerApp\Final Edits\BEMS_IoT_Enabled - Edit 2\WebApplication1\obj\Release\netcoreapp3.1\Razor\Views\Test\DatabaseTest.cshtml.g.cs
+D:\ASU-AGFE\CSE 593 Applied Project\Project 0\ServerApp\Final Edits\BEMS_IoT_Enabled - Edit 2\WebApplication1\obj\Release\netcoreapp3.1\Razor\Views\Test\AuthorizeTest.cshtml.g.cs
+D:\ASU-AGFE\CSE 593 Applied Project\Project 0\ServerApp\Final Edits\BEMS_IoT_Enabled - Edit 3\WebApplication1\bin\Release\netcoreapp3.1\appsettings.Development.json
+D:\ASU-AGFE\CSE 593 Applied Project\Project 0\ServerApp\Final Edits\BEMS_IoT_Enabled - Edit 3\WebApplication1\bin\Release\netcoreapp3.1\appsettings.json
+D:\ASU-AGFE\CSE 593 Applied Project\Project 0\ServerApp\Final Edits\BEMS_IoT_Enabled - Edit 3\WebApplication1\bin\Release\netcoreapp3.1\Connected Services\AccountMgmtSvc\ConnectedService.json
+D:\ASU-AGFE\CSE 593 Applied Project\Project 0\ServerApp\Final Edits\BEMS_IoT_Enabled - Edit 3\WebApplication1\bin\Release\netcoreapp3.1\Connected Services\DatabaseMgmtSvc\ConnectedService.json
+D:\ASU-AGFE\CSE 593 Applied Project\Project 0\ServerApp\Final Edits\BEMS_IoT_Enabled - Edit 3\WebApplication1\bin\Release\netcoreapp3.1\Connected Services\WeatherService\ConnectedService.json
+D:\ASU-AGFE\CSE 593 Applied Project\Project 0\ServerApp\Final Edits\BEMS_IoT_Enabled - Edit 3\WebApplication1\bin\Release\netcoreapp3.1\WebApplication1.exe
+D:\ASU-AGFE\CSE 593 Applied Project\Project 0\ServerApp\Final Edits\BEMS_IoT_Enabled - Edit 3\WebApplication1\bin\Release\netcoreapp3.1\WebApplication1.deps.json
+D:\ASU-AGFE\CSE 593 Applied Project\Project 0\ServerApp\Final Edits\BEMS_IoT_Enabled - Edit 3\WebApplication1\bin\Release\netcoreapp3.1\WebApplication1.runtimeconfig.json
+D:\ASU-AGFE\CSE 593 Applied Project\Project 0\ServerApp\Final Edits\BEMS_IoT_Enabled - Edit 3\WebApplication1\bin\Release\netcoreapp3.1\WebApplication1.runtimeconfig.dev.json
+D:\ASU-AGFE\CSE 593 Applied Project\Project 0\ServerApp\Final Edits\BEMS_IoT_Enabled - Edit 3\WebApplication1\bin\Release\netcoreapp3.1\WebApplication1.dll
+D:\ASU-AGFE\CSE 593 Applied Project\Project 0\ServerApp\Final Edits\BEMS_IoT_Enabled - Edit 3\WebApplication1\bin\Release\netcoreapp3.1\WebApplication1.pdb
+D:\ASU-AGFE\CSE 593 Applied Project\Project 0\ServerApp\Final Edits\BEMS_IoT_Enabled - Edit 3\WebApplication1\bin\Release\netcoreapp3.1\WebApplication1.Views.dll
+D:\ASU-AGFE\CSE 593 Applied Project\Project 0\ServerApp\Final Edits\BEMS_IoT_Enabled - Edit 3\WebApplication1\bin\Release\netcoreapp3.1\WebApplication1.Views.pdb
+D:\ASU-AGFE\CSE 593 Applied Project\Project 0\ServerApp\Final Edits\BEMS_IoT_Enabled - Edit 3\WebApplication1\bin\Release\netcoreapp3.1\Microsoft.AspNetCore.Razor.Language.dll
+D:\ASU-AGFE\CSE 593 Applied Project\Project 0\ServerApp\Final Edits\BEMS_IoT_Enabled - Edit 3\WebApplication1\bin\Release\netcoreapp3.1\Microsoft.CodeAnalysis.dll
+D:\ASU-AGFE\CSE 593 Applied Project\Project 0\ServerApp\Final Edits\BEMS_IoT_Enabled - Edit 3\WebApplication1\bin\Release\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
+D:\ASU-AGFE\CSE 593 Applied Project\Project 0\ServerApp\Final Edits\BEMS_IoT_Enabled - Edit 3\WebApplication1\bin\Release\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+D:\ASU-AGFE\CSE 593 Applied Project\Project 0\ServerApp\Final Edits\BEMS_IoT_Enabled - Edit 3\WebApplication1\bin\Release\netcoreapp3.1\Microsoft.CodeAnalysis.Razor.dll
+D:\ASU-AGFE\CSE 593 Applied Project\Project 0\ServerApp\Final Edits\BEMS_IoT_Enabled - Edit 3\WebApplication1\bin\Release\netcoreapp3.1\Microsoft.CodeAnalysis.Workspaces.dll
+D:\ASU-AGFE\CSE 593 Applied Project\Project 0\ServerApp\Final Edits\BEMS_IoT_Enabled - Edit 3\WebApplication1\bin\Release\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.dll
+D:\ASU-AGFE\CSE 593 Applied Project\Project 0\ServerApp\Final Edits\BEMS_IoT_Enabled - Edit 3\WebApplication1\bin\Release\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+D:\ASU-AGFE\CSE 593 Applied Project\Project 0\ServerApp\Final Edits\BEMS_IoT_Enabled - Edit 3\WebApplication1\bin\Release\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+D:\ASU-AGFE\CSE 593 Applied Project\Project 0\ServerApp\Final Edits\BEMS_IoT_Enabled - Edit 3\WebApplication1\bin\Release\netcoreapp3.1\dotnet-aspnet-codegenerator-design.dll
+D:\ASU-AGFE\CSE 593 Applied Project\Project 0\ServerApp\Final Edits\BEMS_IoT_Enabled - Edit 3\WebApplication1\bin\Release\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+D:\ASU-AGFE\CSE 593 Applied Project\Project 0\ServerApp\Final Edits\BEMS_IoT_Enabled - Edit 3\WebApplication1\bin\Release\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+D:\ASU-AGFE\CSE 593 Applied Project\Project 0\ServerApp\Final Edits\BEMS_IoT_Enabled - Edit 3\WebApplication1\bin\Release\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+D:\ASU-AGFE\CSE 593 Applied Project\Project 0\ServerApp\Final Edits\BEMS_IoT_Enabled - Edit 3\WebApplication1\bin\Release\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+D:\ASU-AGFE\CSE 593 Applied Project\Project 0\ServerApp\Final Edits\BEMS_IoT_Enabled - Edit 3\WebApplication1\bin\Release\netcoreapp3.1\Newtonsoft.Json.dll
+D:\ASU-AGFE\CSE 593 Applied Project\Project 0\ServerApp\Final Edits\BEMS_IoT_Enabled - Edit 3\WebApplication1\bin\Release\netcoreapp3.1\NuGet.Frameworks.dll
+D:\ASU-AGFE\CSE 593 Applied Project\Project 0\ServerApp\Final Edits\BEMS_IoT_Enabled - Edit 3\WebApplication1\bin\Release\netcoreapp3.1\SendGrid.dll
+D:\ASU-AGFE\CSE 593 Applied Project\Project 0\ServerApp\Final Edits\BEMS_IoT_Enabled - Edit 3\WebApplication1\bin\Release\netcoreapp3.1\StarkbankEcdsa.dll
+D:\ASU-AGFE\CSE 593 Applied Project\Project 0\ServerApp\Final Edits\BEMS_IoT_Enabled - Edit 3\WebApplication1\bin\Release\netcoreapp3.1\System.Composition.AttributedModel.dll
+D:\ASU-AGFE\CSE 593 Applied Project\Project 0\ServerApp\Final Edits\BEMS_IoT_Enabled - Edit 3\WebApplication1\bin\Release\netcoreapp3.1\System.Composition.Convention.dll
+D:\ASU-AGFE\CSE 593 Applied Project\Project 0\ServerApp\Final Edits\BEMS_IoT_Enabled - Edit 3\WebApplication1\bin\Release\netcoreapp3.1\System.Composition.Hosting.dll
+D:\ASU-AGFE\CSE 593 Applied Project\Project 0\ServerApp\Final Edits\BEMS_IoT_Enabled - Edit 3\WebApplication1\bin\Release\netcoreapp3.1\System.Composition.Runtime.dll
+D:\ASU-AGFE\CSE 593 Applied Project\Project 0\ServerApp\Final Edits\BEMS_IoT_Enabled - Edit 3\WebApplication1\bin\Release\netcoreapp3.1\System.Composition.TypedParts.dll
+D:\ASU-AGFE\CSE 593 Applied Project\Project 0\ServerApp\Final Edits\BEMS_IoT_Enabled - Edit 3\WebApplication1\bin\Release\netcoreapp3.1\System.Net.Http.WinHttpHandler.dll
+D:\ASU-AGFE\CSE 593 Applied Project\Project 0\ServerApp\Final Edits\BEMS_IoT_Enabled - Edit 3\WebApplication1\bin\Release\netcoreapp3.1\System.ServiceModel.Duplex.dll
+D:\ASU-AGFE\CSE 593 Applied Project\Project 0\ServerApp\Final Edits\BEMS_IoT_Enabled - Edit 3\WebApplication1\bin\Release\netcoreapp3.1\System.ServiceModel.Http.dll
+D:\ASU-AGFE\CSE 593 Applied Project\Project 0\ServerApp\Final Edits\BEMS_IoT_Enabled - Edit 3\WebApplication1\bin\Release\netcoreapp3.1\System.ServiceModel.NetTcp.dll
+D:\ASU-AGFE\CSE 593 Applied Project\Project 0\ServerApp\Final Edits\BEMS_IoT_Enabled - Edit 3\WebApplication1\bin\Release\netcoreapp3.1\System.ServiceModel.Primitives.dll
+D:\ASU-AGFE\CSE 593 Applied Project\Project 0\ServerApp\Final Edits\BEMS_IoT_Enabled - Edit 3\WebApplication1\bin\Release\netcoreapp3.1\System.ServiceModel.dll
+D:\ASU-AGFE\CSE 593 Applied Project\Project 0\ServerApp\Final Edits\BEMS_IoT_Enabled - Edit 3\WebApplication1\bin\Release\netcoreapp3.1\System.ServiceModel.Security.dll
+D:\ASU-AGFE\CSE 593 Applied Project\Project 0\ServerApp\Final Edits\BEMS_IoT_Enabled - Edit 3\WebApplication1\bin\Release\netcoreapp3.1\cs\Microsoft.CodeAnalysis.resources.dll
+D:\ASU-AGFE\CSE 593 Applied Project\Project 0\ServerApp\Final Edits\BEMS_IoT_Enabled - Edit 3\WebApplication1\bin\Release\netcoreapp3.1\de\Microsoft.CodeAnalysis.resources.dll
+D:\ASU-AGFE\CSE 593 Applied Project\Project 0\ServerApp\Final Edits\BEMS_IoT_Enabled - Edit 3\WebApplication1\bin\Release\netcoreapp3.1\es\Microsoft.CodeAnalysis.resources.dll
+D:\ASU-AGFE\CSE 593 Applied Project\Project 0\ServerApp\Final Edits\BEMS_IoT_Enabled - Edit 3\WebApplication1\bin\Release\netcoreapp3.1\fr\Microsoft.CodeAnalysis.resources.dll
+D:\ASU-AGFE\CSE 593 Applied Project\Project 0\ServerApp\Final Edits\BEMS_IoT_Enabled - Edit 3\WebApplication1\bin\Release\netcoreapp3.1\it\Microsoft.CodeAnalysis.resources.dll
+D:\ASU-AGFE\CSE 593 Applied Project\Project 0\ServerApp\Final Edits\BEMS_IoT_Enabled - Edit 3\WebApplication1\bin\Release\netcoreapp3.1\ja\Microsoft.CodeAnalysis.resources.dll
+D:\ASU-AGFE\CSE 593 Applied Project\Project 0\ServerApp\Final Edits\BEMS_IoT_Enabled - Edit 3\WebApplication1\bin\Release\netcoreapp3.1\ko\Microsoft.CodeAnalysis.resources.dll
+D:\ASU-AGFE\CSE 593 Applied Project\Project 0\ServerApp\Final Edits\BEMS_IoT_Enabled - Edit 3\WebApplication1\bin\Release\netcoreapp3.1\pl\Microsoft.CodeAnalysis.resources.dll
+D:\ASU-AGFE\CSE 593 Applied Project\Project 0\ServerApp\Final Edits\BEMS_IoT_Enabled - Edit 3\WebApplication1\bin\Release\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.resources.dll
+D:\ASU-AGFE\CSE 593 Applied Project\Project 0\ServerApp\Final Edits\BEMS_IoT_Enabled - Edit 3\WebApplication1\bin\Release\netcoreapp3.1\ru\Microsoft.CodeAnalysis.resources.dll
+D:\ASU-AGFE\CSE 593 Applied Project\Project 0\ServerApp\Final Edits\BEMS_IoT_Enabled - Edit 3\WebApplication1\bin\Release\netcoreapp3.1\tr\Microsoft.CodeAnalysis.resources.dll
+D:\ASU-AGFE\CSE 593 Applied Project\Project 0\ServerApp\Final Edits\BEMS_IoT_Enabled - Edit 3\WebApplication1\bin\Release\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+D:\ASU-AGFE\CSE 593 Applied Project\Project 0\ServerApp\Final Edits\BEMS_IoT_Enabled - Edit 3\WebApplication1\bin\Release\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+D:\ASU-AGFE\CSE 593 Applied Project\Project 0\ServerApp\Final Edits\BEMS_IoT_Enabled - Edit 3\WebApplication1\bin\Release\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\ASU-AGFE\CSE 593 Applied Project\Project 0\ServerApp\Final Edits\BEMS_IoT_Enabled - Edit 3\WebApplication1\bin\Release\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\ASU-AGFE\CSE 593 Applied Project\Project 0\ServerApp\Final Edits\BEMS_IoT_Enabled - Edit 3\WebApplication1\bin\Release\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\ASU-AGFE\CSE 593 Applied Project\Project 0\ServerApp\Final Edits\BEMS_IoT_Enabled - Edit 3\WebApplication1\bin\Release\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\ASU-AGFE\CSE 593 Applied Project\Project 0\ServerApp\Final Edits\BEMS_IoT_Enabled - Edit 3\WebApplication1\bin\Release\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\ASU-AGFE\CSE 593 Applied Project\Project 0\ServerApp\Final Edits\BEMS_IoT_Enabled - Edit 3\WebApplication1\bin\Release\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\ASU-AGFE\CSE 593 Applied Project\Project 0\ServerApp\Final Edits\BEMS_IoT_Enabled - Edit 3\WebApplication1\bin\Release\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\ASU-AGFE\CSE 593 Applied Project\Project 0\ServerApp\Final Edits\BEMS_IoT_Enabled - Edit 3\WebApplication1\bin\Release\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\ASU-AGFE\CSE 593 Applied Project\Project 0\ServerApp\Final Edits\BEMS_IoT_Enabled - Edit 3\WebApplication1\bin\Release\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\ASU-AGFE\CSE 593 Applied Project\Project 0\ServerApp\Final Edits\BEMS_IoT_Enabled - Edit 3\WebApplication1\bin\Release\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\ASU-AGFE\CSE 593 Applied Project\Project 0\ServerApp\Final Edits\BEMS_IoT_Enabled - Edit 3\WebApplication1\bin\Release\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\ASU-AGFE\CSE 593 Applied Project\Project 0\ServerApp\Final Edits\BEMS_IoT_Enabled - Edit 3\WebApplication1\bin\Release\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\ASU-AGFE\CSE 593 Applied Project\Project 0\ServerApp\Final Edits\BEMS_IoT_Enabled - Edit 3\WebApplication1\bin\Release\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\ASU-AGFE\CSE 593 Applied Project\Project 0\ServerApp\Final Edits\BEMS_IoT_Enabled - Edit 3\WebApplication1\bin\Release\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\ASU-AGFE\CSE 593 Applied Project\Project 0\ServerApp\Final Edits\BEMS_IoT_Enabled - Edit 3\WebApplication1\bin\Release\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\ASU-AGFE\CSE 593 Applied Project\Project 0\ServerApp\Final Edits\BEMS_IoT_Enabled - Edit 3\WebApplication1\bin\Release\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\ASU-AGFE\CSE 593 Applied Project\Project 0\ServerApp\Final Edits\BEMS_IoT_Enabled - Edit 3\WebApplication1\bin\Release\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\ASU-AGFE\CSE 593 Applied Project\Project 0\ServerApp\Final Edits\BEMS_IoT_Enabled - Edit 3\WebApplication1\bin\Release\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\ASU-AGFE\CSE 593 Applied Project\Project 0\ServerApp\Final Edits\BEMS_IoT_Enabled - Edit 3\WebApplication1\bin\Release\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\ASU-AGFE\CSE 593 Applied Project\Project 0\ServerApp\Final Edits\BEMS_IoT_Enabled - Edit 3\WebApplication1\bin\Release\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\ASU-AGFE\CSE 593 Applied Project\Project 0\ServerApp\Final Edits\BEMS_IoT_Enabled - Edit 3\WebApplication1\bin\Release\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\ASU-AGFE\CSE 593 Applied Project\Project 0\ServerApp\Final Edits\BEMS_IoT_Enabled - Edit 3\WebApplication1\bin\Release\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\ASU-AGFE\CSE 593 Applied Project\Project 0\ServerApp\Final Edits\BEMS_IoT_Enabled - Edit 3\WebApplication1\bin\Release\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\ASU-AGFE\CSE 593 Applied Project\Project 0\ServerApp\Final Edits\BEMS_IoT_Enabled - Edit 3\WebApplication1\bin\Release\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\ASU-AGFE\CSE 593 Applied Project\Project 0\ServerApp\Final Edits\BEMS_IoT_Enabled - Edit 3\WebApplication1\bin\Release\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\ASU-AGFE\CSE 593 Applied Project\Project 0\ServerApp\Final Edits\BEMS_IoT_Enabled - Edit 3\WebApplication1\bin\Release\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\ASU-AGFE\CSE 593 Applied Project\Project 0\ServerApp\Final Edits\BEMS_IoT_Enabled - Edit 3\WebApplication1\bin\Release\netcoreapp3.1\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\ASU-AGFE\CSE 593 Applied Project\Project 0\ServerApp\Final Edits\BEMS_IoT_Enabled - Edit 3\WebApplication1\bin\Release\netcoreapp3.1\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\ASU-AGFE\CSE 593 Applied Project\Project 0\ServerApp\Final Edits\BEMS_IoT_Enabled - Edit 3\WebApplication1\bin\Release\netcoreapp3.1\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\ASU-AGFE\CSE 593 Applied Project\Project 0\ServerApp\Final Edits\BEMS_IoT_Enabled - Edit 3\WebApplication1\bin\Release\netcoreapp3.1\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\ASU-AGFE\CSE 593 Applied Project\Project 0\ServerApp\Final Edits\BEMS_IoT_Enabled - Edit 3\WebApplication1\bin\Release\netcoreapp3.1\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\ASU-AGFE\CSE 593 Applied Project\Project 0\ServerApp\Final Edits\BEMS_IoT_Enabled - Edit 3\WebApplication1\bin\Release\netcoreapp3.1\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\ASU-AGFE\CSE 593 Applied Project\Project 0\ServerApp\Final Edits\BEMS_IoT_Enabled - Edit 3\WebApplication1\bin\Release\netcoreapp3.1\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\ASU-AGFE\CSE 593 Applied Project\Project 0\ServerApp\Final Edits\BEMS_IoT_Enabled - Edit 3\WebApplication1\bin\Release\netcoreapp3.1\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\ASU-AGFE\CSE 593 Applied Project\Project 0\ServerApp\Final Edits\BEMS_IoT_Enabled - Edit 3\WebApplication1\bin\Release\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\ASU-AGFE\CSE 593 Applied Project\Project 0\ServerApp\Final Edits\BEMS_IoT_Enabled - Edit 3\WebApplication1\bin\Release\netcoreapp3.1\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\ASU-AGFE\CSE 593 Applied Project\Project 0\ServerApp\Final Edits\BEMS_IoT_Enabled - Edit 3\WebApplication1\bin\Release\netcoreapp3.1\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\ASU-AGFE\CSE 593 Applied Project\Project 0\ServerApp\Final Edits\BEMS_IoT_Enabled - Edit 3\WebApplication1\bin\Release\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\ASU-AGFE\CSE 593 Applied Project\Project 0\ServerApp\Final Edits\BEMS_IoT_Enabled - Edit 3\WebApplication1\bin\Release\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\ASU-AGFE\CSE 593 Applied Project\Project 0\ServerApp\Final Edits\BEMS_IoT_Enabled - Edit 3\WebApplication1\bin\Release\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Net.Http.WinHttpHandler.dll
+D:\ASU-AGFE\CSE 593 Applied Project\Project 0\ServerApp\Final Edits\BEMS_IoT_Enabled - Edit 3\WebApplication1\bin\Release\netcoreapp3.1\runtimes\unix\lib\netstandard2.0\System.Private.ServiceModel.dll
+D:\ASU-AGFE\CSE 593 Applied Project\Project 0\ServerApp\Final Edits\BEMS_IoT_Enabled - Edit 3\WebApplication1\bin\Release\netcoreapp3.1\runtimes\win7\lib\netstandard2.0\System.Private.ServiceModel.dll
+D:\ASU-AGFE\CSE 593 Applied Project\Project 0\ServerApp\Final Edits\BEMS_IoT_Enabled - Edit 3\WebApplication1\bin\Release\netcoreapp3.1\EncryptDecrypt.dll
+D:\ASU-AGFE\CSE 593 Applied Project\Project 0\ServerApp\Final Edits\BEMS_IoT_Enabled - Edit 3\WebApplication1\obj\Release\netcoreapp3.1\WebApplication1.csprojAssemblyReference.cache
+D:\ASU-AGFE\CSE 593 Applied Project\Project 0\ServerApp\Final Edits\BEMS_IoT_Enabled - Edit 3\WebApplication1\obj\Release\netcoreapp3.1\WebApplication1.AssemblyInfoInputs.cache
+D:\ASU-AGFE\CSE 593 Applied Project\Project 0\ServerApp\Final Edits\BEMS_IoT_Enabled - Edit 3\WebApplication1\obj\Release\netcoreapp3.1\WebApplication1.AssemblyInfo.cs
+D:\ASU-AGFE\CSE 593 Applied Project\Project 0\ServerApp\Final Edits\BEMS_IoT_Enabled - Edit 3\WebApplication1\obj\Release\netcoreapp3.1\WebApplication1.csproj.CoreCompileInputs.cache
+D:\ASU-AGFE\CSE 593 Applied Project\Project 0\ServerApp\Final Edits\BEMS_IoT_Enabled - Edit 3\WebApplication1\obj\Release\netcoreapp3.1\WebApplication1.MvcApplicationPartsAssemblyInfo.cache
+D:\ASU-AGFE\CSE 593 Applied Project\Project 0\ServerApp\Final Edits\BEMS_IoT_Enabled - Edit 3\WebApplication1\obj\Release\netcoreapp3.1\WebApplication1.RazorAssemblyInfo.cache
+D:\ASU-AGFE\CSE 593 Applied Project\Project 0\ServerApp\Final Edits\BEMS_IoT_Enabled - Edit 3\WebApplication1\obj\Release\netcoreapp3.1\WebApplication1.RazorAssemblyInfo.cs
+D:\ASU-AGFE\CSE 593 Applied Project\Project 0\ServerApp\Final Edits\BEMS_IoT_Enabled - Edit 3\WebApplication1\obj\Release\netcoreapp3.1\staticwebassets\WebApplication1.StaticWebAssets.Manifest.cache
+D:\ASU-AGFE\CSE 593 Applied Project\Project 0\ServerApp\Final Edits\BEMS_IoT_Enabled - Edit 3\WebApplication1\obj\Release\netcoreapp3.1\staticwebassets\WebApplication1.StaticWebAssets.xml
+D:\ASU-AGFE\CSE 593 Applied Project\Project 0\ServerApp\Final Edits\BEMS_IoT_Enabled - Edit 3\WebApplication1\obj\Release\netcoreapp3.1\scopedcss\bundle\WebApplication1.styles.css
+D:\ASU-AGFE\CSE 593 Applied Project\Project 0\ServerApp\Final Edits\BEMS_IoT_Enabled - Edit 3\WebApplication1\obj\Release\netcoreapp3.1\WebApplication1.TagHelpers.input.cache
+D:\ASU-AGFE\CSE 593 Applied Project\Project 0\ServerApp\Final Edits\BEMS_IoT_Enabled - Edit 3\WebApplication1\obj\Release\netcoreapp3.1\WebApplication1.TagHelpers.output.cache
+D:\ASU-AGFE\CSE 593 Applied Project\Project 0\ServerApp\Final Edits\BEMS_IoT_Enabled - Edit 3\WebApplication1\obj\Release\netcoreapp3.1\WebApplication1.RazorCoreGenerate.cache
+D:\ASU-AGFE\CSE 593 Applied Project\Project 0\ServerApp\Final Edits\BEMS_IoT_Enabled - Edit 3\WebApplication1\obj\Release\netcoreapp3.1\Razor\Views\Account\AccessDenied.cshtml.g.cs
+D:\ASU-AGFE\CSE 593 Applied Project\Project 0\ServerApp\Final Edits\BEMS_IoT_Enabled - Edit 3\WebApplication1\obj\Release\netcoreapp3.1\Razor\Views\Account\Login.cshtml.g.cs
+D:\ASU-AGFE\CSE 593 Applied Project\Project 0\ServerApp\Final Edits\BEMS_IoT_Enabled - Edit 3\WebApplication1\obj\Release\netcoreapp3.1\Razor\Views\Account\Register.cshtml.g.cs
+D:\ASU-AGFE\CSE 593 Applied Project\Project 0\ServerApp\Final Edits\BEMS_IoT_Enabled - Edit 3\WebApplication1\obj\Release\netcoreapp3.1\Razor\Views\Home\About.cshtml.g.cs
+D:\ASU-AGFE\CSE 593 Applied Project\Project 0\ServerApp\Final Edits\BEMS_IoT_Enabled - Edit 3\WebApplication1\obj\Release\netcoreapp3.1\Razor\Views\Home\AggregateData.cshtml.g.cs
+D:\ASU-AGFE\CSE 593 Applied Project\Project 0\ServerApp\Final Edits\BEMS_IoT_Enabled - Edit 3\WebApplication1\obj\Release\netcoreapp3.1\Razor\Views\Home\Analytics.cshtml.g.cs
+D:\ASU-AGFE\CSE 593 Applied Project\Project 0\ServerApp\Final Edits\BEMS_IoT_Enabled - Edit 3\WebApplication1\obj\Release\netcoreapp3.1\Razor\Views\Home\Contact.cshtml.g.cs
+D:\ASU-AGFE\CSE 593 Applied Project\Project 0\ServerApp\Final Edits\BEMS_IoT_Enabled - Edit 3\WebApplication1\obj\Release\netcoreapp3.1\Razor\Views\Home\Controlling.cshtml.g.cs
+D:\ASU-AGFE\CSE 593 Applied Project\Project 0\ServerApp\Final Edits\BEMS_IoT_Enabled - Edit 3\WebApplication1\obj\Release\netcoreapp3.1\Razor\Views\Home\Dashboards.cshtml.g.cs
+D:\ASU-AGFE\CSE 593 Applied Project\Project 0\ServerApp\Final Edits\BEMS_IoT_Enabled - Edit 3\WebApplication1\obj\Release\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+D:\ASU-AGFE\CSE 593 Applied Project\Project 0\ServerApp\Final Edits\BEMS_IoT_Enabled - Edit 3\WebApplication1\obj\Release\netcoreapp3.1\Razor\Views\Home\IndoorParam.cshtml.g.cs
+D:\ASU-AGFE\CSE 593 Applied Project\Project 0\ServerApp\Final Edits\BEMS_IoT_Enabled - Edit 3\WebApplication1\obj\Release\netcoreapp3.1\Razor\Views\Home\OutdoorParam.cshtml.g.cs
+D:\ASU-AGFE\CSE 593 Applied Project\Project 0\ServerApp\Final Edits\BEMS_IoT_Enabled - Edit 3\WebApplication1\obj\Release\netcoreapp3.1\Razor\Views\Home\RawData.cshtml.g.cs
+D:\ASU-AGFE\CSE 593 Applied Project\Project 0\ServerApp\Final Edits\BEMS_IoT_Enabled - Edit 3\WebApplication1\obj\Release\netcoreapp3.1\Razor\Views\Home\SensingUnits.cshtml.g.cs
+D:\ASU-AGFE\CSE 593 Applied Project\Project 0\ServerApp\Final Edits\BEMS_IoT_Enabled - Edit 3\WebApplication1\obj\Release\netcoreapp3.1\Razor\Views\Home\TestSuite.cshtml.g.cs
+D:\ASU-AGFE\CSE 593 Applied Project\Project 0\ServerApp\Final Edits\BEMS_IoT_Enabled - Edit 3\WebApplication1\obj\Release\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+D:\ASU-AGFE\CSE 593 Applied Project\Project 0\ServerApp\Final Edits\BEMS_IoT_Enabled - Edit 3\WebApplication1\obj\Release\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+D:\ASU-AGFE\CSE 593 Applied Project\Project 0\ServerApp\Final Edits\BEMS_IoT_Enabled - Edit 3\WebApplication1\obj\Release\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+D:\ASU-AGFE\CSE 593 Applied Project\Project 0\ServerApp\Final Edits\BEMS_IoT_Enabled - Edit 3\WebApplication1\obj\Release\netcoreapp3.1\Razor\Views\Test\AuthorizeTest.cshtml.g.cs
+D:\ASU-AGFE\CSE 593 Applied Project\Project 0\ServerApp\Final Edits\BEMS_IoT_Enabled - Edit 3\WebApplication1\obj\Release\netcoreapp3.1\Razor\Views\Test\DashboardsTest.cshtml.g.cs
+D:\ASU-AGFE\CSE 593 Applied Project\Project 0\ServerApp\Final Edits\BEMS_IoT_Enabled - Edit 3\WebApplication1\obj\Release\netcoreapp3.1\Razor\Views\Test\DatabaseTest.cshtml.g.cs
+D:\ASU-AGFE\CSE 593 Applied Project\Project 0\ServerApp\Final Edits\BEMS_IoT_Enabled - Edit 3\WebApplication1\obj\Release\netcoreapp3.1\Razor\Views\Test\RegistrationTest.cshtml.g.cs
+D:\ASU-AGFE\CSE 593 Applied Project\Project 0\ServerApp\Final Edits\BEMS_IoT_Enabled - Edit 3\WebApplication1\obj\Release\netcoreapp3.1\Razor\Views\Test\WeatherSvcTest.cshtml.g.cs
+D:\ASU-AGFE\CSE 593 Applied Project\Project 0\ServerApp\Final Edits\BEMS_IoT_Enabled - Edit 3\WebApplication1\obj\Release\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+D:\ASU-AGFE\CSE 593 Applied Project\Project 0\ServerApp\Final Edits\BEMS_IoT_Enabled - Edit 3\WebApplication1\obj\Release\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+D:\ASU-AGFE\CSE 593 Applied Project\Project 0\ServerApp\Final Edits\BEMS_IoT_Enabled - Edit 3\WebApplication1\obj\Release\netcoreapp3.1\WebApplication1.RazorTargetAssemblyInfo.cache
+D:\ASU-AGFE\CSE 593 Applied Project\Project 0\ServerApp\Final Edits\BEMS_IoT_Enabled - Edit 3\WebApplication1\obj\Release\netcoreapp3.1\WebApplication1.RazorTargetAssemblyInfo.cs
+D:\ASU-AGFE\CSE 593 Applied Project\Project 0\ServerApp\Final Edits\BEMS_IoT_Enabled - Edit 3\WebApplication1\obj\Release\netcoreapp3.1\WebApplication1.Views.pdb
+D:\ASU-AGFE\CSE 593 Applied Project\Project 0\ServerApp\Final Edits\BEMS_IoT_Enabled - Edit 3\WebApplication1\obj\Release\netcoreapp3.1\WebApplication1.csproj.CopyComplete
+D:\ASU-AGFE\CSE 593 Applied Project\Project 0\ServerApp\Final Edits\BEMS_IoT_Enabled - Edit 3\WebApplication1\obj\Release\netcoreapp3.1\WebApplication1.dll
+D:\ASU-AGFE\CSE 593 Applied Project\Project 0\ServerApp\Final Edits\BEMS_IoT_Enabled - Edit 3\WebApplication1\obj\Release\netcoreapp3.1\WebApplication1.pdb
+D:\ASU-AGFE\CSE 593 Applied Project\Project 0\ServerApp\Final Edits\BEMS_IoT_Enabled - Edit 3\WebApplication1\obj\Release\netcoreapp3.1\WebApplication1.genruntimeconfig.cache
+D:\ASU-AGFE\CSE 593 Applied Project\Project 0\ServerApp\Final Edits\BEMS_IoT_Enabled - Edit 3\WebApplication1\obj\Release\netcoreapp3.1\Razor\Views\Test\AnnualClimateDataTest.cshtml.g.cs
+D:\ASU-AGFE\CSE 593 Applied Project\Project 0\ServerApp\Final Edits\BEMS_IoT_Enabled - Edit 4\WebApplication1\bin\Release\netcoreapp3.1\appsettings.Development.json
+D:\ASU-AGFE\CSE 593 Applied Project\Project 0\ServerApp\Final Edits\BEMS_IoT_Enabled - Edit 4\WebApplication1\bin\Release\netcoreapp3.1\appsettings.json
+D:\ASU-AGFE\CSE 593 Applied Project\Project 0\ServerApp\Final Edits\BEMS_IoT_Enabled - Edit 4\WebApplication1\bin\Release\netcoreapp3.1\Connected Services\AccountMgmtSvc\ConnectedService.json
+D:\ASU-AGFE\CSE 593 Applied Project\Project 0\ServerApp\Final Edits\BEMS_IoT_Enabled - Edit 4\WebApplication1\bin\Release\netcoreapp3.1\Connected Services\DatabaseMgmtSvc\ConnectedService.json
+D:\ASU-AGFE\CSE 593 Applied Project\Project 0\ServerApp\Final Edits\BEMS_IoT_Enabled - Edit 4\WebApplication1\bin\Release\netcoreapp3.1\Connected Services\WeatherService\ConnectedService.json
+D:\ASU-AGFE\CSE 593 Applied Project\Project 0\ServerApp\Final Edits\BEMS_IoT_Enabled - Edit 4\WebApplication1\bin\Release\netcoreapp3.1\WebApplication1.exe
+D:\ASU-AGFE\CSE 593 Applied Project\Project 0\ServerApp\Final Edits\BEMS_IoT_Enabled - Edit 4\WebApplication1\bin\Release\netcoreapp3.1\WebApplication1.deps.json
+D:\ASU-AGFE\CSE 593 Applied Project\Project 0\ServerApp\Final Edits\BEMS_IoT_Enabled - Edit 4\WebApplication1\bin\Release\netcoreapp3.1\WebApplication1.runtimeconfig.json
+D:\ASU-AGFE\CSE 593 Applied Project\Project 0\ServerApp\Final Edits\BEMS_IoT_Enabled - Edit 4\WebApplication1\bin\Release\netcoreapp3.1\WebApplication1.runtimeconfig.dev.json
+D:\ASU-AGFE\CSE 593 Applied Project\Project 0\ServerApp\Final Edits\BEMS_IoT_Enabled - Edit 4\WebApplication1\bin\Release\netcoreapp3.1\WebApplication1.dll
+D:\ASU-AGFE\CSE 593 Applied Project\Project 0\ServerApp\Final Edits\BEMS_IoT_Enabled - Edit 4\WebApplication1\bin\Release\netcoreapp3.1\WebApplication1.pdb
+D:\ASU-AGFE\CSE 593 Applied Project\Project 0\ServerApp\Final Edits\BEMS_IoT_Enabled - Edit 4\WebApplication1\bin\Release\netcoreapp3.1\WebApplication1.Views.dll
+D:\ASU-AGFE\CSE 593 Applied Project\Project 0\ServerApp\Final Edits\BEMS_IoT_Enabled - Edit 4\WebApplication1\bin\Release\netcoreapp3.1\WebApplication1.Views.pdb
+D:\ASU-AGFE\CSE 593 Applied Project\Project 0\ServerApp\Final Edits\BEMS_IoT_Enabled - Edit 4\WebApplication1\bin\Release\netcoreapp3.1\Microsoft.AspNetCore.Razor.Language.dll
+D:\ASU-AGFE\CSE 593 Applied Project\Project 0\ServerApp\Final Edits\BEMS_IoT_Enabled - Edit 4\WebApplication1\bin\Release\netcoreapp3.1\Microsoft.CodeAnalysis.dll
+D:\ASU-AGFE\CSE 593 Applied Project\Project 0\ServerApp\Final Edits\BEMS_IoT_Enabled - Edit 4\WebApplication1\bin\Release\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
+D:\ASU-AGFE\CSE 593 Applied Project\Project 0\ServerApp\Final Edits\BEMS_IoT_Enabled - Edit 4\WebApplication1\bin\Release\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+D:\ASU-AGFE\CSE 593 Applied Project\Project 0\ServerApp\Final Edits\BEMS_IoT_Enabled - Edit 4\WebApplication1\bin\Release\netcoreapp3.1\Microsoft.CodeAnalysis.Razor.dll
+D:\ASU-AGFE\CSE 593 Applied Project\Project 0\ServerApp\Final Edits\BEMS_IoT_Enabled - Edit 4\WebApplication1\bin\Release\netcoreapp3.1\Microsoft.CodeAnalysis.Workspaces.dll
+D:\ASU-AGFE\CSE 593 Applied Project\Project 0\ServerApp\Final Edits\BEMS_IoT_Enabled - Edit 4\WebApplication1\bin\Release\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.dll
+D:\ASU-AGFE\CSE 593 Applied Project\Project 0\ServerApp\Final Edits\BEMS_IoT_Enabled - Edit 4\WebApplication1\bin\Release\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+D:\ASU-AGFE\CSE 593 Applied Project\Project 0\ServerApp\Final Edits\BEMS_IoT_Enabled - Edit 4\WebApplication1\bin\Release\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+D:\ASU-AGFE\CSE 593 Applied Project\Project 0\ServerApp\Final Edits\BEMS_IoT_Enabled - Edit 4\WebApplication1\bin\Release\netcoreapp3.1\dotnet-aspnet-codegenerator-design.dll
+D:\ASU-AGFE\CSE 593 Applied Project\Project 0\ServerApp\Final Edits\BEMS_IoT_Enabled - Edit 4\WebApplication1\bin\Release\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+D:\ASU-AGFE\CSE 593 Applied Project\Project 0\ServerApp\Final Edits\BEMS_IoT_Enabled - Edit 4\WebApplication1\bin\Release\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+D:\ASU-AGFE\CSE 593 Applied Project\Project 0\ServerApp\Final Edits\BEMS_IoT_Enabled - Edit 4\WebApplication1\bin\Release\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+D:\ASU-AGFE\CSE 593 Applied Project\Project 0\ServerApp\Final Edits\BEMS_IoT_Enabled - Edit 4\WebApplication1\bin\Release\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+D:\ASU-AGFE\CSE 593 Applied Project\Project 0\ServerApp\Final Edits\BEMS_IoT_Enabled - Edit 4\WebApplication1\bin\Release\netcoreapp3.1\Newtonsoft.Json.dll
+D:\ASU-AGFE\CSE 593 Applied Project\Project 0\ServerApp\Final Edits\BEMS_IoT_Enabled - Edit 4\WebApplication1\bin\Release\netcoreapp3.1\NuGet.Frameworks.dll
+D:\ASU-AGFE\CSE 593 Applied Project\Project 0\ServerApp\Final Edits\BEMS_IoT_Enabled - Edit 4\WebApplication1\bin\Release\netcoreapp3.1\SendGrid.dll
+D:\ASU-AGFE\CSE 593 Applied Project\Project 0\ServerApp\Final Edits\BEMS_IoT_Enabled - Edit 4\WebApplication1\bin\Release\netcoreapp3.1\StarkbankEcdsa.dll
+D:\ASU-AGFE\CSE 593 Applied Project\Project 0\ServerApp\Final Edits\BEMS_IoT_Enabled - Edit 4\WebApplication1\bin\Release\netcoreapp3.1\System.Composition.AttributedModel.dll
+D:\ASU-AGFE\CSE 593 Applied Project\Project 0\ServerApp\Final Edits\BEMS_IoT_Enabled - Edit 4\WebApplication1\bin\Release\netcoreapp3.1\System.Composition.Convention.dll
+D:\ASU-AGFE\CSE 593 Applied Project\Project 0\ServerApp\Final Edits\BEMS_IoT_Enabled - Edit 4\WebApplication1\bin\Release\netcoreapp3.1\System.Composition.Hosting.dll
+D:\ASU-AGFE\CSE 593 Applied Project\Project 0\ServerApp\Final Edits\BEMS_IoT_Enabled - Edit 4\WebApplication1\bin\Release\netcoreapp3.1\System.Composition.Runtime.dll
+D:\ASU-AGFE\CSE 593 Applied Project\Project 0\ServerApp\Final Edits\BEMS_IoT_Enabled - Edit 4\WebApplication1\bin\Release\netcoreapp3.1\System.Composition.TypedParts.dll
+D:\ASU-AGFE\CSE 593 Applied Project\Project 0\ServerApp\Final Edits\BEMS_IoT_Enabled - Edit 4\WebApplication1\bin\Release\netcoreapp3.1\System.Net.Http.WinHttpHandler.dll
+D:\ASU-AGFE\CSE 593 Applied Project\Project 0\ServerApp\Final Edits\BEMS_IoT_Enabled - Edit 4\WebApplication1\bin\Release\netcoreapp3.1\System.ServiceModel.Duplex.dll
+D:\ASU-AGFE\CSE 593 Applied Project\Project 0\ServerApp\Final Edits\BEMS_IoT_Enabled - Edit 4\WebApplication1\bin\Release\netcoreapp3.1\System.ServiceModel.Http.dll
+D:\ASU-AGFE\CSE 593 Applied Project\Project 0\ServerApp\Final Edits\BEMS_IoT_Enabled - Edit 4\WebApplication1\bin\Release\netcoreapp3.1\System.ServiceModel.NetTcp.dll
+D:\ASU-AGFE\CSE 593 Applied Project\Project 0\ServerApp\Final Edits\BEMS_IoT_Enabled - Edit 4\WebApplication1\bin\Release\netcoreapp3.1\System.ServiceModel.Primitives.dll
+D:\ASU-AGFE\CSE 593 Applied Project\Project 0\ServerApp\Final Edits\BEMS_IoT_Enabled - Edit 4\WebApplication1\bin\Release\netcoreapp3.1\System.ServiceModel.dll
+D:\ASU-AGFE\CSE 593 Applied Project\Project 0\ServerApp\Final Edits\BEMS_IoT_Enabled - Edit 4\WebApplication1\bin\Release\netcoreapp3.1\System.ServiceModel.Security.dll
+D:\ASU-AGFE\CSE 593 Applied Project\Project 0\ServerApp\Final Edits\BEMS_IoT_Enabled - Edit 4\WebApplication1\bin\Release\netcoreapp3.1\cs\Microsoft.CodeAnalysis.resources.dll
+D:\ASU-AGFE\CSE 593 Applied Project\Project 0\ServerApp\Final Edits\BEMS_IoT_Enabled - Edit 4\WebApplication1\bin\Release\netcoreapp3.1\de\Microsoft.CodeAnalysis.resources.dll
+D:\ASU-AGFE\CSE 593 Applied Project\Project 0\ServerApp\Final Edits\BEMS_IoT_Enabled - Edit 4\WebApplication1\bin\Release\netcoreapp3.1\es\Microsoft.CodeAnalysis.resources.dll
+D:\ASU-AGFE\CSE 593 Applied Project\Project 0\ServerApp\Final Edits\BEMS_IoT_Enabled - Edit 4\WebApplication1\bin\Release\netcoreapp3.1\fr\Microsoft.CodeAnalysis.resources.dll
+D:\ASU-AGFE\CSE 593 Applied Project\Project 0\ServerApp\Final Edits\BEMS_IoT_Enabled - Edit 4\WebApplication1\bin\Release\netcoreapp3.1\it\Microsoft.CodeAnalysis.resources.dll
+D:\ASU-AGFE\CSE 593 Applied Project\Project 0\ServerApp\Final Edits\BEMS_IoT_Enabled - Edit 4\WebApplication1\bin\Release\netcoreapp3.1\ja\Microsoft.CodeAnalysis.resources.dll
+D:\ASU-AGFE\CSE 593 Applied Project\Project 0\ServerApp\Final Edits\BEMS_IoT_Enabled - Edit 4\WebApplication1\bin\Release\netcoreapp3.1\ko\Microsoft.CodeAnalysis.resources.dll
+D:\ASU-AGFE\CSE 593 Applied Project\Project 0\ServerApp\Final Edits\BEMS_IoT_Enabled - Edit 4\WebApplication1\bin\Release\netcoreapp3.1\pl\Microsoft.CodeAnalysis.resources.dll
+D:\ASU-AGFE\CSE 593 Applied Project\Project 0\ServerApp\Final Edits\BEMS_IoT_Enabled - Edit 4\WebApplication1\bin\Release\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.resources.dll
+D:\ASU-AGFE\CSE 593 Applied Project\Project 0\ServerApp\Final Edits\BEMS_IoT_Enabled - Edit 4\WebApplication1\bin\Release\netcoreapp3.1\ru\Microsoft.CodeAnalysis.resources.dll
+D:\ASU-AGFE\CSE 593 Applied Project\Project 0\ServerApp\Final Edits\BEMS_IoT_Enabled - Edit 4\WebApplication1\bin\Release\netcoreapp3.1\tr\Microsoft.CodeAnalysis.resources.dll
+D:\ASU-AGFE\CSE 593 Applied Project\Project 0\ServerApp\Final Edits\BEMS_IoT_Enabled - Edit 4\WebApplication1\bin\Release\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+D:\ASU-AGFE\CSE 593 Applied Project\Project 0\ServerApp\Final Edits\BEMS_IoT_Enabled - Edit 4\WebApplication1\bin\Release\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+D:\ASU-AGFE\CSE 593 Applied Project\Project 0\ServerApp\Final Edits\BEMS_IoT_Enabled - Edit 4\WebApplication1\bin\Release\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\ASU-AGFE\CSE 593 Applied Project\Project 0\ServerApp\Final Edits\BEMS_IoT_Enabled - Edit 4\WebApplication1\bin\Release\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\ASU-AGFE\CSE 593 Applied Project\Project 0\ServerApp\Final Edits\BEMS_IoT_Enabled - Edit 4\WebApplication1\bin\Release\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\ASU-AGFE\CSE 593 Applied Project\Project 0\ServerApp\Final Edits\BEMS_IoT_Enabled - Edit 4\WebApplication1\bin\Release\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\ASU-AGFE\CSE 593 Applied Project\Project 0\ServerApp\Final Edits\BEMS_IoT_Enabled - Edit 4\WebApplication1\bin\Release\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\ASU-AGFE\CSE 593 Applied Project\Project 0\ServerApp\Final Edits\BEMS_IoT_Enabled - Edit 4\WebApplication1\bin\Release\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\ASU-AGFE\CSE 593 Applied Project\Project 0\ServerApp\Final Edits\BEMS_IoT_Enabled - Edit 4\WebApplication1\bin\Release\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\ASU-AGFE\CSE 593 Applied Project\Project 0\ServerApp\Final Edits\BEMS_IoT_Enabled - Edit 4\WebApplication1\bin\Release\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\ASU-AGFE\CSE 593 Applied Project\Project 0\ServerApp\Final Edits\BEMS_IoT_Enabled - Edit 4\WebApplication1\bin\Release\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\ASU-AGFE\CSE 593 Applied Project\Project 0\ServerApp\Final Edits\BEMS_IoT_Enabled - Edit 4\WebApplication1\bin\Release\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\ASU-AGFE\CSE 593 Applied Project\Project 0\ServerApp\Final Edits\BEMS_IoT_Enabled - Edit 4\WebApplication1\bin\Release\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\ASU-AGFE\CSE 593 Applied Project\Project 0\ServerApp\Final Edits\BEMS_IoT_Enabled - Edit 4\WebApplication1\bin\Release\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\ASU-AGFE\CSE 593 Applied Project\Project 0\ServerApp\Final Edits\BEMS_IoT_Enabled - Edit 4\WebApplication1\bin\Release\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\ASU-AGFE\CSE 593 Applied Project\Project 0\ServerApp\Final Edits\BEMS_IoT_Enabled - Edit 4\WebApplication1\bin\Release\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\ASU-AGFE\CSE 593 Applied Project\Project 0\ServerApp\Final Edits\BEMS_IoT_Enabled - Edit 4\WebApplication1\bin\Release\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\ASU-AGFE\CSE 593 Applied Project\Project 0\ServerApp\Final Edits\BEMS_IoT_Enabled - Edit 4\WebApplication1\bin\Release\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\ASU-AGFE\CSE 593 Applied Project\Project 0\ServerApp\Final Edits\BEMS_IoT_Enabled - Edit 4\WebApplication1\bin\Release\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\ASU-AGFE\CSE 593 Applied Project\Project 0\ServerApp\Final Edits\BEMS_IoT_Enabled - Edit 4\WebApplication1\bin\Release\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\ASU-AGFE\CSE 593 Applied Project\Project 0\ServerApp\Final Edits\BEMS_IoT_Enabled - Edit 4\WebApplication1\bin\Release\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\ASU-AGFE\CSE 593 Applied Project\Project 0\ServerApp\Final Edits\BEMS_IoT_Enabled - Edit 4\WebApplication1\bin\Release\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\ASU-AGFE\CSE 593 Applied Project\Project 0\ServerApp\Final Edits\BEMS_IoT_Enabled - Edit 4\WebApplication1\bin\Release\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\ASU-AGFE\CSE 593 Applied Project\Project 0\ServerApp\Final Edits\BEMS_IoT_Enabled - Edit 4\WebApplication1\bin\Release\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\ASU-AGFE\CSE 593 Applied Project\Project 0\ServerApp\Final Edits\BEMS_IoT_Enabled - Edit 4\WebApplication1\bin\Release\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\ASU-AGFE\CSE 593 Applied Project\Project 0\ServerApp\Final Edits\BEMS_IoT_Enabled - Edit 4\WebApplication1\bin\Release\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\ASU-AGFE\CSE 593 Applied Project\Project 0\ServerApp\Final Edits\BEMS_IoT_Enabled - Edit 4\WebApplication1\bin\Release\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\ASU-AGFE\CSE 593 Applied Project\Project 0\ServerApp\Final Edits\BEMS_IoT_Enabled - Edit 4\WebApplication1\bin\Release\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\ASU-AGFE\CSE 593 Applied Project\Project 0\ServerApp\Final Edits\BEMS_IoT_Enabled - Edit 4\WebApplication1\bin\Release\netcoreapp3.1\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\ASU-AGFE\CSE 593 Applied Project\Project 0\ServerApp\Final Edits\BEMS_IoT_Enabled - Edit 4\WebApplication1\bin\Release\netcoreapp3.1\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\ASU-AGFE\CSE 593 Applied Project\Project 0\ServerApp\Final Edits\BEMS_IoT_Enabled - Edit 4\WebApplication1\bin\Release\netcoreapp3.1\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\ASU-AGFE\CSE 593 Applied Project\Project 0\ServerApp\Final Edits\BEMS_IoT_Enabled - Edit 4\WebApplication1\bin\Release\netcoreapp3.1\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\ASU-AGFE\CSE 593 Applied Project\Project 0\ServerApp\Final Edits\BEMS_IoT_Enabled - Edit 4\WebApplication1\bin\Release\netcoreapp3.1\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\ASU-AGFE\CSE 593 Applied Project\Project 0\ServerApp\Final Edits\BEMS_IoT_Enabled - Edit 4\WebApplication1\bin\Release\netcoreapp3.1\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\ASU-AGFE\CSE 593 Applied Project\Project 0\ServerApp\Final Edits\BEMS_IoT_Enabled - Edit 4\WebApplication1\bin\Release\netcoreapp3.1\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\ASU-AGFE\CSE 593 Applied Project\Project 0\ServerApp\Final Edits\BEMS_IoT_Enabled - Edit 4\WebApplication1\bin\Release\netcoreapp3.1\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\ASU-AGFE\CSE 593 Applied Project\Project 0\ServerApp\Final Edits\BEMS_IoT_Enabled - Edit 4\WebApplication1\bin\Release\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\ASU-AGFE\CSE 593 Applied Project\Project 0\ServerApp\Final Edits\BEMS_IoT_Enabled - Edit 4\WebApplication1\bin\Release\netcoreapp3.1\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\ASU-AGFE\CSE 593 Applied Project\Project 0\ServerApp\Final Edits\BEMS_IoT_Enabled - Edit 4\WebApplication1\bin\Release\netcoreapp3.1\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\ASU-AGFE\CSE 593 Applied Project\Project 0\ServerApp\Final Edits\BEMS_IoT_Enabled - Edit 4\WebApplication1\bin\Release\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\ASU-AGFE\CSE 593 Applied Project\Project 0\ServerApp\Final Edits\BEMS_IoT_Enabled - Edit 4\WebApplication1\bin\Release\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\ASU-AGFE\CSE 593 Applied Project\Project 0\ServerApp\Final Edits\BEMS_IoT_Enabled - Edit 4\WebApplication1\bin\Release\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Net.Http.WinHttpHandler.dll
+D:\ASU-AGFE\CSE 593 Applied Project\Project 0\ServerApp\Final Edits\BEMS_IoT_Enabled - Edit 4\WebApplication1\bin\Release\netcoreapp3.1\runtimes\unix\lib\netstandard2.0\System.Private.ServiceModel.dll
+D:\ASU-AGFE\CSE 593 Applied Project\Project 0\ServerApp\Final Edits\BEMS_IoT_Enabled - Edit 4\WebApplication1\bin\Release\netcoreapp3.1\runtimes\win7\lib\netstandard2.0\System.Private.ServiceModel.dll
+D:\ASU-AGFE\CSE 593 Applied Project\Project 0\ServerApp\Final Edits\BEMS_IoT_Enabled - Edit 4\WebApplication1\bin\Release\netcoreapp3.1\EncryptDecrypt.dll
+D:\ASU-AGFE\CSE 593 Applied Project\Project 0\ServerApp\Final Edits\BEMS_IoT_Enabled - Edit 4\WebApplication1\obj\Release\netcoreapp3.1\WebApplication1.csprojAssemblyReference.cache
+D:\ASU-AGFE\CSE 593 Applied Project\Project 0\ServerApp\Final Edits\BEMS_IoT_Enabled - Edit 4\WebApplication1\obj\Release\netcoreapp3.1\WebApplication1.AssemblyInfoInputs.cache
+D:\ASU-AGFE\CSE 593 Applied Project\Project 0\ServerApp\Final Edits\BEMS_IoT_Enabled - Edit 4\WebApplication1\obj\Release\netcoreapp3.1\WebApplication1.AssemblyInfo.cs
+D:\ASU-AGFE\CSE 593 Applied Project\Project 0\ServerApp\Final Edits\BEMS_IoT_Enabled - Edit 4\WebApplication1\obj\Release\netcoreapp3.1\WebApplication1.csproj.CoreCompileInputs.cache
+D:\ASU-AGFE\CSE 593 Applied Project\Project 0\ServerApp\Final Edits\BEMS_IoT_Enabled - Edit 4\WebApplication1\obj\Release\netcoreapp3.1\WebApplication1.MvcApplicationPartsAssemblyInfo.cache
+D:\ASU-AGFE\CSE 593 Applied Project\Project 0\ServerApp\Final Edits\BEMS_IoT_Enabled - Edit 4\WebApplication1\obj\Release\netcoreapp3.1\WebApplication1.RazorAssemblyInfo.cache
+D:\ASU-AGFE\CSE 593 Applied Project\Project 0\ServerApp\Final Edits\BEMS_IoT_Enabled - Edit 4\WebApplication1\obj\Release\netcoreapp3.1\WebApplication1.RazorAssemblyInfo.cs
+D:\ASU-AGFE\CSE 593 Applied Project\Project 0\ServerApp\Final Edits\BEMS_IoT_Enabled - Edit 4\WebApplication1\obj\Release\netcoreapp3.1\staticwebassets\WebApplication1.StaticWebAssets.Manifest.cache
+D:\ASU-AGFE\CSE 593 Applied Project\Project 0\ServerApp\Final Edits\BEMS_IoT_Enabled - Edit 4\WebApplication1\obj\Release\netcoreapp3.1\staticwebassets\WebApplication1.StaticWebAssets.xml
+D:\ASU-AGFE\CSE 593 Applied Project\Project 0\ServerApp\Final Edits\BEMS_IoT_Enabled - Edit 4\WebApplication1\obj\Release\netcoreapp3.1\scopedcss\bundle\WebApplication1.styles.css
+D:\ASU-AGFE\CSE 593 Applied Project\Project 0\ServerApp\Final Edits\BEMS_IoT_Enabled - Edit 4\WebApplication1\obj\Release\netcoreapp3.1\WebApplication1.TagHelpers.input.cache
+D:\ASU-AGFE\CSE 593 Applied Project\Project 0\ServerApp\Final Edits\BEMS_IoT_Enabled - Edit 4\WebApplication1\obj\Release\netcoreapp3.1\WebApplication1.TagHelpers.output.cache
+D:\ASU-AGFE\CSE 593 Applied Project\Project 0\ServerApp\Final Edits\BEMS_IoT_Enabled - Edit 4\WebApplication1\obj\Release\netcoreapp3.1\WebApplication1.RazorCoreGenerate.cache
+D:\ASU-AGFE\CSE 593 Applied Project\Project 0\ServerApp\Final Edits\BEMS_IoT_Enabled - Edit 4\WebApplication1\obj\Release\netcoreapp3.1\Razor\Views\Account\AccessDenied.cshtml.g.cs
+D:\ASU-AGFE\CSE 593 Applied Project\Project 0\ServerApp\Final Edits\BEMS_IoT_Enabled - Edit 4\WebApplication1\obj\Release\netcoreapp3.1\Razor\Views\Account\Login.cshtml.g.cs
+D:\ASU-AGFE\CSE 593 Applied Project\Project 0\ServerApp\Final Edits\BEMS_IoT_Enabled - Edit 4\WebApplication1\obj\Release\netcoreapp3.1\Razor\Views\Account\Register.cshtml.g.cs
+D:\ASU-AGFE\CSE 593 Applied Project\Project 0\ServerApp\Final Edits\BEMS_IoT_Enabled - Edit 4\WebApplication1\obj\Release\netcoreapp3.1\Razor\Views\Home\About.cshtml.g.cs
+D:\ASU-AGFE\CSE 593 Applied Project\Project 0\ServerApp\Final Edits\BEMS_IoT_Enabled - Edit 4\WebApplication1\obj\Release\netcoreapp3.1\Razor\Views\Home\AggregateData.cshtml.g.cs
+D:\ASU-AGFE\CSE 593 Applied Project\Project 0\ServerApp\Final Edits\BEMS_IoT_Enabled - Edit 4\WebApplication1\obj\Release\netcoreapp3.1\Razor\Views\Home\Analytics.cshtml.g.cs
+D:\ASU-AGFE\CSE 593 Applied Project\Project 0\ServerApp\Final Edits\BEMS_IoT_Enabled - Edit 4\WebApplication1\obj\Release\netcoreapp3.1\Razor\Views\Home\Contact.cshtml.g.cs
+D:\ASU-AGFE\CSE 593 Applied Project\Project 0\ServerApp\Final Edits\BEMS_IoT_Enabled - Edit 4\WebApplication1\obj\Release\netcoreapp3.1\Razor\Views\Home\Controlling.cshtml.g.cs
+D:\ASU-AGFE\CSE 593 Applied Project\Project 0\ServerApp\Final Edits\BEMS_IoT_Enabled - Edit 4\WebApplication1\obj\Release\netcoreapp3.1\Razor\Views\Home\Dashboards.cshtml.g.cs
+D:\ASU-AGFE\CSE 593 Applied Project\Project 0\ServerApp\Final Edits\BEMS_IoT_Enabled - Edit 4\WebApplication1\obj\Release\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+D:\ASU-AGFE\CSE 593 Applied Project\Project 0\ServerApp\Final Edits\BEMS_IoT_Enabled - Edit 4\WebApplication1\obj\Release\netcoreapp3.1\Razor\Views\Home\IndoorParam.cshtml.g.cs
+D:\ASU-AGFE\CSE 593 Applied Project\Project 0\ServerApp\Final Edits\BEMS_IoT_Enabled - Edit 4\WebApplication1\obj\Release\netcoreapp3.1\Razor\Views\Home\OutdoorParam.cshtml.g.cs
+D:\ASU-AGFE\CSE 593 Applied Project\Project 0\ServerApp\Final Edits\BEMS_IoT_Enabled - Edit 4\WebApplication1\obj\Release\netcoreapp3.1\Razor\Views\Home\RawData.cshtml.g.cs
+D:\ASU-AGFE\CSE 593 Applied Project\Project 0\ServerApp\Final Edits\BEMS_IoT_Enabled - Edit 4\WebApplication1\obj\Release\netcoreapp3.1\Razor\Views\Home\SensingUnits.cshtml.g.cs
+D:\ASU-AGFE\CSE 593 Applied Project\Project 0\ServerApp\Final Edits\BEMS_IoT_Enabled - Edit 4\WebApplication1\obj\Release\netcoreapp3.1\Razor\Views\Home\TestSuite.cshtml.g.cs
+D:\ASU-AGFE\CSE 593 Applied Project\Project 0\ServerApp\Final Edits\BEMS_IoT_Enabled - Edit 4\WebApplication1\obj\Release\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+D:\ASU-AGFE\CSE 593 Applied Project\Project 0\ServerApp\Final Edits\BEMS_IoT_Enabled - Edit 4\WebApplication1\obj\Release\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+D:\ASU-AGFE\CSE 593 Applied Project\Project 0\ServerApp\Final Edits\BEMS_IoT_Enabled - Edit 4\WebApplication1\obj\Release\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+D:\ASU-AGFE\CSE 593 Applied Project\Project 0\ServerApp\Final Edits\BEMS_IoT_Enabled - Edit 4\WebApplication1\obj\Release\netcoreapp3.1\Razor\Views\Test\AnnualClimateDataTest.cshtml.g.cs
+D:\ASU-AGFE\CSE 593 Applied Project\Project 0\ServerApp\Final Edits\BEMS_IoT_Enabled - Edit 4\WebApplication1\obj\Release\netcoreapp3.1\Razor\Views\Test\AuthorizeTest.cshtml.g.cs
+D:\ASU-AGFE\CSE 593 Applied Project\Project 0\ServerApp\Final Edits\BEMS_IoT_Enabled - Edit 4\WebApplication1\obj\Release\netcoreapp3.1\Razor\Views\Test\DashboardsTest.cshtml.g.cs
+D:\ASU-AGFE\CSE 593 Applied Project\Project 0\ServerApp\Final Edits\BEMS_IoT_Enabled - Edit 4\WebApplication1\obj\Release\netcoreapp3.1\Razor\Views\Test\DatabaseTest.cshtml.g.cs
+D:\ASU-AGFE\CSE 593 Applied Project\Project 0\ServerApp\Final Edits\BEMS_IoT_Enabled - Edit 4\WebApplication1\obj\Release\netcoreapp3.1\Razor\Views\Test\RegistrationTest.cshtml.g.cs
+D:\ASU-AGFE\CSE 593 Applied Project\Project 0\ServerApp\Final Edits\BEMS_IoT_Enabled - Edit 4\WebApplication1\obj\Release\netcoreapp3.1\Razor\Views\Test\WeatherSvcTest.cshtml.g.cs
+D:\ASU-AGFE\CSE 593 Applied Project\Project 0\ServerApp\Final Edits\BEMS_IoT_Enabled - Edit 4\WebApplication1\obj\Release\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+D:\ASU-AGFE\CSE 593 Applied Project\Project 0\ServerApp\Final Edits\BEMS_IoT_Enabled - Edit 4\WebApplication1\obj\Release\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+D:\ASU-AGFE\CSE 593 Applied Project\Project 0\ServerApp\Final Edits\BEMS_IoT_Enabled - Edit 4\WebApplication1\obj\Release\netcoreapp3.1\WebApplication1.RazorTargetAssemblyInfo.cache
+D:\ASU-AGFE\CSE 593 Applied Project\Project 0\ServerApp\Final Edits\BEMS_IoT_Enabled - Edit 4\WebApplication1\obj\Release\netcoreapp3.1\WebApplication1.RazorTargetAssemblyInfo.cs
+D:\ASU-AGFE\CSE 593 Applied Project\Project 0\ServerApp\Final Edits\BEMS_IoT_Enabled - Edit 4\WebApplication1\obj\Release\netcoreapp3.1\WebApplication1.Views.pdb
+D:\ASU-AGFE\CSE 593 Applied Project\Project 0\ServerApp\Final Edits\BEMS_IoT_Enabled - Edit 4\WebApplication1\obj\Release\netcoreapp3.1\WebApplication1.csproj.CopyComplete
+D:\ASU-AGFE\CSE 593 Applied Project\Project 0\ServerApp\Final Edits\BEMS_IoT_Enabled - Edit 4\WebApplication1\obj\Release\netcoreapp3.1\WebApplication1.dll
+D:\ASU-AGFE\CSE 593 Applied Project\Project 0\ServerApp\Final Edits\BEMS_IoT_Enabled - Edit 4\WebApplication1\obj\Release\netcoreapp3.1\WebApplication1.pdb
+D:\ASU-AGFE\CSE 593 Applied Project\Project 0\ServerApp\Final Edits\BEMS_IoT_Enabled - Edit 4\WebApplication1\obj\Release\netcoreapp3.1\WebApplication1.genruntimeconfig.cache
+D:\ASU-AGFE\CSE 593 Applied Project\Project 0\ServerApp\Final Edits\BEMS_IoT_Enabled - Edit 5\WebApplication1\bin\Release\netcoreapp3.1\appsettings.Development.json
+D:\ASU-AGFE\CSE 593 Applied Project\Project 0\ServerApp\Final Edits\BEMS_IoT_Enabled - Edit 5\WebApplication1\bin\Release\netcoreapp3.1\appsettings.json
+D:\ASU-AGFE\CSE 593 Applied Project\Project 0\ServerApp\Final Edits\BEMS_IoT_Enabled - Edit 5\WebApplication1\bin\Release\netcoreapp3.1\Connected Services\AccountMgmtSvc\ConnectedService.json
+D:\ASU-AGFE\CSE 593 Applied Project\Project 0\ServerApp\Final Edits\BEMS_IoT_Enabled - Edit 5\WebApplication1\bin\Release\netcoreapp3.1\Connected Services\DatabaseMgmtSvc\ConnectedService.json
+D:\ASU-AGFE\CSE 593 Applied Project\Project 0\ServerApp\Final Edits\BEMS_IoT_Enabled - Edit 5\WebApplication1\bin\Release\netcoreapp3.1\Connected Services\WeatherService\ConnectedService.json
+D:\ASU-AGFE\CSE 593 Applied Project\Project 0\ServerApp\Final Edits\BEMS_IoT_Enabled - Edit 5\WebApplication1\bin\Release\netcoreapp3.1\WebApplication1.exe
+D:\ASU-AGFE\CSE 593 Applied Project\Project 0\ServerApp\Final Edits\BEMS_IoT_Enabled - Edit 5\WebApplication1\bin\Release\netcoreapp3.1\WebApplication1.deps.json
+D:\ASU-AGFE\CSE 593 Applied Project\Project 0\ServerApp\Final Edits\BEMS_IoT_Enabled - Edit 5\WebApplication1\bin\Release\netcoreapp3.1\WebApplication1.runtimeconfig.json
+D:\ASU-AGFE\CSE 593 Applied Project\Project 0\ServerApp\Final Edits\BEMS_IoT_Enabled - Edit 5\WebApplication1\bin\Release\netcoreapp3.1\WebApplication1.runtimeconfig.dev.json
+D:\ASU-AGFE\CSE 593 Applied Project\Project 0\ServerApp\Final Edits\BEMS_IoT_Enabled - Edit 5\WebApplication1\bin\Release\netcoreapp3.1\WebApplication1.dll
+D:\ASU-AGFE\CSE 593 Applied Project\Project 0\ServerApp\Final Edits\BEMS_IoT_Enabled - Edit 5\WebApplication1\bin\Release\netcoreapp3.1\WebApplication1.pdb
+D:\ASU-AGFE\CSE 593 Applied Project\Project 0\ServerApp\Final Edits\BEMS_IoT_Enabled - Edit 5\WebApplication1\bin\Release\netcoreapp3.1\WebApplication1.Views.dll
+D:\ASU-AGFE\CSE 593 Applied Project\Project 0\ServerApp\Final Edits\BEMS_IoT_Enabled - Edit 5\WebApplication1\bin\Release\netcoreapp3.1\WebApplication1.Views.pdb
+D:\ASU-AGFE\CSE 593 Applied Project\Project 0\ServerApp\Final Edits\BEMS_IoT_Enabled - Edit 5\WebApplication1\bin\Release\netcoreapp3.1\Microsoft.AspNetCore.Razor.Language.dll
+D:\ASU-AGFE\CSE 593 Applied Project\Project 0\ServerApp\Final Edits\BEMS_IoT_Enabled - Edit 5\WebApplication1\bin\Release\netcoreapp3.1\Microsoft.CodeAnalysis.dll
+D:\ASU-AGFE\CSE 593 Applied Project\Project 0\ServerApp\Final Edits\BEMS_IoT_Enabled - Edit 5\WebApplication1\bin\Release\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
+D:\ASU-AGFE\CSE 593 Applied Project\Project 0\ServerApp\Final Edits\BEMS_IoT_Enabled - Edit 5\WebApplication1\bin\Release\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+D:\ASU-AGFE\CSE 593 Applied Project\Project 0\ServerApp\Final Edits\BEMS_IoT_Enabled - Edit 5\WebApplication1\bin\Release\netcoreapp3.1\Microsoft.CodeAnalysis.Razor.dll
+D:\ASU-AGFE\CSE 593 Applied Project\Project 0\ServerApp\Final Edits\BEMS_IoT_Enabled - Edit 5\WebApplication1\bin\Release\netcoreapp3.1\Microsoft.CodeAnalysis.Workspaces.dll
+D:\ASU-AGFE\CSE 593 Applied Project\Project 0\ServerApp\Final Edits\BEMS_IoT_Enabled - Edit 5\WebApplication1\bin\Release\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.dll
+D:\ASU-AGFE\CSE 593 Applied Project\Project 0\ServerApp\Final Edits\BEMS_IoT_Enabled - Edit 5\WebApplication1\bin\Release\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+D:\ASU-AGFE\CSE 593 Applied Project\Project 0\ServerApp\Final Edits\BEMS_IoT_Enabled - Edit 5\WebApplication1\bin\Release\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+D:\ASU-AGFE\CSE 593 Applied Project\Project 0\ServerApp\Final Edits\BEMS_IoT_Enabled - Edit 5\WebApplication1\bin\Release\netcoreapp3.1\dotnet-aspnet-codegenerator-design.dll
+D:\ASU-AGFE\CSE 593 Applied Project\Project 0\ServerApp\Final Edits\BEMS_IoT_Enabled - Edit 5\WebApplication1\bin\Release\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+D:\ASU-AGFE\CSE 593 Applied Project\Project 0\ServerApp\Final Edits\BEMS_IoT_Enabled - Edit 5\WebApplication1\bin\Release\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+D:\ASU-AGFE\CSE 593 Applied Project\Project 0\ServerApp\Final Edits\BEMS_IoT_Enabled - Edit 5\WebApplication1\bin\Release\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+D:\ASU-AGFE\CSE 593 Applied Project\Project 0\ServerApp\Final Edits\BEMS_IoT_Enabled - Edit 5\WebApplication1\bin\Release\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+D:\ASU-AGFE\CSE 593 Applied Project\Project 0\ServerApp\Final Edits\BEMS_IoT_Enabled - Edit 5\WebApplication1\bin\Release\netcoreapp3.1\Newtonsoft.Json.dll
+D:\ASU-AGFE\CSE 593 Applied Project\Project 0\ServerApp\Final Edits\BEMS_IoT_Enabled - Edit 5\WebApplication1\bin\Release\netcoreapp3.1\NuGet.Frameworks.dll
+D:\ASU-AGFE\CSE 593 Applied Project\Project 0\ServerApp\Final Edits\BEMS_IoT_Enabled - Edit 5\WebApplication1\bin\Release\netcoreapp3.1\SendGrid.dll
+D:\ASU-AGFE\CSE 593 Applied Project\Project 0\ServerApp\Final Edits\BEMS_IoT_Enabled - Edit 5\WebApplication1\bin\Release\netcoreapp3.1\StarkbankEcdsa.dll
+D:\ASU-AGFE\CSE 593 Applied Project\Project 0\ServerApp\Final Edits\BEMS_IoT_Enabled - Edit 5\WebApplication1\bin\Release\netcoreapp3.1\System.Composition.AttributedModel.dll
+D:\ASU-AGFE\CSE 593 Applied Project\Project 0\ServerApp\Final Edits\BEMS_IoT_Enabled - Edit 5\WebApplication1\bin\Release\netcoreapp3.1\System.Composition.Convention.dll
+D:\ASU-AGFE\CSE 593 Applied Project\Project 0\ServerApp\Final Edits\BEMS_IoT_Enabled - Edit 5\WebApplication1\bin\Release\netcoreapp3.1\System.Composition.Hosting.dll
+D:\ASU-AGFE\CSE 593 Applied Project\Project 0\ServerApp\Final Edits\BEMS_IoT_Enabled - Edit 5\WebApplication1\bin\Release\netcoreapp3.1\System.Composition.Runtime.dll
+D:\ASU-AGFE\CSE 593 Applied Project\Project 0\ServerApp\Final Edits\BEMS_IoT_Enabled - Edit 5\WebApplication1\bin\Release\netcoreapp3.1\System.Composition.TypedParts.dll
+D:\ASU-AGFE\CSE 593 Applied Project\Project 0\ServerApp\Final Edits\BEMS_IoT_Enabled - Edit 5\WebApplication1\bin\Release\netcoreapp3.1\System.Net.Http.WinHttpHandler.dll
+D:\ASU-AGFE\CSE 593 Applied Project\Project 0\ServerApp\Final Edits\BEMS_IoT_Enabled - Edit 5\WebApplication1\bin\Release\netcoreapp3.1\System.ServiceModel.Duplex.dll
+D:\ASU-AGFE\CSE 593 Applied Project\Project 0\ServerApp\Final Edits\BEMS_IoT_Enabled - Edit 5\WebApplication1\bin\Release\netcoreapp3.1\System.ServiceModel.Http.dll
+D:\ASU-AGFE\CSE 593 Applied Project\Project 0\ServerApp\Final Edits\BEMS_IoT_Enabled - Edit 5\WebApplication1\bin\Release\netcoreapp3.1\System.ServiceModel.NetTcp.dll
+D:\ASU-AGFE\CSE 593 Applied Project\Project 0\ServerApp\Final Edits\BEMS_IoT_Enabled - Edit 5\WebApplication1\bin\Release\netcoreapp3.1\System.ServiceModel.Primitives.dll
+D:\ASU-AGFE\CSE 593 Applied Project\Project 0\ServerApp\Final Edits\BEMS_IoT_Enabled - Edit 5\WebApplication1\bin\Release\netcoreapp3.1\System.ServiceModel.dll
+D:\ASU-AGFE\CSE 593 Applied Project\Project 0\ServerApp\Final Edits\BEMS_IoT_Enabled - Edit 5\WebApplication1\bin\Release\netcoreapp3.1\System.ServiceModel.Security.dll
+D:\ASU-AGFE\CSE 593 Applied Project\Project 0\ServerApp\Final Edits\BEMS_IoT_Enabled - Edit 5\WebApplication1\bin\Release\netcoreapp3.1\cs\Microsoft.CodeAnalysis.resources.dll
+D:\ASU-AGFE\CSE 593 Applied Project\Project 0\ServerApp\Final Edits\BEMS_IoT_Enabled - Edit 5\WebApplication1\bin\Release\netcoreapp3.1\de\Microsoft.CodeAnalysis.resources.dll
+D:\ASU-AGFE\CSE 593 Applied Project\Project 0\ServerApp\Final Edits\BEMS_IoT_Enabled - Edit 5\WebApplication1\bin\Release\netcoreapp3.1\es\Microsoft.CodeAnalysis.resources.dll
+D:\ASU-AGFE\CSE 593 Applied Project\Project 0\ServerApp\Final Edits\BEMS_IoT_Enabled - Edit 5\WebApplication1\bin\Release\netcoreapp3.1\fr\Microsoft.CodeAnalysis.resources.dll
+D:\ASU-AGFE\CSE 593 Applied Project\Project 0\ServerApp\Final Edits\BEMS_IoT_Enabled - Edit 5\WebApplication1\bin\Release\netcoreapp3.1\it\Microsoft.CodeAnalysis.resources.dll
+D:\ASU-AGFE\CSE 593 Applied Project\Project 0\ServerApp\Final Edits\BEMS_IoT_Enabled - Edit 5\WebApplication1\bin\Release\netcoreapp3.1\ja\Microsoft.CodeAnalysis.resources.dll
+D:\ASU-AGFE\CSE 593 Applied Project\Project 0\ServerApp\Final Edits\BEMS_IoT_Enabled - Edit 5\WebApplication1\bin\Release\netcoreapp3.1\ko\Microsoft.CodeAnalysis.resources.dll
+D:\ASU-AGFE\CSE 593 Applied Project\Project 0\ServerApp\Final Edits\BEMS_IoT_Enabled - Edit 5\WebApplication1\bin\Release\netcoreapp3.1\pl\Microsoft.CodeAnalysis.resources.dll
+D:\ASU-AGFE\CSE 593 Applied Project\Project 0\ServerApp\Final Edits\BEMS_IoT_Enabled - Edit 5\WebApplication1\bin\Release\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.resources.dll
+D:\ASU-AGFE\CSE 593 Applied Project\Project 0\ServerApp\Final Edits\BEMS_IoT_Enabled - Edit 5\WebApplication1\bin\Release\netcoreapp3.1\ru\Microsoft.CodeAnalysis.resources.dll
+D:\ASU-AGFE\CSE 593 Applied Project\Project 0\ServerApp\Final Edits\BEMS_IoT_Enabled - Edit 5\WebApplication1\bin\Release\netcoreapp3.1\tr\Microsoft.CodeAnalysis.resources.dll
+D:\ASU-AGFE\CSE 593 Applied Project\Project 0\ServerApp\Final Edits\BEMS_IoT_Enabled - Edit 5\WebApplication1\bin\Release\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+D:\ASU-AGFE\CSE 593 Applied Project\Project 0\ServerApp\Final Edits\BEMS_IoT_Enabled - Edit 5\WebApplication1\bin\Release\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+D:\ASU-AGFE\CSE 593 Applied Project\Project 0\ServerApp\Final Edits\BEMS_IoT_Enabled - Edit 5\WebApplication1\bin\Release\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\ASU-AGFE\CSE 593 Applied Project\Project 0\ServerApp\Final Edits\BEMS_IoT_Enabled - Edit 5\WebApplication1\bin\Release\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\ASU-AGFE\CSE 593 Applied Project\Project 0\ServerApp\Final Edits\BEMS_IoT_Enabled - Edit 5\WebApplication1\bin\Release\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\ASU-AGFE\CSE 593 Applied Project\Project 0\ServerApp\Final Edits\BEMS_IoT_Enabled - Edit 5\WebApplication1\bin\Release\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\ASU-AGFE\CSE 593 Applied Project\Project 0\ServerApp\Final Edits\BEMS_IoT_Enabled - Edit 5\WebApplication1\bin\Release\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\ASU-AGFE\CSE 593 Applied Project\Project 0\ServerApp\Final Edits\BEMS_IoT_Enabled - Edit 5\WebApplication1\bin\Release\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\ASU-AGFE\CSE 593 Applied Project\Project 0\ServerApp\Final Edits\BEMS_IoT_Enabled - Edit 5\WebApplication1\bin\Release\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\ASU-AGFE\CSE 593 Applied Project\Project 0\ServerApp\Final Edits\BEMS_IoT_Enabled - Edit 5\WebApplication1\bin\Release\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\ASU-AGFE\CSE 593 Applied Project\Project 0\ServerApp\Final Edits\BEMS_IoT_Enabled - Edit 5\WebApplication1\bin\Release\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\ASU-AGFE\CSE 593 Applied Project\Project 0\ServerApp\Final Edits\BEMS_IoT_Enabled - Edit 5\WebApplication1\bin\Release\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\ASU-AGFE\CSE 593 Applied Project\Project 0\ServerApp\Final Edits\BEMS_IoT_Enabled - Edit 5\WebApplication1\bin\Release\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\ASU-AGFE\CSE 593 Applied Project\Project 0\ServerApp\Final Edits\BEMS_IoT_Enabled - Edit 5\WebApplication1\bin\Release\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\ASU-AGFE\CSE 593 Applied Project\Project 0\ServerApp\Final Edits\BEMS_IoT_Enabled - Edit 5\WebApplication1\bin\Release\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\ASU-AGFE\CSE 593 Applied Project\Project 0\ServerApp\Final Edits\BEMS_IoT_Enabled - Edit 5\WebApplication1\bin\Release\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\ASU-AGFE\CSE 593 Applied Project\Project 0\ServerApp\Final Edits\BEMS_IoT_Enabled - Edit 5\WebApplication1\bin\Release\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\ASU-AGFE\CSE 593 Applied Project\Project 0\ServerApp\Final Edits\BEMS_IoT_Enabled - Edit 5\WebApplication1\bin\Release\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\ASU-AGFE\CSE 593 Applied Project\Project 0\ServerApp\Final Edits\BEMS_IoT_Enabled - Edit 5\WebApplication1\bin\Release\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\ASU-AGFE\CSE 593 Applied Project\Project 0\ServerApp\Final Edits\BEMS_IoT_Enabled - Edit 5\WebApplication1\bin\Release\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\ASU-AGFE\CSE 593 Applied Project\Project 0\ServerApp\Final Edits\BEMS_IoT_Enabled - Edit 5\WebApplication1\bin\Release\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\ASU-AGFE\CSE 593 Applied Project\Project 0\ServerApp\Final Edits\BEMS_IoT_Enabled - Edit 5\WebApplication1\bin\Release\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\ASU-AGFE\CSE 593 Applied Project\Project 0\ServerApp\Final Edits\BEMS_IoT_Enabled - Edit 5\WebApplication1\bin\Release\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\ASU-AGFE\CSE 593 Applied Project\Project 0\ServerApp\Final Edits\BEMS_IoT_Enabled - Edit 5\WebApplication1\bin\Release\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\ASU-AGFE\CSE 593 Applied Project\Project 0\ServerApp\Final Edits\BEMS_IoT_Enabled - Edit 5\WebApplication1\bin\Release\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\ASU-AGFE\CSE 593 Applied Project\Project 0\ServerApp\Final Edits\BEMS_IoT_Enabled - Edit 5\WebApplication1\bin\Release\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\ASU-AGFE\CSE 593 Applied Project\Project 0\ServerApp\Final Edits\BEMS_IoT_Enabled - Edit 5\WebApplication1\bin\Release\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\ASU-AGFE\CSE 593 Applied Project\Project 0\ServerApp\Final Edits\BEMS_IoT_Enabled - Edit 5\WebApplication1\bin\Release\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\ASU-AGFE\CSE 593 Applied Project\Project 0\ServerApp\Final Edits\BEMS_IoT_Enabled - Edit 5\WebApplication1\bin\Release\netcoreapp3.1\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\ASU-AGFE\CSE 593 Applied Project\Project 0\ServerApp\Final Edits\BEMS_IoT_Enabled - Edit 5\WebApplication1\bin\Release\netcoreapp3.1\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\ASU-AGFE\CSE 593 Applied Project\Project 0\ServerApp\Final Edits\BEMS_IoT_Enabled - Edit 5\WebApplication1\bin\Release\netcoreapp3.1\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\ASU-AGFE\CSE 593 Applied Project\Project 0\ServerApp\Final Edits\BEMS_IoT_Enabled - Edit 5\WebApplication1\bin\Release\netcoreapp3.1\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\ASU-AGFE\CSE 593 Applied Project\Project 0\ServerApp\Final Edits\BEMS_IoT_Enabled - Edit 5\WebApplication1\bin\Release\netcoreapp3.1\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\ASU-AGFE\CSE 593 Applied Project\Project 0\ServerApp\Final Edits\BEMS_IoT_Enabled - Edit 5\WebApplication1\bin\Release\netcoreapp3.1\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\ASU-AGFE\CSE 593 Applied Project\Project 0\ServerApp\Final Edits\BEMS_IoT_Enabled - Edit 5\WebApplication1\bin\Release\netcoreapp3.1\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\ASU-AGFE\CSE 593 Applied Project\Project 0\ServerApp\Final Edits\BEMS_IoT_Enabled - Edit 5\WebApplication1\bin\Release\netcoreapp3.1\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\ASU-AGFE\CSE 593 Applied Project\Project 0\ServerApp\Final Edits\BEMS_IoT_Enabled - Edit 5\WebApplication1\bin\Release\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\ASU-AGFE\CSE 593 Applied Project\Project 0\ServerApp\Final Edits\BEMS_IoT_Enabled - Edit 5\WebApplication1\bin\Release\netcoreapp3.1\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\ASU-AGFE\CSE 593 Applied Project\Project 0\ServerApp\Final Edits\BEMS_IoT_Enabled - Edit 5\WebApplication1\bin\Release\netcoreapp3.1\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\ASU-AGFE\CSE 593 Applied Project\Project 0\ServerApp\Final Edits\BEMS_IoT_Enabled - Edit 5\WebApplication1\bin\Release\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\ASU-AGFE\CSE 593 Applied Project\Project 0\ServerApp\Final Edits\BEMS_IoT_Enabled - Edit 5\WebApplication1\bin\Release\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\ASU-AGFE\CSE 593 Applied Project\Project 0\ServerApp\Final Edits\BEMS_IoT_Enabled - Edit 5\WebApplication1\bin\Release\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Net.Http.WinHttpHandler.dll
+D:\ASU-AGFE\CSE 593 Applied Project\Project 0\ServerApp\Final Edits\BEMS_IoT_Enabled - Edit 5\WebApplication1\bin\Release\netcoreapp3.1\runtimes\unix\lib\netstandard2.0\System.Private.ServiceModel.dll
+D:\ASU-AGFE\CSE 593 Applied Project\Project 0\ServerApp\Final Edits\BEMS_IoT_Enabled - Edit 5\WebApplication1\bin\Release\netcoreapp3.1\runtimes\win7\lib\netstandard2.0\System.Private.ServiceModel.dll
+D:\ASU-AGFE\CSE 593 Applied Project\Project 0\ServerApp\Final Edits\BEMS_IoT_Enabled - Edit 5\WebApplication1\bin\Release\netcoreapp3.1\EncryptDecrypt.dll
+D:\ASU-AGFE\CSE 593 Applied Project\Project 0\ServerApp\Final Edits\BEMS_IoT_Enabled - Edit 5\WebApplication1\obj\Release\netcoreapp3.1\WebApplication1.csprojAssemblyReference.cache
+D:\ASU-AGFE\CSE 593 Applied Project\Project 0\ServerApp\Final Edits\BEMS_IoT_Enabled - Edit 5\WebApplication1\obj\Release\netcoreapp3.1\WebApplication1.AssemblyInfoInputs.cache
+D:\ASU-AGFE\CSE 593 Applied Project\Project 0\ServerApp\Final Edits\BEMS_IoT_Enabled - Edit 5\WebApplication1\obj\Release\netcoreapp3.1\WebApplication1.AssemblyInfo.cs
+D:\ASU-AGFE\CSE 593 Applied Project\Project 0\ServerApp\Final Edits\BEMS_IoT_Enabled - Edit 5\WebApplication1\obj\Release\netcoreapp3.1\WebApplication1.csproj.CoreCompileInputs.cache
+D:\ASU-AGFE\CSE 593 Applied Project\Project 0\ServerApp\Final Edits\BEMS_IoT_Enabled - Edit 5\WebApplication1\obj\Release\netcoreapp3.1\WebApplication1.MvcApplicationPartsAssemblyInfo.cache
+D:\ASU-AGFE\CSE 593 Applied Project\Project 0\ServerApp\Final Edits\BEMS_IoT_Enabled - Edit 5\WebApplication1\obj\Release\netcoreapp3.1\WebApplication1.RazorAssemblyInfo.cache
+D:\ASU-AGFE\CSE 593 Applied Project\Project 0\ServerApp\Final Edits\BEMS_IoT_Enabled - Edit 5\WebApplication1\obj\Release\netcoreapp3.1\WebApplication1.RazorAssemblyInfo.cs
+D:\ASU-AGFE\CSE 593 Applied Project\Project 0\ServerApp\Final Edits\BEMS_IoT_Enabled - Edit 5\WebApplication1\obj\Release\netcoreapp3.1\staticwebassets\WebApplication1.StaticWebAssets.Manifest.cache
+D:\ASU-AGFE\CSE 593 Applied Project\Project 0\ServerApp\Final Edits\BEMS_IoT_Enabled - Edit 5\WebApplication1\obj\Release\netcoreapp3.1\staticwebassets\WebApplication1.StaticWebAssets.xml
+D:\ASU-AGFE\CSE 593 Applied Project\Project 0\ServerApp\Final Edits\BEMS_IoT_Enabled - Edit 5\WebApplication1\obj\Release\netcoreapp3.1\scopedcss\bundle\WebApplication1.styles.css
+D:\ASU-AGFE\CSE 593 Applied Project\Project 0\ServerApp\Final Edits\BEMS_IoT_Enabled - Edit 5\WebApplication1\obj\Release\netcoreapp3.1\WebApplication1.TagHelpers.input.cache
+D:\ASU-AGFE\CSE 593 Applied Project\Project 0\ServerApp\Final Edits\BEMS_IoT_Enabled - Edit 5\WebApplication1\obj\Release\netcoreapp3.1\WebApplication1.TagHelpers.output.cache
+D:\ASU-AGFE\CSE 593 Applied Project\Project 0\ServerApp\Final Edits\BEMS_IoT_Enabled - Edit 5\WebApplication1\obj\Release\netcoreapp3.1\WebApplication1.RazorCoreGenerate.cache
+D:\ASU-AGFE\CSE 593 Applied Project\Project 0\ServerApp\Final Edits\BEMS_IoT_Enabled - Edit 5\WebApplication1\obj\Release\netcoreapp3.1\Razor\Views\Account\AccessDenied.cshtml.g.cs
+D:\ASU-AGFE\CSE 593 Applied Project\Project 0\ServerApp\Final Edits\BEMS_IoT_Enabled - Edit 5\WebApplication1\obj\Release\netcoreapp3.1\Razor\Views\Account\Login.cshtml.g.cs
+D:\ASU-AGFE\CSE 593 Applied Project\Project 0\ServerApp\Final Edits\BEMS_IoT_Enabled - Edit 5\WebApplication1\obj\Release\netcoreapp3.1\Razor\Views\Account\Register.cshtml.g.cs
+D:\ASU-AGFE\CSE 593 Applied Project\Project 0\ServerApp\Final Edits\BEMS_IoT_Enabled - Edit 5\WebApplication1\obj\Release\netcoreapp3.1\Razor\Views\Home\About.cshtml.g.cs
+D:\ASU-AGFE\CSE 593 Applied Project\Project 0\ServerApp\Final Edits\BEMS_IoT_Enabled - Edit 5\WebApplication1\obj\Release\netcoreapp3.1\Razor\Views\Home\AggregateData.cshtml.g.cs
+D:\ASU-AGFE\CSE 593 Applied Project\Project 0\ServerApp\Final Edits\BEMS_IoT_Enabled - Edit 5\WebApplication1\obj\Release\netcoreapp3.1\Razor\Views\Home\Analytics.cshtml.g.cs
+D:\ASU-AGFE\CSE 593 Applied Project\Project 0\ServerApp\Final Edits\BEMS_IoT_Enabled - Edit 5\WebApplication1\obj\Release\netcoreapp3.1\Razor\Views\Home\Contact.cshtml.g.cs
+D:\ASU-AGFE\CSE 593 Applied Project\Project 0\ServerApp\Final Edits\BEMS_IoT_Enabled - Edit 5\WebApplication1\obj\Release\netcoreapp3.1\Razor\Views\Home\Controlling.cshtml.g.cs
+D:\ASU-AGFE\CSE 593 Applied Project\Project 0\ServerApp\Final Edits\BEMS_IoT_Enabled - Edit 5\WebApplication1\obj\Release\netcoreapp3.1\Razor\Views\Home\Dashboards.cshtml.g.cs
+D:\ASU-AGFE\CSE 593 Applied Project\Project 0\ServerApp\Final Edits\BEMS_IoT_Enabled - Edit 5\WebApplication1\obj\Release\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+D:\ASU-AGFE\CSE 593 Applied Project\Project 0\ServerApp\Final Edits\BEMS_IoT_Enabled - Edit 5\WebApplication1\obj\Release\netcoreapp3.1\Razor\Views\Home\IndoorParam.cshtml.g.cs
+D:\ASU-AGFE\CSE 593 Applied Project\Project 0\ServerApp\Final Edits\BEMS_IoT_Enabled - Edit 5\WebApplication1\obj\Release\netcoreapp3.1\Razor\Views\Home\OutdoorParam.cshtml.g.cs
+D:\ASU-AGFE\CSE 593 Applied Project\Project 0\ServerApp\Final Edits\BEMS_IoT_Enabled - Edit 5\WebApplication1\obj\Release\netcoreapp3.1\Razor\Views\Home\RawData.cshtml.g.cs
+D:\ASU-AGFE\CSE 593 Applied Project\Project 0\ServerApp\Final Edits\BEMS_IoT_Enabled - Edit 5\WebApplication1\obj\Release\netcoreapp3.1\Razor\Views\Home\SensingUnits.cshtml.g.cs
+D:\ASU-AGFE\CSE 593 Applied Project\Project 0\ServerApp\Final Edits\BEMS_IoT_Enabled - Edit 5\WebApplication1\obj\Release\netcoreapp3.1\Razor\Views\Home\TestSuite.cshtml.g.cs
+D:\ASU-AGFE\CSE 593 Applied Project\Project 0\ServerApp\Final Edits\BEMS_IoT_Enabled - Edit 5\WebApplication1\obj\Release\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+D:\ASU-AGFE\CSE 593 Applied Project\Project 0\ServerApp\Final Edits\BEMS_IoT_Enabled - Edit 5\WebApplication1\obj\Release\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+D:\ASU-AGFE\CSE 593 Applied Project\Project 0\ServerApp\Final Edits\BEMS_IoT_Enabled - Edit 5\WebApplication1\obj\Release\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+D:\ASU-AGFE\CSE 593 Applied Project\Project 0\ServerApp\Final Edits\BEMS_IoT_Enabled - Edit 5\WebApplication1\obj\Release\netcoreapp3.1\Razor\Views\Test\AnnualClimateDataTest.cshtml.g.cs
+D:\ASU-AGFE\CSE 593 Applied Project\Project 0\ServerApp\Final Edits\BEMS_IoT_Enabled - Edit 5\WebApplication1\obj\Release\netcoreapp3.1\Razor\Views\Test\AuthorizeTest.cshtml.g.cs
+D:\ASU-AGFE\CSE 593 Applied Project\Project 0\ServerApp\Final Edits\BEMS_IoT_Enabled - Edit 5\WebApplication1\obj\Release\netcoreapp3.1\Razor\Views\Test\DashboardsTest.cshtml.g.cs
+D:\ASU-AGFE\CSE 593 Applied Project\Project 0\ServerApp\Final Edits\BEMS_IoT_Enabled - Edit 5\WebApplication1\obj\Release\netcoreapp3.1\Razor\Views\Test\DatabaseTest.cshtml.g.cs
+D:\ASU-AGFE\CSE 593 Applied Project\Project 0\ServerApp\Final Edits\BEMS_IoT_Enabled - Edit 5\WebApplication1\obj\Release\netcoreapp3.1\Razor\Views\Test\RegistrationTest.cshtml.g.cs
+D:\ASU-AGFE\CSE 593 Applied Project\Project 0\ServerApp\Final Edits\BEMS_IoT_Enabled - Edit 5\WebApplication1\obj\Release\netcoreapp3.1\Razor\Views\Test\WeatherSvcTest.cshtml.g.cs
+D:\ASU-AGFE\CSE 593 Applied Project\Project 0\ServerApp\Final Edits\BEMS_IoT_Enabled - Edit 5\WebApplication1\obj\Release\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+D:\ASU-AGFE\CSE 593 Applied Project\Project 0\ServerApp\Final Edits\BEMS_IoT_Enabled - Edit 5\WebApplication1\obj\Release\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+D:\ASU-AGFE\CSE 593 Applied Project\Project 0\ServerApp\Final Edits\BEMS_IoT_Enabled - Edit 5\WebApplication1\obj\Release\netcoreapp3.1\WebApplication1.RazorTargetAssemblyInfo.cache
+D:\ASU-AGFE\CSE 593 Applied Project\Project 0\ServerApp\Final Edits\BEMS_IoT_Enabled - Edit 5\WebApplication1\obj\Release\netcoreapp3.1\WebApplication1.RazorTargetAssemblyInfo.cs
+D:\ASU-AGFE\CSE 593 Applied Project\Project 0\ServerApp\Final Edits\BEMS_IoT_Enabled - Edit 5\WebApplication1\obj\Release\netcoreapp3.1\WebApplication1.Views.pdb
+D:\ASU-AGFE\CSE 593 Applied Project\Project 0\ServerApp\Final Edits\BEMS_IoT_Enabled - Edit 5\WebApplication1\obj\Release\netcoreapp3.1\WebApplication1.csproj.CopyComplete
+D:\ASU-AGFE\CSE 593 Applied Project\Project 0\ServerApp\Final Edits\BEMS_IoT_Enabled - Edit 5\WebApplication1\obj\Release\netcoreapp3.1\WebApplication1.dll
+D:\ASU-AGFE\CSE 593 Applied Project\Project 0\ServerApp\Final Edits\BEMS_IoT_Enabled - Edit 5\WebApplication1\obj\Release\netcoreapp3.1\WebApplication1.pdb
+D:\ASU-AGFE\CSE 593 Applied Project\Project 0\ServerApp\Final Edits\BEMS_IoT_Enabled - Edit 5\WebApplication1\obj\Release\netcoreapp3.1\WebApplication1.genruntimeconfig.cache
+D:\ASU-AGFE\CSE 593 Applied Project\Project 0\ServerApp\Final Edits\BEMS_IoT_Enabled - Edit 5\WebApplication1\obj\Release\netcoreapp3.1\Razor\Views\Test\AuthenticateTest.cshtml.g.cs
+D:\ASU-AGFE\CSE 593 Applied Project\Project 0\ServerApp\Final Edits\BEMS_IoT_Enabled - Edit 5\WebApplication1\obj\Release\netcoreapp3.1\Razor\Views\Test\FindElevation.cshtml.g.cs
+D:\ASU-AGFE\CSE 593 Applied Project\Project 0\ServerApp\Final Edits\BEMS_IoT_Enabled - Edit 5\WebApplication1\obj\Release\netcoreapp3.1\Razor\Views\Test\EncDecTest.cshtml.g.cs
+D:\ASU-AGFE\CSE 593 Applied Project\Project 0\ServerApp\Final Edits\BEMS_IoT_Enabled - Edit 5\WebApplication1\obj\Release\netcoreapp3.1\Razor\Views\Test\GetSolarIndexTest.cshtml.g.cs
+D:\ASU-AGFE\CSE 593 Applied Project\Project 0\ServerApp\Final Edits\BEMS_IoT_Enabled - Edit 5\WebApplication1\obj\Release\netcoreapp3.1\Razor\Views\Test\ControlTest.cshtml.g.cs
+D:\ASU-AGFE\CSE 593 Applied Project\Project 0\Central Server Application\BEMS-IoT v 1.0.0\WebApplication1\obj\Release\netcoreapp3.1\WebApplication1.csprojAssemblyReference.cache
+D:\ASU-AGFE\CSE 593 Applied Project\Project 0\Central Server Application\BEMS-IoT v 1.0.0\WebApplication1\obj\Release\netcoreapp3.1\WebApplication1.AssemblyInfoInputs.cache
+D:\ASU-AGFE\CSE 593 Applied Project\Project 0\Central Server Application\BEMS-IoT v 1.0.0\WebApplication1\obj\Release\netcoreapp3.1\WebApplication1.AssemblyInfo.cs
+D:\ASU-AGFE\CSE 593 Applied Project\Project 0\Central Server Application\BEMS-IoT v 1.0.0\WebApplication1\obj\Release\netcoreapp3.1\WebApplication1.csproj.CoreCompileInputs.cache
+D:\ASU-AGFE\CSE 593 Applied Project\Project 0\Central Server Application\BEMS-IoT v 1.0.0\WebApplication1\obj\Release\netcoreapp3.1\WebApplication1.MvcApplicationPartsAssemblyInfo.cache
+D:\ASU-AGFE\CSE 593 Applied Project\Project 0\Central Server Application\BEMS-IoT v 1.0.0\WebApplication1\obj\Release\netcoreapp3.1\WebApplication1.RazorAssemblyInfo.cache
+D:\ASU-AGFE\CSE 593 Applied Project\Project 0\Central Server Application\BEMS-IoT v 1.0.0\WebApplication1\obj\Release\netcoreapp3.1\WebApplication1.RazorAssemblyInfo.cs
+D:\ASU-AGFE\CSE 593 Applied Project\Project 0\Central Server Application\BEMS-IoT v 1.0.0\WebApplication1\obj\Release\netcoreapp3.1\WebApplication1.dll
+D:\ASU-AGFE\CSE 593 Applied Project\Project 0\Central Server Application\BEMS-IoT v 1.0.0\WebApplication1\obj\Release\netcoreapp3.1\WebApplication1.pdb
+D:\ASU-AGFE\CSE 593 Applied Project\Project 0\Central Server Application\BEMS-IoT v 1.0.0\WebApplication1\bin\Release\netcoreapp3.1\appsettings.Development.json
+D:\ASU-AGFE\CSE 593 Applied Project\Project 0\Central Server Application\BEMS-IoT v 1.0.0\WebApplication1\bin\Release\netcoreapp3.1\appsettings.json
+D:\ASU-AGFE\CSE 593 Applied Project\Project 0\Central Server Application\BEMS-IoT v 1.0.0\WebApplication1\bin\Release\netcoreapp3.1\Connected Services\AccountMgmtSvc\ConnectedService.json
+D:\ASU-AGFE\CSE 593 Applied Project\Project 0\Central Server Application\BEMS-IoT v 1.0.0\WebApplication1\bin\Release\netcoreapp3.1\Connected Services\DatabaseMgmtSvc\ConnectedService.json
+D:\ASU-AGFE\CSE 593 Applied Project\Project 0\Central Server Application\BEMS-IoT v 1.0.0\WebApplication1\bin\Release\netcoreapp3.1\Connected Services\WeatherService\ConnectedService.json
+D:\ASU-AGFE\CSE 593 Applied Project\Project 0\Central Server Application\BEMS-IoT v 1.0.0\WebApplication1\bin\Release\netcoreapp3.1\WebApplication1.exe
+D:\ASU-AGFE\CSE 593 Applied Project\Project 0\Central Server Application\BEMS-IoT v 1.0.0\WebApplication1\bin\Release\netcoreapp3.1\WebApplication1.deps.json
+D:\ASU-AGFE\CSE 593 Applied Project\Project 0\Central Server Application\BEMS-IoT v 1.0.0\WebApplication1\bin\Release\netcoreapp3.1\WebApplication1.runtimeconfig.json
+D:\ASU-AGFE\CSE 593 Applied Project\Project 0\Central Server Application\BEMS-IoT v 1.0.0\WebApplication1\bin\Release\netcoreapp3.1\WebApplication1.runtimeconfig.dev.json
+D:\ASU-AGFE\CSE 593 Applied Project\Project 0\Central Server Application\BEMS-IoT v 1.0.0\WebApplication1\bin\Release\netcoreapp3.1\WebApplication1.dll
+D:\ASU-AGFE\CSE 593 Applied Project\Project 0\Central Server Application\BEMS-IoT v 1.0.0\WebApplication1\bin\Release\netcoreapp3.1\WebApplication1.pdb
+D:\ASU-AGFE\CSE 593 Applied Project\Project 0\Central Server Application\BEMS-IoT v 1.0.0\WebApplication1\bin\Release\netcoreapp3.1\WebApplication1.Views.dll
+D:\ASU-AGFE\CSE 593 Applied Project\Project 0\Central Server Application\BEMS-IoT v 1.0.0\WebApplication1\bin\Release\netcoreapp3.1\WebApplication1.Views.pdb
+D:\ASU-AGFE\CSE 593 Applied Project\Project 0\Central Server Application\BEMS-IoT v 1.0.0\WebApplication1\bin\Release\netcoreapp3.1\Microsoft.AspNetCore.Razor.Language.dll
+D:\ASU-AGFE\CSE 593 Applied Project\Project 0\Central Server Application\BEMS-IoT v 1.0.0\WebApplication1\bin\Release\netcoreapp3.1\Microsoft.CodeAnalysis.dll
+D:\ASU-AGFE\CSE 593 Applied Project\Project 0\Central Server Application\BEMS-IoT v 1.0.0\WebApplication1\bin\Release\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
+D:\ASU-AGFE\CSE 593 Applied Project\Project 0\Central Server Application\BEMS-IoT v 1.0.0\WebApplication1\bin\Release\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+D:\ASU-AGFE\CSE 593 Applied Project\Project 0\Central Server Application\BEMS-IoT v 1.0.0\WebApplication1\bin\Release\netcoreapp3.1\Microsoft.CodeAnalysis.Razor.dll
+D:\ASU-AGFE\CSE 593 Applied Project\Project 0\Central Server Application\BEMS-IoT v 1.0.0\WebApplication1\bin\Release\netcoreapp3.1\Microsoft.CodeAnalysis.Workspaces.dll
+D:\ASU-AGFE\CSE 593 Applied Project\Project 0\Central Server Application\BEMS-IoT v 1.0.0\WebApplication1\bin\Release\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.dll
+D:\ASU-AGFE\CSE 593 Applied Project\Project 0\Central Server Application\BEMS-IoT v 1.0.0\WebApplication1\bin\Release\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+D:\ASU-AGFE\CSE 593 Applied Project\Project 0\Central Server Application\BEMS-IoT v 1.0.0\WebApplication1\bin\Release\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+D:\ASU-AGFE\CSE 593 Applied Project\Project 0\Central Server Application\BEMS-IoT v 1.0.0\WebApplication1\bin\Release\netcoreapp3.1\dotnet-aspnet-codegenerator-design.dll
+D:\ASU-AGFE\CSE 593 Applied Project\Project 0\Central Server Application\BEMS-IoT v 1.0.0\WebApplication1\bin\Release\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+D:\ASU-AGFE\CSE 593 Applied Project\Project 0\Central Server Application\BEMS-IoT v 1.0.0\WebApplication1\bin\Release\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+D:\ASU-AGFE\CSE 593 Applied Project\Project 0\Central Server Application\BEMS-IoT v 1.0.0\WebApplication1\bin\Release\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+D:\ASU-AGFE\CSE 593 Applied Project\Project 0\Central Server Application\BEMS-IoT v 1.0.0\WebApplication1\bin\Release\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+D:\ASU-AGFE\CSE 593 Applied Project\Project 0\Central Server Application\BEMS-IoT v 1.0.0\WebApplication1\bin\Release\netcoreapp3.1\Newtonsoft.Json.dll
+D:\ASU-AGFE\CSE 593 Applied Project\Project 0\Central Server Application\BEMS-IoT v 1.0.0\WebApplication1\bin\Release\netcoreapp3.1\NuGet.Frameworks.dll
+D:\ASU-AGFE\CSE 593 Applied Project\Project 0\Central Server Application\BEMS-IoT v 1.0.0\WebApplication1\bin\Release\netcoreapp3.1\SendGrid.dll
+D:\ASU-AGFE\CSE 593 Applied Project\Project 0\Central Server Application\BEMS-IoT v 1.0.0\WebApplication1\bin\Release\netcoreapp3.1\StarkbankEcdsa.dll
+D:\ASU-AGFE\CSE 593 Applied Project\Project 0\Central Server Application\BEMS-IoT v 1.0.0\WebApplication1\bin\Release\netcoreapp3.1\System.Composition.AttributedModel.dll
+D:\ASU-AGFE\CSE 593 Applied Project\Project 0\Central Server Application\BEMS-IoT v 1.0.0\WebApplication1\bin\Release\netcoreapp3.1\System.Composition.Convention.dll
+D:\ASU-AGFE\CSE 593 Applied Project\Project 0\Central Server Application\BEMS-IoT v 1.0.0\WebApplication1\bin\Release\netcoreapp3.1\System.Composition.Hosting.dll
+D:\ASU-AGFE\CSE 593 Applied Project\Project 0\Central Server Application\BEMS-IoT v 1.0.0\WebApplication1\bin\Release\netcoreapp3.1\System.Composition.Runtime.dll
+D:\ASU-AGFE\CSE 593 Applied Project\Project 0\Central Server Application\BEMS-IoT v 1.0.0\WebApplication1\bin\Release\netcoreapp3.1\System.Composition.TypedParts.dll
+D:\ASU-AGFE\CSE 593 Applied Project\Project 0\Central Server Application\BEMS-IoT v 1.0.0\WebApplication1\bin\Release\netcoreapp3.1\System.Net.Http.WinHttpHandler.dll
+D:\ASU-AGFE\CSE 593 Applied Project\Project 0\Central Server Application\BEMS-IoT v 1.0.0\WebApplication1\bin\Release\netcoreapp3.1\System.ServiceModel.Duplex.dll
+D:\ASU-AGFE\CSE 593 Applied Project\Project 0\Central Server Application\BEMS-IoT v 1.0.0\WebApplication1\bin\Release\netcoreapp3.1\System.ServiceModel.Http.dll
+D:\ASU-AGFE\CSE 593 Applied Project\Project 0\Central Server Application\BEMS-IoT v 1.0.0\WebApplication1\bin\Release\netcoreapp3.1\System.ServiceModel.NetTcp.dll
+D:\ASU-AGFE\CSE 593 Applied Project\Project 0\Central Server Application\BEMS-IoT v 1.0.0\WebApplication1\bin\Release\netcoreapp3.1\System.ServiceModel.Primitives.dll
+D:\ASU-AGFE\CSE 593 Applied Project\Project 0\Central Server Application\BEMS-IoT v 1.0.0\WebApplication1\bin\Release\netcoreapp3.1\System.ServiceModel.dll
+D:\ASU-AGFE\CSE 593 Applied Project\Project 0\Central Server Application\BEMS-IoT v 1.0.0\WebApplication1\bin\Release\netcoreapp3.1\System.ServiceModel.Security.dll
+D:\ASU-AGFE\CSE 593 Applied Project\Project 0\Central Server Application\BEMS-IoT v 1.0.0\WebApplication1\bin\Release\netcoreapp3.1\cs\Microsoft.CodeAnalysis.resources.dll
+D:\ASU-AGFE\CSE 593 Applied Project\Project 0\Central Server Application\BEMS-IoT v 1.0.0\WebApplication1\bin\Release\netcoreapp3.1\de\Microsoft.CodeAnalysis.resources.dll
+D:\ASU-AGFE\CSE 593 Applied Project\Project 0\Central Server Application\BEMS-IoT v 1.0.0\WebApplication1\bin\Release\netcoreapp3.1\es\Microsoft.CodeAnalysis.resources.dll
+D:\ASU-AGFE\CSE 593 Applied Project\Project 0\Central Server Application\BEMS-IoT v 1.0.0\WebApplication1\bin\Release\netcoreapp3.1\fr\Microsoft.CodeAnalysis.resources.dll
+D:\ASU-AGFE\CSE 593 Applied Project\Project 0\Central Server Application\BEMS-IoT v 1.0.0\WebApplication1\bin\Release\netcoreapp3.1\it\Microsoft.CodeAnalysis.resources.dll
+D:\ASU-AGFE\CSE 593 Applied Project\Project 0\Central Server Application\BEMS-IoT v 1.0.0\WebApplication1\bin\Release\netcoreapp3.1\ja\Microsoft.CodeAnalysis.resources.dll
+D:\ASU-AGFE\CSE 593 Applied Project\Project 0\Central Server Application\BEMS-IoT v 1.0.0\WebApplication1\bin\Release\netcoreapp3.1\ko\Microsoft.CodeAnalysis.resources.dll
+D:\ASU-AGFE\CSE 593 Applied Project\Project 0\Central Server Application\BEMS-IoT v 1.0.0\WebApplication1\bin\Release\netcoreapp3.1\pl\Microsoft.CodeAnalysis.resources.dll
+D:\ASU-AGFE\CSE 593 Applied Project\Project 0\Central Server Application\BEMS-IoT v 1.0.0\WebApplication1\bin\Release\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.resources.dll
+D:\ASU-AGFE\CSE 593 Applied Project\Project 0\Central Server Application\BEMS-IoT v 1.0.0\WebApplication1\bin\Release\netcoreapp3.1\ru\Microsoft.CodeAnalysis.resources.dll
+D:\ASU-AGFE\CSE 593 Applied Project\Project 0\Central Server Application\BEMS-IoT v 1.0.0\WebApplication1\bin\Release\netcoreapp3.1\tr\Microsoft.CodeAnalysis.resources.dll
+D:\ASU-AGFE\CSE 593 Applied Project\Project 0\Central Server Application\BEMS-IoT v 1.0.0\WebApplication1\bin\Release\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+D:\ASU-AGFE\CSE 593 Applied Project\Project 0\Central Server Application\BEMS-IoT v 1.0.0\WebApplication1\bin\Release\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+D:\ASU-AGFE\CSE 593 Applied Project\Project 0\Central Server Application\BEMS-IoT v 1.0.0\WebApplication1\bin\Release\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\ASU-AGFE\CSE 593 Applied Project\Project 0\Central Server Application\BEMS-IoT v 1.0.0\WebApplication1\bin\Release\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\ASU-AGFE\CSE 593 Applied Project\Project 0\Central Server Application\BEMS-IoT v 1.0.0\WebApplication1\bin\Release\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\ASU-AGFE\CSE 593 Applied Project\Project 0\Central Server Application\BEMS-IoT v 1.0.0\WebApplication1\bin\Release\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\ASU-AGFE\CSE 593 Applied Project\Project 0\Central Server Application\BEMS-IoT v 1.0.0\WebApplication1\bin\Release\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\ASU-AGFE\CSE 593 Applied Project\Project 0\Central Server Application\BEMS-IoT v 1.0.0\WebApplication1\bin\Release\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\ASU-AGFE\CSE 593 Applied Project\Project 0\Central Server Application\BEMS-IoT v 1.0.0\WebApplication1\bin\Release\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\ASU-AGFE\CSE 593 Applied Project\Project 0\Central Server Application\BEMS-IoT v 1.0.0\WebApplication1\bin\Release\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\ASU-AGFE\CSE 593 Applied Project\Project 0\Central Server Application\BEMS-IoT v 1.0.0\WebApplication1\bin\Release\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\ASU-AGFE\CSE 593 Applied Project\Project 0\Central Server Application\BEMS-IoT v 1.0.0\WebApplication1\bin\Release\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\ASU-AGFE\CSE 593 Applied Project\Project 0\Central Server Application\BEMS-IoT v 1.0.0\WebApplication1\bin\Release\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\ASU-AGFE\CSE 593 Applied Project\Project 0\Central Server Application\BEMS-IoT v 1.0.0\WebApplication1\bin\Release\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\ASU-AGFE\CSE 593 Applied Project\Project 0\Central Server Application\BEMS-IoT v 1.0.0\WebApplication1\bin\Release\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\ASU-AGFE\CSE 593 Applied Project\Project 0\Central Server Application\BEMS-IoT v 1.0.0\WebApplication1\bin\Release\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\ASU-AGFE\CSE 593 Applied Project\Project 0\Central Server Application\BEMS-IoT v 1.0.0\WebApplication1\bin\Release\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\ASU-AGFE\CSE 593 Applied Project\Project 0\Central Server Application\BEMS-IoT v 1.0.0\WebApplication1\bin\Release\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\ASU-AGFE\CSE 593 Applied Project\Project 0\Central Server Application\BEMS-IoT v 1.0.0\WebApplication1\bin\Release\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\ASU-AGFE\CSE 593 Applied Project\Project 0\Central Server Application\BEMS-IoT v 1.0.0\WebApplication1\bin\Release\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\ASU-AGFE\CSE 593 Applied Project\Project 0\Central Server Application\BEMS-IoT v 1.0.0\WebApplication1\bin\Release\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\ASU-AGFE\CSE 593 Applied Project\Project 0\Central Server Application\BEMS-IoT v 1.0.0\WebApplication1\bin\Release\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\ASU-AGFE\CSE 593 Applied Project\Project 0\Central Server Application\BEMS-IoT v 1.0.0\WebApplication1\bin\Release\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\ASU-AGFE\CSE 593 Applied Project\Project 0\Central Server Application\BEMS-IoT v 1.0.0\WebApplication1\bin\Release\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\ASU-AGFE\CSE 593 Applied Project\Project 0\Central Server Application\BEMS-IoT v 1.0.0\WebApplication1\bin\Release\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\ASU-AGFE\CSE 593 Applied Project\Project 0\Central Server Application\BEMS-IoT v 1.0.0\WebApplication1\bin\Release\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\ASU-AGFE\CSE 593 Applied Project\Project 0\Central Server Application\BEMS-IoT v 1.0.0\WebApplication1\bin\Release\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\ASU-AGFE\CSE 593 Applied Project\Project 0\Central Server Application\BEMS-IoT v 1.0.0\WebApplication1\bin\Release\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\ASU-AGFE\CSE 593 Applied Project\Project 0\Central Server Application\BEMS-IoT v 1.0.0\WebApplication1\bin\Release\netcoreapp3.1\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\ASU-AGFE\CSE 593 Applied Project\Project 0\Central Server Application\BEMS-IoT v 1.0.0\WebApplication1\bin\Release\netcoreapp3.1\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\ASU-AGFE\CSE 593 Applied Project\Project 0\Central Server Application\BEMS-IoT v 1.0.0\WebApplication1\bin\Release\netcoreapp3.1\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\ASU-AGFE\CSE 593 Applied Project\Project 0\Central Server Application\BEMS-IoT v 1.0.0\WebApplication1\bin\Release\netcoreapp3.1\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\ASU-AGFE\CSE 593 Applied Project\Project 0\Central Server Application\BEMS-IoT v 1.0.0\WebApplication1\bin\Release\netcoreapp3.1\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\ASU-AGFE\CSE 593 Applied Project\Project 0\Central Server Application\BEMS-IoT v 1.0.0\WebApplication1\bin\Release\netcoreapp3.1\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\ASU-AGFE\CSE 593 Applied Project\Project 0\Central Server Application\BEMS-IoT v 1.0.0\WebApplication1\bin\Release\netcoreapp3.1\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\ASU-AGFE\CSE 593 Applied Project\Project 0\Central Server Application\BEMS-IoT v 1.0.0\WebApplication1\bin\Release\netcoreapp3.1\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\ASU-AGFE\CSE 593 Applied Project\Project 0\Central Server Application\BEMS-IoT v 1.0.0\WebApplication1\bin\Release\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\ASU-AGFE\CSE 593 Applied Project\Project 0\Central Server Application\BEMS-IoT v 1.0.0\WebApplication1\bin\Release\netcoreapp3.1\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\ASU-AGFE\CSE 593 Applied Project\Project 0\Central Server Application\BEMS-IoT v 1.0.0\WebApplication1\bin\Release\netcoreapp3.1\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\ASU-AGFE\CSE 593 Applied Project\Project 0\Central Server Application\BEMS-IoT v 1.0.0\WebApplication1\bin\Release\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\ASU-AGFE\CSE 593 Applied Project\Project 0\Central Server Application\BEMS-IoT v 1.0.0\WebApplication1\bin\Release\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\ASU-AGFE\CSE 593 Applied Project\Project 0\Central Server Application\BEMS-IoT v 1.0.0\WebApplication1\bin\Release\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Net.Http.WinHttpHandler.dll
+D:\ASU-AGFE\CSE 593 Applied Project\Project 0\Central Server Application\BEMS-IoT v 1.0.0\WebApplication1\bin\Release\netcoreapp3.1\runtimes\unix\lib\netstandard2.0\System.Private.ServiceModel.dll
+D:\ASU-AGFE\CSE 593 Applied Project\Project 0\Central Server Application\BEMS-IoT v 1.0.0\WebApplication1\bin\Release\netcoreapp3.1\runtimes\win7\lib\netstandard2.0\System.Private.ServiceModel.dll
+D:\ASU-AGFE\CSE 593 Applied Project\Project 0\Central Server Application\BEMS-IoT v 1.0.0\WebApplication1\bin\Release\netcoreapp3.1\EncryptDecrypt.dll
+D:\ASU-AGFE\CSE 593 Applied Project\Project 0\Central Server Application\BEMS-IoT v 1.0.0\WebApplication1\obj\Release\netcoreapp3.1\staticwebassets\WebApplication1.StaticWebAssets.Manifest.cache
+D:\ASU-AGFE\CSE 593 Applied Project\Project 0\Central Server Application\BEMS-IoT v 1.0.0\WebApplication1\obj\Release\netcoreapp3.1\staticwebassets\WebApplication1.StaticWebAssets.xml
+D:\ASU-AGFE\CSE 593 Applied Project\Project 0\Central Server Application\BEMS-IoT v 1.0.0\WebApplication1\obj\Release\netcoreapp3.1\scopedcss\bundle\WebApplication1.styles.css
+D:\ASU-AGFE\CSE 593 Applied Project\Project 0\Central Server Application\BEMS-IoT v 1.0.0\WebApplication1\obj\Release\netcoreapp3.1\WebApplication1.TagHelpers.input.cache
+D:\ASU-AGFE\CSE 593 Applied Project\Project 0\Central Server Application\BEMS-IoT v 1.0.0\WebApplication1\obj\Release\netcoreapp3.1\WebApplication1.TagHelpers.output.cache
+D:\ASU-AGFE\CSE 593 Applied Project\Project 0\Central Server Application\BEMS-IoT v 1.0.0\WebApplication1\obj\Release\netcoreapp3.1\WebApplication1.RazorCoreGenerate.cache
+D:\ASU-AGFE\CSE 593 Applied Project\Project 0\Central Server Application\BEMS-IoT v 1.0.0\WebApplication1\obj\Release\netcoreapp3.1\Razor\Views\Account\AccessDenied.cshtml.g.cs
+D:\ASU-AGFE\CSE 593 Applied Project\Project 0\Central Server Application\BEMS-IoT v 1.0.0\WebApplication1\obj\Release\netcoreapp3.1\Razor\Views\Account\Login.cshtml.g.cs
+D:\ASU-AGFE\CSE 593 Applied Project\Project 0\Central Server Application\BEMS-IoT v 1.0.0\WebApplication1\obj\Release\netcoreapp3.1\Razor\Views\Account\Register.cshtml.g.cs
+D:\ASU-AGFE\CSE 593 Applied Project\Project 0\Central Server Application\BEMS-IoT v 1.0.0\WebApplication1\obj\Release\netcoreapp3.1\Razor\Views\Home\About.cshtml.g.cs
+D:\ASU-AGFE\CSE 593 Applied Project\Project 0\Central Server Application\BEMS-IoT v 1.0.0\WebApplication1\obj\Release\netcoreapp3.1\Razor\Views\Home\AggregateData.cshtml.g.cs
+D:\ASU-AGFE\CSE 593 Applied Project\Project 0\Central Server Application\BEMS-IoT v 1.0.0\WebApplication1\obj\Release\netcoreapp3.1\Razor\Views\Home\Analytics.cshtml.g.cs
+D:\ASU-AGFE\CSE 593 Applied Project\Project 0\Central Server Application\BEMS-IoT v 1.0.0\WebApplication1\obj\Release\netcoreapp3.1\Razor\Views\Home\Contact.cshtml.g.cs
+D:\ASU-AGFE\CSE 593 Applied Project\Project 0\Central Server Application\BEMS-IoT v 1.0.0\WebApplication1\obj\Release\netcoreapp3.1\Razor\Views\Home\Controlling.cshtml.g.cs
+D:\ASU-AGFE\CSE 593 Applied Project\Project 0\Central Server Application\BEMS-IoT v 1.0.0\WebApplication1\obj\Release\netcoreapp3.1\Razor\Views\Home\Dashboards.cshtml.g.cs
+D:\ASU-AGFE\CSE 593 Applied Project\Project 0\Central Server Application\BEMS-IoT v 1.0.0\WebApplication1\obj\Release\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+D:\ASU-AGFE\CSE 593 Applied Project\Project 0\Central Server Application\BEMS-IoT v 1.0.0\WebApplication1\obj\Release\netcoreapp3.1\Razor\Views\Home\IndoorParam.cshtml.g.cs
+D:\ASU-AGFE\CSE 593 Applied Project\Project 0\Central Server Application\BEMS-IoT v 1.0.0\WebApplication1\obj\Release\netcoreapp3.1\Razor\Views\Home\OutdoorParam.cshtml.g.cs
+D:\ASU-AGFE\CSE 593 Applied Project\Project 0\Central Server Application\BEMS-IoT v 1.0.0\WebApplication1\obj\Release\netcoreapp3.1\Razor\Views\Home\RawData.cshtml.g.cs
+D:\ASU-AGFE\CSE 593 Applied Project\Project 0\Central Server Application\BEMS-IoT v 1.0.0\WebApplication1\obj\Release\netcoreapp3.1\Razor\Views\Home\SensingUnits.cshtml.g.cs
+D:\ASU-AGFE\CSE 593 Applied Project\Project 0\Central Server Application\BEMS-IoT v 1.0.0\WebApplication1\obj\Release\netcoreapp3.1\Razor\Views\Home\TestSuite.cshtml.g.cs
+D:\ASU-AGFE\CSE 593 Applied Project\Project 0\Central Server Application\BEMS-IoT v 1.0.0\WebApplication1\obj\Release\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+D:\ASU-AGFE\CSE 593 Applied Project\Project 0\Central Server Application\BEMS-IoT v 1.0.0\WebApplication1\obj\Release\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+D:\ASU-AGFE\CSE 593 Applied Project\Project 0\Central Server Application\BEMS-IoT v 1.0.0\WebApplication1\obj\Release\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+D:\ASU-AGFE\CSE 593 Applied Project\Project 0\Central Server Application\BEMS-IoT v 1.0.0\WebApplication1\obj\Release\netcoreapp3.1\Razor\Views\Test\AnnualClimateDataTest.cshtml.g.cs
+D:\ASU-AGFE\CSE 593 Applied Project\Project 0\Central Server Application\BEMS-IoT v 1.0.0\WebApplication1\obj\Release\netcoreapp3.1\Razor\Views\Test\AuthenticateTest.cshtml.g.cs
+D:\ASU-AGFE\CSE 593 Applied Project\Project 0\Central Server Application\BEMS-IoT v 1.0.0\WebApplication1\obj\Release\netcoreapp3.1\Razor\Views\Test\AuthorizeTest.cshtml.g.cs
+D:\ASU-AGFE\CSE 593 Applied Project\Project 0\Central Server Application\BEMS-IoT v 1.0.0\WebApplication1\obj\Release\netcoreapp3.1\Razor\Views\Test\ControlTest.cshtml.g.cs
+D:\ASU-AGFE\CSE 593 Applied Project\Project 0\Central Server Application\BEMS-IoT v 1.0.0\WebApplication1\obj\Release\netcoreapp3.1\Razor\Views\Test\DashboardsTest.cshtml.g.cs
+D:\ASU-AGFE\CSE 593 Applied Project\Project 0\Central Server Application\BEMS-IoT v 1.0.0\WebApplication1\obj\Release\netcoreapp3.1\Razor\Views\Test\DatabaseTest.cshtml.g.cs
+D:\ASU-AGFE\CSE 593 Applied Project\Project 0\Central Server Application\BEMS-IoT v 1.0.0\WebApplication1\obj\Release\netcoreapp3.1\Razor\Views\Test\EncDecTest.cshtml.g.cs
+D:\ASU-AGFE\CSE 593 Applied Project\Project 0\Central Server Application\BEMS-IoT v 1.0.0\WebApplication1\obj\Release\netcoreapp3.1\Razor\Views\Test\FindElevation.cshtml.g.cs
+D:\ASU-AGFE\CSE 593 Applied Project\Project 0\Central Server Application\BEMS-IoT v 1.0.0\WebApplication1\obj\Release\netcoreapp3.1\Razor\Views\Test\GetSolarIndexTest.cshtml.g.cs
+D:\ASU-AGFE\CSE 593 Applied Project\Project 0\Central Server Application\BEMS-IoT v 1.0.0\WebApplication1\obj\Release\netcoreapp3.1\Razor\Views\Test\RegistrationTest.cshtml.g.cs
+D:\ASU-AGFE\CSE 593 Applied Project\Project 0\Central Server Application\BEMS-IoT v 1.0.0\WebApplication1\obj\Release\netcoreapp3.1\Razor\Views\Test\WeatherSvcTest.cshtml.g.cs
+D:\ASU-AGFE\CSE 593 Applied Project\Project 0\Central Server Application\BEMS-IoT v 1.0.0\WebApplication1\obj\Release\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+D:\ASU-AGFE\CSE 593 Applied Project\Project 0\Central Server Application\BEMS-IoT v 1.0.0\WebApplication1\obj\Release\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+D:\ASU-AGFE\CSE 593 Applied Project\Project 0\Central Server Application\BEMS-IoT v 1.0.0\WebApplication1\obj\Release\netcoreapp3.1\WebApplication1.RazorTargetAssemblyInfo.cache
+D:\ASU-AGFE\CSE 593 Applied Project\Project 0\Central Server Application\BEMS-IoT v 1.0.0\WebApplication1\obj\Release\netcoreapp3.1\WebApplication1.RazorTargetAssemblyInfo.cs
+D:\ASU-AGFE\CSE 593 Applied Project\Project 0\Central Server Application\BEMS-IoT v 1.0.0\WebApplication1\obj\Release\netcoreapp3.1\WebApplication1.Views.pdb
+D:\ASU-AGFE\CSE 593 Applied Project\Project 0\Central Server Application\BEMS-IoT v 1.0.0\WebApplication1\obj\Release\netcoreapp3.1\WebApplication1.csproj.CopyComplete
+D:\ASU-AGFE\CSE 593 Applied Project\Project 0\Central Server Application\BEMS-IoT v 1.0.0\WebApplication1\obj\Release\netcoreapp3.1\WebApplication1.genruntimeconfig.cache
