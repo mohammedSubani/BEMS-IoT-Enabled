@@ -1,0 +1,46 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [ 32.0, 33.0, 0.0 ]
+  },
+  "properties": {
+    "parameter": {
+      "RH2M": {
+        "JAN": 70.29,
+        "FEB": 73.03,
+        "MAR": 76.15,
+        "APR": 80.02,
+        "MAY": 83.15,
+        "JUN": 84.4,
+        "JUL": 84.32,
+        "AUG": 82.03,
+        "SEP": 76.38,
+        "OCT": 73.13,
+        "NOV": 69.88,
+        "DEC": 70.21,
+        "ANN": 76.93
+      }
+    }
+  },
+  "header": {
+    "title": "NASA/POWER CERES/MERRA2 Native Resolution Climatology Climatologies",
+    "api": {
+      "version": "v2.2.17",
+      "name": "POWER Climatology API"
+    },
+    "fill_value": -999.0,
+    "range": "20-year Meteorological and Solar Monthly & Annual Climatologies (January 2001 - December 2020)"
+  },
+  "messages": [],
+  "parameters": {
+    "RH2M": {
+      "units": "%",
+      "longname": "Relative Humidity at 2 Meters"
+    }
+  },
+  "times": {
+    "data": 0.306,
+    "process": 0.05
+  }
+}

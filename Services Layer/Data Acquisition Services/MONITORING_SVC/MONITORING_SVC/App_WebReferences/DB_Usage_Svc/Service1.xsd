@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="utf-8"?>
+<xs:schema xmlns:tns="http://tempuri.org/" elementFormDefault="qualified" targetNamespace="http://tempuri.org/" xmlns:xs="http://www.w3.org/2001/XMLSchema">
+  <xs:element name="setNew">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element minOccurs="0" name="temp" type="xs:double" />
+        <xs:element minOccurs="0" name="hum" type="xs:double" />
+        <xs:element minOccurs="0" name="CO2" type="xs:double" />
+        <xs:element minOccurs="0" name="lux" type="xs:double" />
+        <xs:element minOccurs="0" name="db" type="xs:double" />
+        <xs:element minOccurs="0" name="motion" type="xs:double" />
+        <xs:element minOccurs="0" name="room_ref" nillable="true" type="xs:string" />
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="setNewResponse">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element minOccurs="0" name="setNewResult" type="xs:boolean" />
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="getDataRow">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element minOccurs="0" name="row" type="xs:int" />
+        <xs:element minOccurs="0" name="room_ref" nillable="true" type="xs:string" />
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="getDataRowResponse">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element minOccurs="0" name="getDataRowResult" nillable="true" type="xs:string" />
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="getDataColumn">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element minOccurs="0" name="param" nillable="true" type="xs:string" />
+        <xs:element minOccurs="0" name="room_ref" nillable="true" type="xs:string" />
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="getDataColumnResponse">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element minOccurs="0" name="getDataColumnResult" nillable="true" type="xs:string" />
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="getDataCell">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element minOccurs="0" name="row" type="xs:int" />
+        <xs:element minOccurs="0" name="param" nillable="true" type="xs:string" />
+        <xs:element minOccurs="0" name="room_ref" nillable="true" type="xs:string" />
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="getDataCellResponse">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element minOccurs="0" name="getDataCellResult" nillable="true" type="xs:string" />
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+</xs:schema>
