@@ -1,0 +1,42 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30907.101
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{E24C65DC-7377-472B-9ABA-BC803B73C61A}") = "DB_USAGE_SVC", "DB_USAGE_SVC\", "{C11DF6EE-5610-48F4-A779-6BD640CE0077}"
+	ProjectSection(WebsiteProperties) = preProject
+		TargetFrameworkMoniker = ".NETFramework,Version%3Dv4.7.2"
+		Debug.AspNetCompiler.VirtualPath = "/localhost_60362"
+		Debug.AspNetCompiler.PhysicalPath = "DB_USAGE_SVC\"
+		Debug.AspNetCompiler.TargetPath = "PrecompiledWeb\localhost_60362\"
+		Debug.AspNetCompiler.Updateable = "true"
+		Debug.AspNetCompiler.ForceOverwrite = "true"
+		Debug.AspNetCompiler.FixedNames = "false"
+		Debug.AspNetCompiler.Debug = "True"
+		Release.AspNetCompiler.VirtualPath = "/localhost_60362"
+		Release.AspNetCompiler.PhysicalPath = "DB_USAGE_SVC\"
+		Release.AspNetCompiler.TargetPath = "PrecompiledWeb\localhost_60362\"
+		Release.AspNetCompiler.Updateable = "true"
+		Release.AspNetCompiler.ForceOverwrite = "true"
+		Release.AspNetCompiler.FixedNames = "false"
+		Release.AspNetCompiler.Debug = "False"
+		VWDPort = "60362"
+		SlnRelativePath = "DB_USAGE_SVC\"
+		DefaultWebSiteLanguage = "Visual C#"
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C11DF6EE-5610-48F4-A779-6BD640CE0077}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C11DF6EE-5610-48F4-A779-6BD640CE0077}.Debug|Any CPU.Build.0 = Debug|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {DA27A94A-F384-476C-804F-631334BFD5C1}
+	EndGlobalSection
+EndGlobal
